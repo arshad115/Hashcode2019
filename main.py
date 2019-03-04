@@ -120,6 +120,13 @@ slides.extend(verticalSlides)
 # random.shuffle(items)
 
 # slidesDic = {k: v for k, v in enumerate(slides)}
+#
+# optimizedSlides = SlidesManager.getInterestingSequence(slidesDic)
+
+random.shuffle(slides)
+
+# slides.sort()
+
 
 optimizedSlides = SlidesManager.getInterestingSequenceWithList(slides)
 

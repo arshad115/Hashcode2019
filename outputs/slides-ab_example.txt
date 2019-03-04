@@ -1,9 +1,9 @@
 8
-H, H, 7, twt1 t81 tc51 tgr tzb1 t6c trn
-V, V, 8, t201 t81 tg11 tb6 t001 td7 t4q t652 V, 10, tr51 trx tlb t291 t9c1 t14 tpz1 tj62 t9s t502
-V, V, 7, t17 t1l tw52 tg6 tjb1 tmz1 t8b1 V, 14, tc61 t561 tk6 t911 tz9 t3t t1 tm9 tr5 tl51 tdd1 t76 tlf tcd
-H, H, 11, tr42 ts12 t391 t471 tzw t762 t3x tcc tqg td42 tj82
-H, H, 8, t5p1 ttc tjp tk6 t2m1 tdm1 t2x1 twg1
-H, H, 12, t822 t882 t51 t332 t7d1 tfg1 ttc1 t071 t771 tn3 tbn1 t3b1
-H, H, 12, tt tv81 t4t1 t892 t9q1 tz41 t2m1 tld1 tpb tsj1 t6r1 trn
-H, H, 10, tg02 tqp1 t351 twd1 t21 tqz1 tms t0c tl3 t8b1
+H, H, 7, t6c tgr tc51 t81 tzb1 twt1 trn
+V, V, 7, tmz1 tjb1 t17 t1l tg6 tw52 t8b1 V, 14, tc61 t76 t911 tk6 t3t tcd t1 tdd1 tl51 tm9 tr5 t561 tz9 tlf
+V, V, 8, td7 tb6 t001 t4q t652 t81 tg11 t201 V, 10, t9s t291 tlb t14 tr51 tpz1 t9c1 t502 tj62 trx
+H, H, 11, tcc td42 t391 ts12 t762 tqg tzw tr42 tj82 t3x t471
+H, H, 12, tn3 t071 tfg1 ttc1 t332 t51 t882 t7d1 tbn1 t3b1 t771 t822
+H, H, 8, tjp tdm1 tk6 twg1 t5p1 t2x1 ttc t2m1
+H, H, 12, tld1 tv81 tz41 t9q1 tt t6r1 tpb tsj1 t4t1 trn t892 t2m1
+H, H, 10, t0c tg02 t21 tl3 tqz1 tms twd1 t351 tqp1 t8b1

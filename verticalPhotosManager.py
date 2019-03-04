@@ -1,3 +1,5 @@
+import random
+
 from slide import Slide
 
 def f5(seq, idfun=None):
@@ -26,36 +28,58 @@ def biggest(a, y, z):
             Max = y
     return Max
 
+def smallest(a, y, z):
+    Min = a
+    if y < Min:
+        Min = y
+    if z < Min:
+        Min = z
+        if y < z:
+            Min = y
+    return Min
+
+def random_subset( iterator, K ):
+    result = []
+    N = 0
+
+    for item in iterator:
+        N += 1
+        if len( result ) < K:
+            result.append( item )
+        else:
+            s = int(random.random() * N)
+            if s < K:
+                result[ s ] = item
+
+    return result
+
 def score(photo1, photo2):
-  # max = list(set(photo1.getTags()) - set(photo2.getTags())) + list(set(photo2.getTags()) - set(photo1.getTags()))
-  # print((photo1.getTags()) + (photo2.getTags()))
-  max = photo1.getTags().intersection(photo2.getTags())
-  # max = (f5(photo1.getTags() + photo2.getTags()))
-  # max = list(set(photo1.getTags()) - set(photo2.getTags())) + list(set(photo2.getTags()) - set(photo1.getTags()))
   AMinusB = photo1.getTags().difference(photo2.getTags()).__len__()
   AnB = photo1.getTags().intersection(photo2.getTags()).__len__()
   APlusB = photo2.getTags().difference(photo1.getTags()).__len__()
   if photo1.getId() == photo2.getId():
       return 0;
-  max = biggest(AMinusB, AnB, APlusB)
-  return max
-  # print(max)
-  # return max
+  min = smallest(AMinusB, AnB, APlusB)
+  return min
 
 def findbest(photo1, photoArr, pic_already_selected):
-  # ids = []
   dic = {}
   for idx, photo in photoArr.items():
       if photo.getId() in pic_already_selected:
           continue
-      # ids.append(idx)
-      # dic[idx] = score(photo1, photo)
       dic[score(photo1, photo)] = idx
   return dic
 
+def getBestSlide(lastSlide, remainingSlides):
+    dic = {}
+    localSlides = random_subset(remainingSlides, 300)
+    for slide in localSlides:
+        dic[score(lastSlide, slide)] = slide
+    selectedId = max(dic.keys())
+    return dic[selectedId]
+
 # Make combinations
 def getVPairs(photoArr):
-  # dic = {}
   pic_already_selected = []
   slides =[]
   i = 0
@@ -69,29 +93,17 @@ def getVPairs(photoArr):
       if len(minPhotolist)==0:
           continue
       listScores = findbest(photo, minPhotolist, pic_already_selected);
-      # print(listScores)
       bestPicId = max(listScores, key=listScores.get)
       bestPicId = listScores[bestPicId]
-      if bestPicId == idx:
-          print('wtf')
-          continue
-      # print(bestPicId)
-      # if(listScores.__len__() == 2):
-      #     keysList = list(listScores)
-      #     if(listScores[keysList[0]] == listScores[keysList[1]]):
-      #         bestPicId = keysList[1]
       pic_already_selected.append(photo.getId())
       pic_already_selected.append(bestPicId)
-      # pic_already_selected.sort()
       try:
           del minPhotolist[photo.getId()]
           del minPhotolist[bestPicId]
       except KeyError:
            print("Key " + str(bestPicId) + " not found")
-      # dic[idx] = bestPicId
       slide = Slide(str(idx) + " " + str(bestPicId), 'V', list([photoArr[idx], photoArr[bestPicId]]))
       slides.append(slide)
       p = 100 * (int(i) / photoArr.__len__())
       print("Done " + str(idx) + " Percent: " + str(format(p,'.2f')) + "%")
-  # print(dic)
   return slides
