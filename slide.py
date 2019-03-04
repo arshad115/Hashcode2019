@@ -8,7 +8,7 @@ class Slide:
         self.photos = photos
         self.tagsLen = tagsLen
     def __str__(self):
-        return self.orientation + ", " + ' '.join(map(str, self.photos))
+        return self.orientation + ", " + ' '.join(map(str, self.photos)) + ", " + self.tagsLen
     def getTags(self):
         if(self.orientation == 'H'):
             p = self.photos[0]
@@ -18,7 +18,7 @@ class Slide:
             p2 = self.photos[1].getTags()
             commonTags = p1.union(p2)
             return commonTags
-    def getTagssLen(self):
+    def getTagsLen(self):
         return self.tagsLen
     def getPhotoIds(self):
         return self.ids

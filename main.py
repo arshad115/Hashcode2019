@@ -17,7 +17,7 @@ fileC = "c_memorable_moments";
 fileD = "d_pet_pictures";
 fileE = "e_shiny_selfies";
 
-file = fileD;
+file = fileC;
 f = open("inputs/" + file + ".txt", "r")
 
 N = int(f.readline())
@@ -37,7 +37,7 @@ for i in range(0,N):
 
   if(orientation == 'H'):
       horizontalPhotos[i] = Photo(i, orientation, nTags, tags)
-      slide = Slide(str(i), orientation, list([horizontalPhotos[i]]))
+      slide = Slide(str(i), orientation, list([horizontalPhotos[i]]), nTags)
       slides.append(slide)
   else:
       verticalPhotos[i] = Photo(i, orientation, nTags, tags)
@@ -50,11 +50,13 @@ print("Vertical photos optimized, now adding them to slides")
 verticalSlides = verticalPhotosManager.getVPairs(verticalPhotos)
 slides.extend(verticalSlides)
 
-random.shuffle(slides)
+# random.shuffle(slides)
+
+sortedSlides = sorted(slides, key=lambda slide: slide.tagsLen)
 
 # slides.sort()
 
-optimizedSlides = SlidesManager.getInterestingSequenceWithList(slides)
+optimizedSlides = SlidesManager.getInterestingSequenceWithList(sortedSlides)
 
 slideshow = SlideShow(optimizedSlides)
 slideshow.saveOutput(file)

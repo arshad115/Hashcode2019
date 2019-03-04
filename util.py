@@ -3,11 +3,11 @@ from itertools import islice
 
 # For C:
 # samplePortion = 1000
-# VerticalSamplePortion = 5
+# VerticalSamplePortion = 3
 
 class Parameters:
-    samplePortion = 100
-    VerticalSamplePortion = 50
+    samplePortion = 1000
+    VerticalSamplePortion = 3
 
 def f5(seq, idfun=None):
    # order preserving

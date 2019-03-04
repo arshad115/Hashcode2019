@@ -8,14 +8,15 @@ def getBestPair(lastPhoto, remainingPhotos):
         dic[scorePhotos(lastPhoto, photo)] = photo
     selectedId = max(dic.keys())
     bestPhoto = dic[selectedId]
-    photo = Slide(str(lastPhoto.getId()) + " " + str(bestPhoto.getId()), 'V', list([lastPhoto, bestPhoto]))
-    return photo
+    slide = Slide(str(lastPhoto.getId()) + " " + str(bestPhoto.getId()), 'V', list([lastPhoto, bestPhoto]), lastPhoto.getTagsLen() + bestPhoto.getTagsLen())
+    return slide
 
 def getVPairs(photoArr):
   slides =[]
   i = 1
   remainingPhotos = list(photoArr.copy().values())
-  random.shuffle(remainingPhotos)
+  # random.shuffle(remainingPhotos)
+  remainingPhotos = sorted(remainingPhotos, key=lambda photo: photo.nTags)
   selectedId = 0
   print("Total " + str(remainingPhotos.__len__()) + " vertical photos")
   while remainingPhotos:
