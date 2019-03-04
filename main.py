@@ -130,21 +130,6 @@ random.shuffle(slides)
 
 optimizedSlides = SlidesManager.getInterestingSequenceWithList(slides)
 
-# optimizedSlidesChunks = split_list_equally(slides, chunksNProcesses)
-#
-# optimizedSlides = []
-#
-# # six threads
-# # a thread pool that implements the process pool API.
-# pool = multiprocessing.pool.ThreadPool(processes=chunksNProcesses)
-# return_list = pool.map(SlidesManager.getInterestingSequenceWithList, optimizedSlidesChunks, chunksize=1)
-# pool.close()
-#
-# # print(return_list)
-# for data in return_list:
-#     print(data)
-#     optimizedSlides.extend(data)
-
 
 # slide = Slide('V', list([verticalPhotos[1], verticalPhotos[2]]))
 # print(slides)

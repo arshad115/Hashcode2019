@@ -67,7 +67,7 @@ def random_subset( iterator, K ):
 
 def getBestSlide(lastSlide, remainingSlides):
     dic = {}
-    localSlides = random_subset(remainingSlides, 300)
+    localSlides = (remainingSlides)
     for slide in localSlides:
         dic[score(lastSlide, slide)] = slide
     selectedId = max(dic.keys())
