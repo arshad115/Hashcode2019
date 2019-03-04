@@ -1,9 +1,9 @@
 8
-H, H, 7, t6c tgr tc51 t81 tzb1 twt1 trn
-V, V, 7, tmz1 tjb1 t17 t1l tg6 tw52 t8b1 V, 14, tc61 t76 t911 tk6 t3t tcd t1 tdd1 tl51 tm9 tr5 t561 tz9 tlf
-V, V, 8, td7 tb6 t001 t4q t652 t81 tg11 t201 V, 10, t9s t291 tlb t14 tr51 tpz1 t9c1 t502 tj62 trx
-H, H, 11, tcc td42 t391 ts12 t762 tqg tzw tr42 tj82 t3x t471
-H, H, 12, tn3 t071 tfg1 ttc1 t332 t51 t882 t7d1 tbn1 t3b1 t771 t822
-H, H, 8, tjp tdm1 tk6 twg1 t5p1 t2x1 ttc t2m1
-H, H, 12, tld1 tv81 tz41 t9q1 tt t6r1 tpb tsj1 t4t1 trn t892 t2m1
-H, H, 10, t0c tg02 t21 tl3 tqz1 tms twd1 t351 tqp1 t8b1
+H, H, 10, t8b1 tg02 t351 tms tqz1 twd1 tqp1 t0c t21 tl3
+V, V, 7, tmz1 tw52 t8b1 tg6 tjb1 t1l t17 V, 14, tk6 tz9 t1 t76 tcd tlf tr5 tc61 t561 tm9 t911 tl51 t3t tdd1
+H, H, 8, tk6 tdm1 tjp t2m1 t5p1 t2x1 ttc twg1
+H, H, 12, t4t1 tpb t892 tz41 t2m1 tld1 tsj1 trn t9q1 tv81 t6r1 tt
+H, H, 7, tzb1 twt1 trn tc51 t6c t81 tgr
+V, V, 8, t652 td7 t001 t4q t201 tb6 t81 tg11 V, 10, t291 t9s tpz1 t14 tr51 t9c1 t502 tj62 trx tlb
+H, H, 12, t882 t332 t3b1 ttc1 t822 tn3 t51 t7d1 tbn1 tfg1 t071 t771
+H, H, 11, tqg t762 tcc t3x tj82 t471 ts12 tr42 t391 tzw td42
