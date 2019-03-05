@@ -1,9 +1,12 @@
+from util import Parameters
+
+
 class SlideShow:
     def __init__(self, slides):
         self.slides = slides
     def saveOutput(self, filename):
         print("Starting slideshow file output: " + filename)
-        file = open("outputs/output-" + filename + ".txt", "w")
+        file = open("outputs/output-" + filename + "_" + str(Parameters.samplePortion) + "_" + str(Parameters.VerticalSamplePortion) +".txt", "w")
         slidesFile = open("outputs/slides-" + filename + ".txt", "w")
         print("Total slides: " + str(self.slides.__len__()))
 

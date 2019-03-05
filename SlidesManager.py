@@ -2,11 +2,21 @@ from util import *
 
 def getBestSlide(lastSlide, remainingSlides):
     dic = {}
-    localSlides = random_subset(remainingSlides, Parameters.samplePortion)
+    localSlides = (remainingSlides[ :Parameters.samplePortion])
     for slide in localSlides:
         dic[scoreSlides(lastSlide, slide)] = slide
     selectedId = max(dic.keys())
     return dic[selectedId]
+
+def getBestSlideWithChild(lastSlide, remainingSlides):
+    bestSlide = getBestSlide(lastSlide, remainingSlides)
+    localSlides = (remainingSlides[ :Parameters.ChildSamplePortion])
+    bestChild = getBestSlide(bestSlide, localSlides)
+
+    # scoreOfNextSlide = scoreSlides(lastSlide, bestSlide)
+    # scoreOfChildSlide = scoreSlides(bestChild, bestSlide)
+
+    return bestSlide, bestChild
 
 def getInterestingSequenceWithList(slidesArr):
   slides =[]

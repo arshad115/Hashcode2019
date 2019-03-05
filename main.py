@@ -17,7 +17,7 @@ fileC = "c_memorable_moments";
 fileD = "d_pet_pictures";
 fileE = "e_shiny_selfies";
 
-file = fileC;
+file = fileD;
 f = open("inputs/" + file + ".txt", "r")
 
 N = int(f.readline())

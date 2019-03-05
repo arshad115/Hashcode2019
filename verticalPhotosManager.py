@@ -3,10 +3,10 @@ from util import *
 
 def getBestPair(lastPhoto, remainingPhotos):
     dic = {}
-    localPhotos = random_subset(remainingPhotos, Parameters.VerticalSamplePortion)
+    localPhotos = (remainingPhotos[ : Parameters.VerticalSamplePortion])
     for photo in localPhotos:
         dic[scorePhotos(lastPhoto, photo)] = photo
-    selectedId = max(dic.keys())
+    selectedId = min(dic.keys())
     bestPhoto = dic[selectedId]
     slide = Slide(str(lastPhoto.getId()) + " " + str(bestPhoto.getId()), 'V', list([lastPhoto, bestPhoto]), lastPhoto.getTagsLen() + bestPhoto.getTagsLen())
     return slide
@@ -24,8 +24,11 @@ def getVPairs(photoArr):
       lastPhoto = remainingPhotos[selectedId]
       slide = getBestPair(lastPhoto, remainingPhotos);
       slides.append(slide)
-      remainingPhotos.remove(slide.getPhotos()[0])
-      remainingPhotos.remove(slide.getPhotos()[1])
+      try:
+          remainingPhotos.remove(slide.getPhotos()[0])
+          remainingPhotos.remove(slide.getPhotos()[1])
+      except:
+          print("error with v slide: "+ str(i))
 
       p = 100 * int(i)/(photoArr.__len__())
       i += 1

@@ -1,751 +1,751 @@
 750
-H, H, 10, t8b1 tqz1 tg02 t0c tl3 tqp1 t351 tms twd1 t21, 10
-V, V, 13, t6x t861 t34 tpd t1q tqv1 tc3 tnc tft1 tlm t21 t2t1 t0t1 V, 13, t7q1 tt9 tpd tmm1 tnf tk82 t0s tqp1 t991 tc6 td5 tp7 t7p1, 1313
-V, V, 13, t34 ttb1 tk22 thv tmf tsb2 trg1 tf12 t4t1 t1 tgc tr5 tbd1 V, 9, t861 t0t1 tt21 tpw tms1 t4t1 ttc t55 tnx1, 139
-V, V, 10, tlc1 ttb1 tr2 t7d tj91 t8h tv81 t711 t0t1 t8l V, 8, t1g t3k t03 tmf t351 t711 txs tkc1, 108
-H, H, 9, tmf tp12 tpk1 t351 t3j1 tww tjj1 tl31 t8l, 9
-V, V, 11, tpn1 tsr tnb1 tmf t3p1 t712 tww th8 tgc tdv tkc1 V, 9, tdn1 tqs t7d1 tkf td7 tgj tb9 t7p t8l, 119
-V, V, 14, tv7 tgb2 tkr1 tdn1 thg1 tk9 tm42 tr51 tk51 t1s t431 thj1 tgc t951 V, 14, t4x t7q1 trr tqh t77 t212 t7t1 tmf tg7 t6w t361 th8 t3q tm92, 1414
-V, V, 11, trr t562 tcc2 tz82 tht1 t49 tl32 t6z tgp1 t33 tpx V, 13, t4x t7q1 tqh t9k tp32 trl t881 tb7 t3p1 t1l1 tvs1 tj82 t462, 1113
-H, H, 7, tqs t881 t2m tv1 tgp1 tj82 t531, 7
-V, V, 13, t4x t7k1 t6f1 t3m t0c t13 tjb1 t1l1 th3 t412 t5l t4r tgp1 V, 9, tgb2 tq01 tkj tjb1 tc12 t1w txf1 t2m tq7, 139
-V, V, 11, tcc1 tq01 t692 tl42 tn12 tg t4g1 tq4 t412 t5b t291 V, 13, t861 tm62 t7k1 tr51 t13 t4d2 tw t242 t7v tld1 tr5 tf02 tx71, 1113
-V, V, 10, t9s tr51 t14 trx tj62 t291 tlb t502 t9c1 tpz1 V, 7, tq01 tg71 tbm tjb1 tj41 t7v tjw1, 107
-V, V, 10, t8b1 t1v1 t7d1 tp82 t381 tmj1 t19 t5v1 t412 tjs1 V, 7, tg71 t471 t272 td41 tj41 t7v t4z1, 107
-V, V, 12, t8b1 t232 t1q t4d1 tr9 tr81 t19 tdd1 tq52 t3p ttj t38 V, 14, tkl t161 tcf thb1 tsv1 tzr t7n1 tf5 t1n t412 tb62 tvh t6r1 tpg1, 1214
-V, V, 13, thc tcc t79 thb1 ts4 t7n1 t19 tlr1 tlk th8 tf42 tn31 tpb2 V, 6, tdb2 tnl tbd t8h1 tlk t33, 136
-V, V, 13, t4x1 th11 tnl tvk t672 t4d1 t332 tn12 t8h1 t432 tr42 t33 t0l1 V, 9, t9p1 tvk t3c1 t141 t4n1 t3w tx41 t0k1 tvg, 139
-H, H, 11, t4x1 tn12 t4n1 t3w tz32 t2m tjs1 t5p1 t001 t5d2 tf8, 11
-H, H, 14, t622 t0x t6r tc51 tz82 t001 tgt1 tnv tn12 t4n1 tgj t1 ttf tpb2, 14
-V, V, 12, tcw1 trr t9k t39 tdg thv tb02 tr82 tdd1 tdm1 t001 ttw1 V, 14, t1j1 t4x tkr1 tz8 tw52 tgt1 tn12 t8h1 t4t1 tz02 t5w1 ttb2 t6t tvc1, 1214
-H, H, 8, tcw1 td82 tw52 ts51 tz61 tr7 td22 ttw1, 8
-V, V, 5, t5f1 tz61 t472 t361 t511 V, 7, t8b1 t17 tw52 tmz1 tjb1 tg6 t1l, 57
-H, H, 8, t8b1 tt txh tp32 t5f tw52 tqb tr5, 8
-H, H, 13, t8b1 tqz1 thg1 tw52 tcn1 t1w tsh1 t341 th8 tp8 tdv tz01 t0m1, 13
-H, H, 9, tfj t3t tqz1 t9k t3m tc7 tz72 tdv tzm1, 9
-V, V, 13, tqz1 t1x1 t4d1 tln1 t81 tx1 tb5 tw62 t6t1 t991 tk31 t2m1 tpn V, 8, t3t t002 tgt1 tbm tqx thn1 t001 tfr1, 138
-V, V, 14, t8z tt82 tl6 tm1 t09 tgt1 tbv tn12 t52 tx41 t181 tzn t2m1 tx71 V, 14, th31 tqz1 tdb2 t8l1 t011 tz91 ttb1 tm42 thh1 tpx1 t991 tqm tdc2 tld1, 1414
-H, H, 10, tl6 tqz1 t342 t06 t4t1 tw82 tzn td62 tld1 tq81, 10
-H, H, 9, t8j t8l1 tz91 tlz1 tzn tkw1 trk tj7 tq81, 9
-H, H, 13, t8j t7d1 t8x t8w ts51 tr82 tzn t4n1 tj41 t481 trk tlm tgh1, 13
-V, V, 10, tv9 tvb tn81 tmf tzn ts82 tgk ttc1 t7v tvc1 V, 13, thc tsw t161 tpd t09 t141 t8h1 tms1 tlm tj41 tzl t2p t7v, 1013
-V, V, 11, ttm t6c tbq1 tl72 ttb1 tn12 t2t t9q1 tlm trt tpg1 V, 12, tsh t7q1 tsw t161 t8t1 t452 t82 t862 trb2 tfg1 tv1 tgn, 1112
-V, V, 13, tft t452 t3k t5r1 t632 tzc2 tn12 tmj1 th1 tf42 tdn tf22 t391 V, 14, t6x tsw t161 t342 t532 t8w t19 tph1 tq91 t242 t4t1 t3r1 tv1 tx71, 1314
-V, V, 5, t4x t342 t452 tqv1 t3r1 V, 9, t6x tcc tk22 t7j1 tb02 t802 tw11 tjr1 tjj1, 59
-H, H, 9, t861 t141 tk22 t7v1 tvz tg7 t8j1 tqv1 twz, 9
-V, V, 11, t861 tdb2 thn tf21 tfq t7n1 tqv twz t6p t702 t86 V, 12, tqh t4s t6c tf21 t5p t8n tzx thc1 t33 tr5 ttw1 tj4, 1112
-H, H, 12, th11 tdb2 thn t8t1 tcc t471 td02 tzx t1 tm02 trj tc21, 12
-H, H, 14, tz21 tdb2 tcc t2s1 t5m1 t4w td41 t4t1 tm02 tmz thc1 tgr1 tn7 tmd1, 14
-H, H, 13, t4c2 t751 tz91 tcc t14 tvx1 t6j1 t4w t4m1 ts31 tc6 tld1 t511, 13
-H, H, 7, tz82 t471 tsd t6j1 twd1 t511 tqd, 7
-V, V, 13, tp tvk t9d1 tx01 t4c1 t311 tzr tf01 td62 tvh twd1 thc1 tl7 V, 7, t471 tbv1 tlq1 tzw tw62 tgb tlc2, 137
-V, V, 11, t651 tzg t962 tg7 ts4 tk6 td62 thc1 t5w t55 ttw1 V, 9, t261 ttw1 tqz1 tck trq tv61 t242 tvh tlg1, 119
-H, H, 14, tm9 th11 ttr tlb1 tk6 tsj1 tcv1 t2x1 tx1 t8w tl72 td62 trt ttw1, 14
-H, H, 14, th11 tlb1 th82 tf21 tsl t2z t8w tr41 tpb tmc tj41 t1z1 tmj t4r, 14
-H, H, 9, tf21 tg71 t4d1 t8w t87 t881 txf1 txk1 tqn, 9
-V, V, 13, t6x tl6 thn t4d1 t972 tv62 t0c2 tvm t361 tsq tdd1 ttc1 tgp1 V, 9, tf21 tn81 t512 tc82 txq1 tr1 t5v1 tj72 t0f1, 139
-V, V, 14, tt61 tn81 t222 ts21 tts1 t82 t462 ttg1 tlm t4r tg12 tcg tzm1 t0f1 V, 8, tcx tzk1 tb61 t8d1 t5v1 t462 t0t1 tqq, 148
-V, V, 10, thk1 tm42 t74 t5v1 tx41 tdd1 tlm th8 tqq tpg1 V, 7, t7c2 tzk1 t882 tr82 tpc tf01 tkf1, 107
-V, V, 7, tz91 tzk1 tb1 t772 tdh1 tn71 tz9 V, 7, t4x1 t0j1 ttp tl3 t882 tdp1 tlm, 77
-V, V, 12, t1g tlg1 tnf tdp1 tv02 t192 tlr1 t3q ts61 thz tpb2 t8l V, 13, t0j1 ts92 tlw1 tbd t141 t0h1 t7p1 t2t tpc tfc2 ttk1 tn71 t86, 1213
-H, H, 14, t0j1 tp62 txg tzn1 tnf tjb1 tj2 tqx t33 t8l tgn tld1 t8 t86, 14
-V, V, 7, t0j1 thc2 tpb ttk1 t9c1 th61 t291 V, 9, t4x1 tsq1 tqx t86 t3g tf12 t462 trt t2m1, 79
-H, H, 9, trr t9k tsq1 tpb tww tlm trt t38 tsw1, 9
-V, V, 14, tn52 tt82 t9k tdl1 tbh ttb1 t9d1 t532 t7d ts01 tzr thp1 thm t9l1 V, 14, tp9 thc tv9 t4p ttb1 td7 t19 t1l1 th52 tww t4 t4r tzb tt6, 1414
-V, V, 13, tpn1 tm9 t1q1 t8l1 t9k tz91 tjb1 ts5 t571 t3w t6m1 tww t5w1 V, 7, t2x1 t692 tr4 t6d2 tw51 t19 tgc, 137
-V, V, 12, tm9 tz2 tqp1 t891 tlm1 t6d2 tvs1 tpj ttb2 t462 tr5 t0r1 V, 8, t9k tkv1 tbv1 t6z1 thc1 tl31 t062 tpg1, 128
-V, V, 14, tm9 tmg t1v1 t13 t61 tmf t4d2 t2t tw21 t3r1 t9n1 tgn tjs1 tpg1 V, 7, tbl td t6d2 th1 tdn tgg t8l, 147
-H, H, 12, tcw1 thc tgl txp tpc1 tvz1 tf2 t4d2 tg62 t991 t8l tpg1, 12
-H, H, 14, ttm thc tvb tvk t5p1 tdz tz92 td51 tvb1 tdd tg62 trk thc2 tpc1, 14
-V, V, 7, thc tpc1 tw21 tsn tdv t4c tx71 V, 8, tv9 trr tkr1 t3d1 tsv t481 t812 tmb2, 78
-H, H, 8, t8l1 tpc1 tz21 tdg tzq1 tfb1 tb72 tx71, 8
-V, V, 6, tq92 tfl t1n1 t0f1 txh1 tn4 V, 9, t8l1 t3m tp31 tt8 txd1 t181 tn3 t86 tx71, 69
-V, V, 7, t34 t8l1 t471 t66 t072 t181 t7c1 V, 8, tv7 tb5 trc1 t831 tj91 t351 tb11 t3q, 78
-H, H, 9, tjc t452 tb5 t6d1 tj91 t361 tf12 tk7 tjw1, 9
-V, V, 14, tqz1 tcv1 t452 tqc t1w tk82 tj91 tdd tv t65 tsx tz9 t822 t4v V, 5, tm9 t3k t7r1 tz02 tbn1, 145
-H, H, 8, t602 tqz1 tn81 td82 t3k trs1 tz9 trr1, 8
-V, V, 12, t622 tqz1 t3x1 th42 tl42 tdz1 t7t twb1 t3j1 tz9 tcl trt V, 14, tvb tt td t13 t512 t291 tr1 tgp1 twj1 t991 thh1 twx tbd1 tqq, 1214
-H, H, 13, tl3 th42 tqp1 tt4 tdz1 t482 t9q1 tf42 tlb2 trt t441 t291 tj51, 13
-H, H, 9, t441 t002 tz22 t0b1 tt4 tmx t65 ttd twh, 9
-H, H, 5, tgb2 tz22 t2 t0b1 t0t1, 5
-V, V, 7, tjc tg72 tz22 tvk t342 tts1 tg4 V, 9, t4g tq01 t0c tv82 td7 tzr t082 t0t1 tf9, 79
-V, V, 11, t6x tk52 t8l1 tvk t342 tts1 tdp1 tcz1 t332 t8h1 tr1 V, 12, t2v1 tt22 tts t1s tt11 t4w th1 t5 tn11 tlb2 tjg tl12, 1112
-V, V, 10, t8l1 t01 t512 tr51 tb02 tr1 tpb tt4 tz62 t9v1 V, 11, t4x tsn1 t2v tm1 tz91 tp52 t1s t1w t2t tzm1 ttw1, 1011
-V, V, 13, t5k t861 tvg1 tsp tv2 t1s tjb1 tb02 tn3 t23 tgp1 t1t1 tv1 V, 7, t232 tdg tpb tt4 txv t44 t691, 137
-V, V, 9, t232 t7c2 t882 tr1 tq91 tl trk tqw1 t462 V, 9, t8b1 thk tb5 t1s trg1 tv1 t0w1 t9d tmn, 99
-V, V, 6, ttb tqz1 t1s t352 tq62 tj12 V, 7, tb5 tg7 t3w tz5 t991 t4r t8l, 67
-V, V, 8, t2 tz91 tzw tcp1 tn91 t3w td41 tfv1 V, 9, tqz1 trx1 tdn1 tq3 t76 td tvd1 tzn t29, 89
-H, H, 13, tl62 th11 tqz1 tm4 t2 tkf t6z1 tt11 tbf1 t3w t31 t63 tqq, 13
-H, H, 9, t2 tm42 tkf tht1 tn71 t771 trk tlm t4k, 9
-V, V, 10, tlc1 t8b1 t6c t2 tm42 tz61 t5r tlm tx12 tfq1 V, 11, tl6 tck t9m t272 t82 tqp tml1 tpc t181 ttb2 tvc1, 1011
-H, H, 7, tm42 tz61 tbs1 tk71 tpc tww tpq1, 7
-H, H, 7, txg tpc tg6 tww tms td62 thc1, 7
-V, V, 12, tm9 tf61 txg tcv1 t81 t5z tkv tz61 tww twd1 tfb1 tjj1 V, 7, twn tv9 tz91 tkj1 tfc2 tr42 t1x, 127
-H, H, 9, tv7 tgp tv9 t332 tz61 t7n1 t131 t7w twg1, 9
-V, V, 14, tcw1 tz82 t3k1 tbm tkf tv31 t0s t3p1 tgj tfc2 tx41 t4r tpr1 tt6 V, 7, ttq1 tb41 t7n1 tfc2 trk tx12 twg1, 147
-V, V, 14, tt72 t541 t4c2 tzr1 tbm tb01 tzw t7r thr tn91 t5j tl52 ttp1 tvc1 V, 9, tm1 t081 tzw t221 tkf tx41 twz tb32 tmd, 149
-V, V, 12, t762 txg t2 t6r1 t9t t5b thr tx41 tjq1 t5w1 tj82 t3b1 V, 9, tqb2 trp1 t2t tqf txf1 twz t0f1 ttc2 tn72, 129
-V, V, 13, tmg1 tlg1 t532 t6r1 tgm1 tzm tr81 tqf t321 t351 t3x tdp tvd V, 9, tqb2 tdn1 t762 t002 tdg t7b2 t012 tvs1 t0t1, 139
-V, V, 13, trr tz22 t3c1 tdg tht1 t7d t1l1 ttk1 tq12 t8g1 tk31 t38 tpc1 V, 9, tzj tf21 trv tp2 tht1 t351 tcl t0t1 tr02, 139
-V, V, 12, tn51 tl6 tzg t212 tqc tv32 t4g1 twz ttd tv81 t3p thb2 V, 9, t371 tz22 t3c1 td t7d t88 ttk1 twz t4h1, 129
-V, V, 14, ttm tt82 t6c thn tl72 t4d1 t6n1 t922 tkb1 t4g1 t74 tg6 twp1 tjg1 V, 9, tzg tcc t532 tv32 tv02 ttd t711 t6n tt42, 149
-V, V, 14, tsj1 tsr1 ths1 ttb1 t911 t802 t3b ttd ttl tw01 t2g t5c2 tq81 t711 V, 14, t9s tql1 t532 ttb1 tmz1 tdg1 tn71 tsb t5h t3q tl72 tn4 tjj1 tvc1, 1414
-V, V, 14, t1v1 tz22 tf21 t39 t3c1 t9d1 tc72 thr tn71 tl72 tj82 tgn tf71 tn4 V, 8, t6x t7j tzw tk22 trz1 thh1 tgn tdp, 148
-V, V, 10, t7n t9p1 t002 t39 tm42 tmj1 td41 tf3 t33 tn4 V, 14, t6x tm11 t78 t4t t9d1 t221 t4n1 tdg1 tdm t74 tg62 tv3 thp1 t97, 1014
-V, V, 14, t622 tl51 tp41 trw1 tzw t7d t1t tl02 t6h t3b t5w1 t3l1 t3x t001 V, 7, t002 txl t74 td41 t462 ttc t7p1, 147
-V, V, 12, t6m tnl1 t4d1 tgt1 t911 tqv tcd1 t5w1 tld1 t7b ttf tpb2 V, 12, t8b1 thc tkr1 tz61 t911 t7d t421 td41 tph th41 tbj tfr1, 1212
-H, H, 13, thc t6m tcf tc51 t471 t692 tkf thr tsh1 t311 td41 tnt tst, 13
-V, V, 10, tcf tn1 t2s1 t8h1 tvr th8 tnd1 tpb2 t291 tv V, 9, tbg1 tc51 trv tkf tt12 tft1 tc11 tjs1 t8m1, 109
-H, H, 8, tcf tvk txp1 tj41 tq91 tdd1 tz42 tv, 8
-H, H, 7, tv9 tsw t891 tq91 tsg tq81 tz42, 7
-H, H, 5, tsw tr82 tq91 tzm1 tvc1, 5
-V, V, 8, thl1 t42 tgz thv tq91 tp21 trt tqz V, 9, t9w1 tp41 t8t1 td t151 tr82 tzq tss1 t86, 89
-H, H, 9, t8 t49 tss1 t181 t242 tgc t3d trt t9g, 9
-H, H, 9, t812 t7s tqv tss1 t88 tgc t4r t752 tbj, 9
-V, V, 6, t6x thg1 tl3 t88 tgc ttr1 V, 8, tz82 tg71 t751 tj11 tr42 t412 t032 t86, 68
-H, H, 7, tfj tqb2 thg1 tls1 tzc2 tgc t0t1, 7
-V, V, 14, tft tv9 t7k1 thk1 t3f tcv1 t881 tv02 tqv tq91 tdd1 t2w t0t1 txb V, 7, tqb2 t161 tbv tr82 tq91 t1k1 t0l1, 147
-V, V, 9, tsj tdq1 t161 tqs t9b1 td7 tdd1 tnj t0t1 V, 9, tt tj9 t13 tb5 t1p1 tvl tbb1 t3r1 tt21, 99
-H, H, 7, ttm t901 tt tzb1 thc1 thb1 t0t1, 7
-H, H, 9, tt t002 tzh t471 t692 tbm t12 t75 thc1, 9
-V, V, 10, t5g1 ttw1 tdq1 tl8 twf1 t442 t75 tp01 tpm t032 V, 14, tkm1 tfn1 tbm thc1 tv32 t8m t88 t8c2 t3g t601 ttz1 t0t1 ttw1 trv1, 1014
-H, H, 9, tsj1 t5s1 tbv tvz ts6 t3w t88 t3g ts31, 9
-V, V, 14, tm9 t002 tbh1 t241 tbv th42 tbc2 tn91 tth t3g t3r1 tc21 t3b1 t001 V, 7, t7q1 tq01 t5 t7g tr02 tn4 tpc1, 147
-V, V, 14, t921 t7q1 t76 tdn1 t011 th62 tgx1 t2q t771 t3r1 tj82 tj32 t9f1 tj V, 8, txg1 tqh1 tbv t7j1 tdz1 tms tqq tqr1, 148
-V, V, 11, tn51 t76 t161 tbv1 tht1 tr6 ttg tsq t3r1 tdn tqq V, 7, tcl1 tsp1 ts21 t0s t84 tq62 t6x1, 117
-V, V, 5, t7g1 t692 tzt1 tz42 tqq V, 9, tw8 tn51 t4d2 t2s1 t4r tk31 tld1 t94 tf2, 59
-H, H, 6, tzt1 tz81 tsx tld1 t5c2 t86, 6
-H, H, 13, tpg1 t8l1 t041 t221 tlz1 tdg1 t4g1 t8n tz81 t9s1 t67 tld1 t0l1, 13
-V, V, 9, tt9 tq01 tm6 t1w td41 tbm1 t982 ttz1 tpg1 V, 9, tw81 tlz1 tqv tw32 tc6 tst ttb2 thb1 tvn1, 99
-H, H, 13, t9j1 ttx t4n1 t1w tbb1 tpc td41 tw tc6 tn3 tk62 t5q tpg1, 13
-V, V, 12, t7q1 tqb2 tvk tz21 tpg tn3 t6h1 tn71 td41 tw32 tjr1 t391 V, 9, t4x t672 tjl tbz1 t381 t221 t9j1 tsc2 tlm, 129
-V, V, 13, t4x tqb2 tt9 t76 t7d1 t3m tjl t882 tnd tb7 tf12 tg62 t41 V, 5, tx51 t2t tvp1 tk61 thc1, 135
-V, V, 11, t9k t7d1 tn81 tjl tx51 th6 tww tfb1 tcl t63 twg1 V, 11, twp thk1 tzg t762 tg71 trc1 t242 td71 td62 tc22 tpb2, 1111
-V, V, 13, tnl tt21 tdp1 tb7 tr82 tv32 tgk1 tlg t1m1 tcl tf71 t2n1 t0l1 V, 14, tqb2 t2v tcf t762 tq01 t0b1 trc1 thz tt4 t19 th8 tld1 t7w tt6, 1314
-V, V, 12, t25 tcf tbc1 tcc t3b1 tzn tv41 th8 t9s1 tv81 tsg tf71 V, 9, tcb tbm t0c thr tr61 tf01 tg62 tb62 tt21, 129
-H, H, 9, t34 tm81 tbm tv81 tg91 tcj t5m ttw tq52, 9
-H, H, 7, tm81 t91 t0g1 twz tq52 t4r twx1, 7
-V, V, 12, tqj t7q1 tlh1 t0g1 tbv1 tbp1 tz61 t9z1 tjb1 td7 twz tl72 V, 12, ts32 t9z tjv tpd t2 tn22 tqf tmc twb1 t3q tdb tjw1, 1212
-V, V, 10, thg1 td51 tx2 t6z1 tgm t9d1 t7n1 t501 tt21 t7p1 V, 13, tt9 tpd tr21 tdb2 tm42 tz61 t9x t242 t1 t3q tk61 tld1 tpz1, 1013
-V, V, 12, tfp1 tzg td82 t381 t7d t74 t031 tqc2 t412 tp21 t93 tf22 V, 13, tmr tjc tz91 t0c t9d1 t9x t3m1 tg92 t3q t2m tg82 tjr1 tv1, 1213
-V, V, 10, t4x1 tzg t8t1 tjx1 tmr1 tf01 t2m t462 t7p t0t1 V, 12, t861 tgb2 t532 tx01 t7d tt4 t031 t5v1 t292 t191 tdd1 t462, 1012
-H, H, 11, t4x1 tzg tz22 td32 t2d1 tgx tcn1 tt4 trk tph tbn1, 11
-H, H, 14, tm9 t6c t6r tzg tx2 tkg1 t4v1 tk31 tbn1 t5w1 trn tr02 tdp tf2, 14
-H, H, 9, tt82 t76 tz31 tkg1 t7n1 t8n tb62 twn1 tf2, 9
-H, H, 7, t76 t9p t8h1 t8n tcj1 tp21 tg12, 7
-V, V, 5, t76 t181 t6z t9p tzc1 V, 7, tj8 tm01 tdb2 tmx tdd1 t1 trw, 57
-V, V, 10, tl51 t78 t0c t3r1 t881 t4d2 t3q tmj tvh tv52 V, 14, tm9 tl51 t3t t76 tz9 t911 tcd t561 t1 tk6 tdd1 tr5 tc61 tlf, 1014
-V, V, 10, tk52 tg71 tcv1 tdg t5v1 t561 td62 tr5 tm52 tf2 V, 6, t0j1 tz9 t4d2 tr1 thp1 td62, 106
-V, V, 12, t942 t1v1 tds1 t011 tm42 tq72 t071 t1s tc5 tr1 t5v1 tc21 V, 8, t512 thr t4d2 tr1 tzl t2w tc21 tg2, 128
-H, H, 9, tb21 t1v1 tbq1 t6d2 t671 tgp1 tc21 tg2 tdp, 9
-H, H, 9, t34 tg72 t0s t561 tm02 tgp1 tc21 tv12 tbd1, 9
-H, H, 14, t34 tn51 twb2 tg52 t3c1 t13 t0h tfc2 t2m tn61 t3q tzn tc21 t2m1, 14
-V, V, 12, tfj tn51 tsw tdl1 t2 t9b t0m tpb t33 tc21 tn31 t8t V, 13, thk1 tjc t2 thp1 t882 tn12 tr42 tzn tdm1 twd1 t462 tfr1 t032, 1213
-H, H, 8, tjc t5w1 txm tn12 tlm tl61 tzn ttz1, 8
-V, V, 11, twc2 t3d1 tv61 tt51 t3b t721 t711 tcl t001 t6t t0l1 V, 12, t4x1 tqh tp72 txm tck1 tfx1 t8t1 tm7 tlm t711 tfb1 tpr1, 1112
-V, V, 10, tq01 tm5 tm7 tr1 tm61 tlm tnj tc21 tv8 t0l1 V, 9, t112 t8t1 tk22 tl42 tq21 tvc2 tqv tjr1 tfb1, 109
-V, V, 6, tcl1 tm7 t4m1 tnp tc21 trp V, 8, tsp t81 tkf tvf tct tvb1 tjr1 thc1, 68
-V, V, 7, t651 t8l1 twf th91 tqb t412 tcj V, 9, t452 t381 th42 tm7 t8w tnh tvf tdp ts62, 79
-V, V, 11, t871 tmv tqz1 t1q t13 tkb1 t381 tk22 tzt1 tg7 t7n1 V, 12, t651 thk1 tnb2 t71 tc4 tx71 tt12 th42 tg7 tq8 t531 t6q, 1112
-H, H, 14, tx tfz1 tdq1 tx7 tc52 t8p t692 th42 t7n1 tq91 t2m trt t2m1 tx71, 14
-H, H, 11, t1c1 tqc t6d2 t8h1 t7n1 t6t t561 tm02 trt tp6 t2m1, 11
-H, H, 7, t622 tlx t4d2 t8h1 t7n1 t6d2 t462, 7
-H, H, 9, thw t041 t4d2 tv01 tdd1 tk6 t462 t33 tpc1, 9
-H, H, 8, t0c tb5 thb1 th5 tk6 t33 tbb2 tk, 8
-H, H, 13, tsw tp41 t39 txg trv tb5 t0c tt11 t361 tcb1 tlj tdc2 tt21, 13
-H, H, 9, t112 t1v1 tp41 t7d1 tm1 trv t8n t5w1 twd1, 9
-H, H, 13, tsw t5w1 t7d1 tm1 t9s1 t66 t192 t331 tw11 t2p tf71 t711 tmd, 13
-H, H, 7, tkr1 tpl t66 twx1 tcn t5w1 tn4, 7
-V, V, 14, t861 tqh tk52 tp62 tm42 tqg1 tql tgt1 tch tlm t41 tj82 thb1 tn4 V, 5, tm9 tkr1 ttd1 t511 tbr, 145
-V, V, 8, tqb2 tvc tzk1 tc1 tb62 thc1 t9c1 tn4 V, 8, t861 tsr1 t621 tk82 td01 tqx tst tf82, 88
-V, V, 8, t0j1 tgk tgj tsk1 t481 tlk t3g tpv1 V, 9, t921 t9k thx1 tzk1 tx1 tk22 tfk1 thc1 t3q1, 89
-H, H, 11, tc9 tt9 t9k t3x1 tk22 tvs1 t131 t3p t33 t3q1 tc8, 11
-H, H, 6, t9h tmh tv91 t231 t3p t33, 6
-H, H, 8, tgt1 tng tkz1 tw11 t0w1 t7v t3p tq81, 8
-H, H, 7, tp41 thn tkr tqv1 t7v tq81 twg1, 7
-H, H, 6, tzg thn tbv tpr1 t001 twg1, 6
-H, H, 5, t861 tcb twg1 tpr1 tn6, 5
-V, V, 8, th11 t6c tz21 td71 td12 tpr1 twn1 t0l1 V, 9, t612 tt22 td t3k tbz1 tqw tb7 t192 tbn1, 89
-V, V, 8, tfj td51 tzw tb7 tzl1 tzn tc2 t791 V, 9, t161 t471 t8t1 t3k th42 t4d2 tr91 tss1 t0l1, 89
-H, H, 13, tqs t161 t3k tpc2 txv1 tb02 tb7 tr1 ts02 tn61 tgq1 tww tnc2, 13
-V, V, 7, t2q1 tdb2 t512 t3k tb02 t6 tzm1 V, 8, t6g1 tm81 t13 td11 t0f1 t3q1 t7p1 ts3, 78
-H, H, 7, t76 tdb2 tr51 t512 tr92 tz42 t3n, 7
-V, V, 11, tkm1 t76 tgg1 t072 tv02 t6d2 tq91 tjs1 thb1 t6t twg1 V, 7, tkq tdb2 tx82 tjb1 tzr tcl t6t, 117
-V, V, 13, t76 tc02 tbv1 ttb1 t49 tsd1 t4m1 t3g tgp1 t63 t6t ttw1 tlv V, 7, thg1 t8s1 t0g1 tbg tzw tmf tz, 137
-V, V, 13, t7q t4c2 t0j tm7 tsb2 t6w t73 tvs1 t4m1 t542 tt01 t1c tkc1 V, 14, t112 tj21 tvw t0g1 t8q tqc txr tvc2 tvs1 t5x tvr t3g trh1 tcl, 1314
-V, V, 12, tft tbh1 t6z1 trc1 tbw1 tvc2 tm82 tvs1 tmt tc6 tq52 tc61 V, 14, tqh tdn1 tgt1 tbv t381 tlz1 tm7 tjt tw11 tnt tx52 thh1 t0g t6r1, 1214
-V, V, 11, tv7 tsf tdn1 tr51 tbv tx1 tlz1 tfx t6h tq52 td32 V, 11, t0j1 thg1 td82 tx1 t381 t831 tf01 tdk1 thp1 t3p t9d, 1111
-H, H, 13, trr t002 thn tv61 tkf tk22 tf01 t6h t9q1 tkp1 tr5 tsb1 td32, 13
-V, V, 10, tv7 tt82 t0c1 t3r t4n1 t392 t1l1 twd1 tfj1 tsb1 V, 14, t971 tnp1 t0j1 t212 t81 t932 tv61 th42 trj1 tk22 tpt1 t12 t351 tqq, 1014
-V, V, 14, tv7 txq ts92 tqz1 t161 t66 tm3 tqk tv61 tnf txj1 ts31 t9s1 thb1 V, 8, t81 td7 t201 tg11 tb6 t4q t001 t652, 148
-H, H, 5, ts92 tkt thk1 t66 tf81, 5
-H, H, 9, tj8 t8j tt82 tf81 t5s tz81 tq51 t5w1 t721, 9
-H, H, 9, tj8 t9s1 tjt t6q1 tlr t6b2 tdv t1k1 td32, 9
-V, V, 13, tmf1 tl6 t4d1 t5f1 t452 tvh1 tnk1 tr81 t682 tdm1 tgd tc61 td32 V, 5, tsp tjt tgj tz02 tk8, 135
-V, V, 12, tj42 tcc t5f1 t6d2 t3p1 th1 t8h tvh tnj tfb tr5 t38 V, 14, tt72 t4x th11 tkm tq3 tsp t532 tdp1 tr82 tq1 tgj tmc2 tcl tx71, 1214
-V, V, 14, tl51 tnl1 tc41 t692 tf9 tx1 tn12 tr82 tbb1 t361 tgc thh1 tpr1 tx71 V, 7, tn51 tn81 tft1 tvr tvh tsg tpg1, 147
-V, V, 13, tfj ts1 t692 t582 tw6 tb82 tft1 thd th8 ttb2 tv8 tr02 ts3 V, 5, t621 tcn1 tn12 t6t t8l, 135
-H, H, 13, t7g1 t621 t5f1 tdf1 t662 t33 tsq t771 ttb2 t3b1 tr02 tvc1 tj, 13
-V, V, 10, tpn1 tm9 t471 tdp1 t8h1 tpb tst t412 t6z twn1 V, 13, tz22 t011 tbv1 t5f1 t8g t8t tsv1 tz5 th8 tph tvm1 tr02 tvc1, 1013
-V, V, 11, tzk1 t051 t4c1 tlz1 tg7 t802 tz5 ttd th8 thq tr02 V, 14, tl51 t002 t471 t511 t532 tls1 tlz1 tn12 t9j1 tvs1 tj41 tlr1 t6z tld1, 1114
-V, V, 6, t582 tbz1 t9j1 tdd1 t572 tdn V, 6, t5v tzk1 tlz1 tjb1 tx22 t5w1, 66
-H, H, 7, tzk1 tzr tz02 td71 t572 t55 t0f1, 7
-V, V, 11, tdn1 t3p t342 t221 t6l t2n tdm1 t511 t55 tmn t391 V, 9, tpn1 t371 t0n t45 tdp1 tvj ttk1 t572 ttw1, 119
-V, V, 11, ts92 txx1 t1v tc5 tgp1 tzd tst t1 ttb2 tjj1 t55 V, 12, t161 t2x1 tdp1 tb02 t4l t1w tvn t561 t2m tfr t3p tkc1, 1112
-V, V, 13, t4x1 tv9 tnj tnl t851 twg tzq tst t5w1 tx12 tgp1 t55 tm52 V, 8, t921 t81 thp1 t9x1 tkf twz tj82 tkz, 138
-H, H, 13, tv9 tf32 tdb2 tdr t3c1 tnl tb5 tdp1 t2t thp1 tjs1 tsg t7w, 13
-V, V, 13, t4x tkw t7k1 t4d1 t2t tv02 twm t5v1 tjs1 tsg tc61 tpb2 tn4 V, 6, tzg thn t5c2 t5v1 tjs1 tm52, 136
-H, H, 9, t3c1 t5f1 tx1 tv02 t2r t181 tv1 tp21 tm52, 9
-V, V, 12, tk1 ts92 tsj1 tn51 tm52 tb62 t8t1 tfh tgc tv1 tf91 t7p1 V, 6, t2g1 tg71 t692 t882 tv8 tx81, 126
-H, H, 9, tsm1 tlz1 tpb t3w t242 thh1 tnj tf91 t7p1, 9
-H, H, 12, txw tpb t2t td01 t3w tj41 t6h t592 tjr1 t4z1 th61 t2m1, 12
-H, H, 14, tfz1 tsw tvk tc61 tk92 tt11 t1l1 t3w tjf tj41 t6z txn tv8 tf71, 14
-H, H, 10, tk02 t161 tjz t471 t2d t8h1 tv22 tj41 t6z tf71, 10
-H, H, 14, t622 t651 t6c thn t471 tz91 tpw t7h th02 tgx1 t361 t4t1 tf22 tf71, 14
-V, V, 13, t672 td81 tgt1 t4d1 t221 tv42 tr1 t361 t4t1 t3q t9s1 th61 tqq V, 7, t3x1 tw81 t141 thr tr82 t0w1 tn5, 137
-V, V, 14, tm9 t7q1 tt tnl t1v1 tx3 t9z1 tj81 t5v1 td9 t181 t9s1 th61 tfb2 V, 7, tbv t221 tnm tqv tq51 t2m th61, 147
-H, H, 8, tbv t552 t5v1 tqv t4w t361 tfr1 tt6, 8
-V, V, 5, t2x1 tb41 t361 tcj twz1 V, 6, tff1 t7h1 t332 t4g1 tbd1 tfr1, 56
-V, V, 5, t861 tdt t8t1 t2x1 tz4 V, 8, t8n1 ths tj9 tht1 ts22 t361 tj41 t9l, 58
-V, V, 7, t861 tgt1 t3w t19 td41 td62 trn V, 9, tkl t3t tn81 t8t1 t882 td41 trw tq22 tqr1, 79
-H, H, 7, tgt1 t19 tv81 tpj1 tjs1 ttc2 tpc1, 7
-H, H, 11, t34 tvk t4q1 tg71 tkk1 t5r1 t882 tpc tgj t19 tjs1, 11
-V, V, 10, t0d1 tz21 t4q1 tfl1 t471 td tc72 t3m tz4 td41 V, 12, tbn tvk tx6 tz91 td txw tkv1 t512 tb02 tpc ttw1 tkc1, 1012
-H, H, 9, tpn1 t7q1 tm11 tq01 t4q1 t4c2 t3m t141 tc2, 9
-V, V, 6, t141 tkp t2j t3r1 t55 t6t V, 7, tpn1 t9p1 tvz1 t4r1 tz9 tc61 tcs, 67
-V, V, 13, tj5 tnj tn51 t6c t4q1 tcv1 t402 tzw t1s tjb1 tnn1 tdr1 t3n1 V, 9, tfr1 tg72 tt71 tx1 tb02 tz9 t951 tc61 tr02, 139
-H, H, 10, tj5 t8t1 tcv1 tht1 twl thr t102 t4n tgn tr02, 10
-V, V, 14, tr02 th82 tn82 t83 tl72 tzk1 tx51 tlj t991 t4r tgn t6r1 tqz t291 V, 9, tnb2 t0p1 t8t1 tdg t7j1 tr42 t711 tnm1 tr5, 149
-H, H, 12, tdb2 t851 thp1 t882 t7j1 tb7 tmf th1 t991 tl9 t4r t33, 12
-H, H, 12, t7c2 t2d2 ttb1 tts1 tk51 t7j1 tc5 tmf tj91 th8 t33 tns, 12
-V, V, 6, tkr1 t9s1 t22 tmf tk32 tn3 V, 8, t7c2 twf trx th tgn tz01 tvf t5g, 68
-V, V, 12, twc t8b1 tfz1 trx tkf tgz tcx1 t1l1 tv92 t711 tpb2 t0f1 V, 9, tfz1 tqb2 t1q tgn tfk tx4 tqb1 tnj t2n1, 129
-V, V, 10, tfz1 t6g tht1 trx tvl t9c2 tfk tss1 t25 t38 V, 5, tx32 tlh tbc2 tsv1 tx21, 105
-H, H, 13, tm1 t3p tg71 t9d1 tht1 t6d2 tdg1 tj41 tqb tx52 t21 tlr t38, 13
-V, V, 6, tm1 tq3 t1g t512 tft1 t0w1 V, 7, trs t9h t8b th02 t21 tfr1 txb, 67
-V, V, 6, tkr1 t1g t512 tbv tls1 tjr1 V, 9, tlc1 tc71 tq3 td82 tqp1 t8h1 t9n1 trn t0w1, 69
-H, H, 14, tjw1 trh tq3 t5f1 tls1 tjr1 tlr1 t191 tsm tgn tcl tgr tmn1 t032, 14
-V, V, 7, t5g1 tfj t1q tm7 t9h1 tbj tcl V, 8, tvb ttr t2b tqt1 tt11 tn61 tw tjr1, 78
-H, H, 13, thf1 tfj t1j1 t9w1 tc51 t2 t82 tv32 tx4 tjr1 tkb2 tdn t252, 13
-H, H, 14, t1j1 trr tfz1 t9c1 tq92 t6z1 tp31 tb02 tv32 t19 tm02 tfd1 tj31 tbn1, 14
-H, H, 6, t0j1 tcv1 tx51 tb02 t9c1 tt6, 6
-H, H, 6, t0j1 tcv1 tc5 tpb tpc tl21, 6
-V, V, 12, tmg1 tcv1 t5f1 t9p tw91 t0j t832 t5h1 t2t t6z t462 t8l V, 13, tz11 tq01 tz82 t212 twg1 t9d1 tg71 tb02 t59 t872 tpc t242 t9, 1213
-V, V, 6, t4x1 tfj tg71 t1w t931 twg1 V, 6, tz6 tmp1 t0c t2f t9d1 t9c1, 66
-H, H, 7, tmp1 t732 t512 t1w trc1 twd th61, 7
-V, V, 5, trm t1w t4t1 t181 tq52 V, 9, tqh1 t3m t1w trc1 tmj1 t2n tl61 tzs1 t001, 59
-H, H, 14, tds1 tmv tg5 txg t3m tjr tmj1 t3p1 tfc2 tz02 tgc ttj tcl th61, 14
-H, H, 8, tp62 tx7 txg t13 tq91 t711 ttj t691, 8
-V, V, 5, tm81 tqv1 tfr1 ttf1 t691 V, 8, tcw1 t0c1 tr82 tpb tdp tmt1 t711 t86, 58
-V, V, 6, t3j tp32 tdw1 tj41 tdn tj4 V, 7, tvb tzg t351 tz62 tfr1 ts91 t691, 67
-V, V, 13, tsw tzg tf21 tts1 tbv t9x1 tnm t4d2 tjp1 tbb trs1 t3r1 tfr1 V, 5, tzg tcn1 t802 tnm twd1, 135
-H, H, 14, tzg tc21 tqz1 tt71 t9d1 tdz1 t19 t2r tqw1 tnm t6z trq1 tc2 tgc, 14
-H, H, 8, tsr1 tqz1 tbv t9d1 tzt1 t4j t291 tpc1, 8
-H, H, 8, tjz tbv t221 tvs1 td22 t2z1 tz1 tpc1, 8
-H, H, 12, tz21 t762 tx7 tcc tbv t221 t9z1 tsc1 t6f tf01 tvs1 thp1, 12
-H, H, 6, t762 tqr tnf t221 tb7 t3r1, 6
-V, V, 12, twb2 t13 tfn t1s t221 tx01 tn2 t3r1 t982 t2m1 t711 tf42 V, 13, tlb1 t81 t5r1 t141 tnf tjf1 tvs1 tsv tk31 tn02 tpb2 t2m1 tkc1, 1213
-V, V, 11, t612 tnf t0s tjr tvc2 tvs1 t782 tss1 t3r1 twd1 tkc1 V, 6, tch1 thg1 t382 tv61 tbj t3p, 116
-V, V, 12, tg12 t34 tt82 tnf tz72 tl01 tl21 t3p tc61 t291 ttw1 tn V, 7, tgb2 t13 tnf t5v1 tbm1 tw22 tvc1, 127
-V, V, 10, tf7 t5r1 t13 t332 t271 tr82 tsv1 tl21 t572 tcb2 V, 9, tl51 tz21 t38 t6w t74 t3w tpt t64 t291, 109
-V, V, 11, tfj twv1 tpd tjx1 tq11 t28 td7 tkt1 t481 tn3 tcb2 V, 14, t4c2 t0b twn1 tmj1 t2t t74 t6d2 t131 tf41 t2g tk6 tz71 t38 tlg1, 1114
-V, V, 11, t7q1 tp72 tdw t81 tl3 tjx1 t8h1 tq21 t74 t19 ts9 V, 9, tfj t37 t8x1 tj3 tk01 t711 tp21 tqz tv1, 119
-V, V, 10, tfj t81 tjx1 tb5 thd1 tmw tmj1 tn71 twz1 t1b2 V, 9, tjs t692 tr tm7 t7j1 tj91 tqc2 t462 tzc, 109
-H, H, 9, tfj th11 tsw t672 t692 tb92 th42 tbw1 tdp, 9
-V, V, 10, t0j1 tl92 t7d1 tzw tr71 tvx1 tq8 t64 td42 t822 V, 11, tm9 th11 tkv1 t692 t311 t5b2 tsd1 txf1 t64 t1j tpc1, 1011
-H, H, 8, tv4 tmg t7d1 t8f t2t txd tgh tpc1, 8
-V, V, 10, tkr1 t7d1 tl9 t3w tcm tlv1 tnm t842 tks1 tpc1 V, 13, t4x tl41 t002 tf2 tk22 tzt1 td7 t181 trk t6d tfb1 t0m1 t391, 1013
-H, H, 12, ttm tg22 t402 t952 tk22 t0d2 t1s tt11 tzt1 t74 t1c tf2, 12
-H, H, 14, tsr1 tl6 t1q1 t6p1 tsk tz9 tzt1 t1s ts4 tw t931 tv1 th61 tf2, 14
-H, H, 9, tz6 tl6 tqs t7d1 t672 t6z thb1 th61 tf2, 9
-V, V, 6, ttp t7d1 t832 tdz1 tq91 t36 V, 9, tqk1 ttm tl6 t3c1 t0c trn tl31 tr02 tkc1, 69
-H, H, 9, t76 t0c t532 t6z1 tdp1 t2d tkx tr42 tkc1, 9
-H, H, 13, t871 t7l1 tvb t76 td51 tqc tf2 txx tkx tc3 tpr1 trt t791, 13
-H, H, 8, t8b1 trm tvb tbt t902 tdc t032 tf2, 8
-H, H, 8, tv21 trm t8b1 t11 t4d1 tft1 t86 tf2, 8
-H, H, 7, t8b1 trm tcc2 tz82 tz61 t311 tmt, 7
-H, H, 8, tpn1 t6c t452 t311 t881 thh t19 t3b2, 8
-V, V, 10, tpn1 t0q tp62 tm81 tjj t311 t881 t991 tdr1 t511 V, 11, tqb2 tmx1 tnl t0c tb5 tzk1 tmj1 tf01 t211 tb32 thz1, 1011
-V, V, 13, tpn1 tsj1 td82 t5f1 t13 tzk1 t311 thh1 t3r1 tvp1 tq81 t7w tj4 V, 5, tz52 tv32 t412 trk tr5, 135
-V, V, 5, t302 t5f1 t102 thp1 tvc1 V, 9, tsr1 tm81 t7d1 t141 tn41 thh1 tfc2 t6z t63, 59
-H, H, 14, td21 tqk1 tsw tlb1 t9g1 tf61 tsr1 tdg ts91 t141 thp1 tt71 tm5 t032, 14
-H, H, 13, t971 tcw1 t3t txl1 tdg tx02 t141 tms tss1 t042 tl31 ttb2 ttc2, 13
-V, V, 12, tv7 t7q1 tp9 tq02 t3w tc11 t292 tms t6z tgn1 t8 tz42 V, 9, t4x tqb2 tz22 t141 tx9 tr1 t581 tc6 t9c1, 129
-V, V, 13, t4x1 tpg1 t171 tx92 t141 t1w tvs tsv1 t0r tw8 tdb t8l thb V, 7, t4x tgb2 tmm1 tcz1 thh t572 tq81, 137
-H, H, 9, tv9 t5s1 tb31 tm7 thp tsv1 t64 t0t1 tpg1, 9
-H, H, 9, tft tbz1 tll1 t031 td62 tf4 thf t86 tpg1, 9
-H, H, 5, t002 td81 tlz1 t031 td62, 5
-V, V, 13, tq02 tdz thr tm t74 t0k tn4 tw11 tz9 tc2 tgc ttw1 tht V, 5, tlz1 t031 t88 tw21 tk6, 135
-H, H, 12, ttm txn1 tgt1 tlz1 tb02 t992 t74 tvs1 tm51 tgc t291 tgl1, 12
-H, H, 13, tn51 tc51 tnc1 t8w tqz tll1 tvs1 txk tc11 t1 tgc th71 tdp, 13
-H, H, 14, tjm1 tz22 twg1 t051 t6f t332 tqv tww tt32 tm51 tmd1 tqz tdp tqr1, 14
-V, V, 5, tl6 tx92 tjl t332 t19 V, 8, txq tl4 tfz1 t5v tl6 t74 tqv tld1, 58
-H, H, 5, tm81 tbm tpt1 t332 t74, 5
-H, H, 13, tm81 tdb2 t3m tbm tp52 tw62 tdl tkj1 t242 t5w1 t1d trt tkb, 13
-H, H, 14, t8l1 thn th81 tcv1 t72 t3m tqt t5f1 t5j1 tj3 tv32 tbm th1 tzb, 14
-H, H, 9, th81 thn t241 tv02 tl82 ts12 tr42 tgp1 tm2, 9
-H, H, 11, t762 t471 tcc tzw ts12 tqg tr42 tj82 t3x td42 t391, 11
-V, V, 7, t8l1 t762 t3c1 t1q tqc tx01 tr12 V, 7, tpn1 t34 tn41 t332 tj1 tsb tj82, 77
-H, H, 6, tfz1 t8l1 t3c1 t492 tm8 t6, 6
-V, V, 10, tq01 t3r1 tkf ttt1 tl9 trq1 tbr1 th8 t6n tmz V, 11, tsw t8l1 tlz t3c1 tbv1 t3k t881 tms tz9 tgp1 thb1, 1011
-V, V, 11, t232 tsw t591 t2x1 tz61 tv32 tvr tgp1 tws1 tcl tvc1 V, 13, tt72 tfg t1v1 t2 tnf tgf tvx1 t7f1 tvr trq1 tf42 t7w tv, 1113
-H, H, 14, t861 t7d1 t171 t591 t2x1 tz61 t6z tc42 tx11 tsx tf42 t511 tjc1 tmp, 14
-H, H, 7, t861 t8w t4w ts2 tf42 t392 t291, 7
-H, H, 7, tsj1 t4h t8w thr t63 tf42 tf22, 7
-H, H, 6, tsj1 tv61 tqg1 tf22 twn1 t312, 6
-H, H, 6, tl6 tsr1 t9h tgq1 tnm tf22, 6
-H, H, 8, t7q1 t7v1 tx1 tr82 tnm thp1 thz tf71, 8
-V, V, 12, twc t7q1 tjx1 trv tx51 t072 thz t4t1 tq62 t991 t3p tn4 V, 7, t622 th01 t76 tk22 t9j1 tbc2 tn4, 127
-V, V, 11, t3t tvk tm81 t411 t0k tzq tmp t4r t7v t3p tbn1 V, 12, thk tbk1 tzk1 t7d t6d2 t9f txf1 t4t1 t991 tvh twn1 t691, 1112
-H, H, 12, tzg t7c2 tkr1 t4r tts1 tbm ttg tvr t2m tvh tgp1 t3p, 12
-V, V, 11, tgb2 t7c2 t8l1 txm tjx1 t5b1 t361 t8g1 tvh twd1 thc1 V, 8, trx1 thg1 t011 tts1 tgx tft1 t5x1 tzl, 118
-V, V, 12, t7q1 tfz1 tgb2 t9k tdb2 tg71 thn tm7 t722 tzl tn3 tvh V, 6, tz22 tfw1 t0c th42 td2 ttz1, 126
-V, V, 11, twv1 tgb2 t6c thg1 tz22 t011 t19 ttk1 tg81 tz12 tl31 V, 6, t7q1 tl6 th42 t142 tvc2 t5p1, 116
-V, V, 6, tj8 ttb thg1 t011 t13 t7f1 V, 8, tnp1 tcf t6w t3b2 tj41 tw t3c2 twg1, 68
-H, H, 12, t1p tg52 t011 t8f t13 tkg1 t0b1 tvb1 tbq tz4 t8t twg1, 12
-H, H, 9, tqh th91 tvb1 tr82 t4g1 thj1 t3h1 tbj ttq, 9
-H, H, 9, tv8 t7d1 t2c ttk1 tlr1 tz02 tq52 tbj tsg, 9
-H, H, 7, t232 t2q1 t6k1 tq52 tbj t9f1 ttw1, 7
-V, V, 12, tc2 tjb1 tk82 tj41 tbj tv1 trk trq1 t78 thz tm52 ttw1 V, 6, tc81 t942 tl72 th42 tzl tl9, 126
-H, H, 10, ttm tdb2 tvk t78 tcc t281 tjb1 tr61 tsq tv1, 10
-V, V, 5, tqk1 thc tt91 tjb1 tqp V, 5, tz21 t471 t532 t78 t791, 55
-V, V, 12, tqk1 tt72 t1g1 tft tmk tm4 t7j1 tx42 t1z t741 t1 tpr1 V, 5, tm62 t471 txf1 td4 tkt1, 125
-V, V, 11, tjm1 tq02 tt72 tbx1 t28 tsq1 td31 t6v tkc tpr1 t2m1 V, 11, tfz1 tft tx82 ttb2 txw1 t351 tf12 tlb tw11 tgp1 thb1, 1111
-V, V, 11, tt72 txc tn51 t762 tm12 tbz1 t59 t48 tww thb1 tn4 V, 5, tjm1 tjx1 t0m tms tz62, 115
-H, H, 13, tv7 ttm t7c2 t762 tjx1 t1w tg7 tzv1 tr1 tw51 td41 t0t1 tn4, 13
-V, V, 11, tdb2 tk11 tnf tz61 tr1 t1n t3g td41 tpr1 tq81 tlg1 V, 9, t901 t4c2 t8t1 tg7 tjt tww trk th61 tx71, 119
-H, H, 14, tpk t892 tp61 tzb1 tq81 tnf tb7 tr1 t5j tf22 tr5 tds tlx1 tr02, 14
-H, H, 13, t622 tn51 t452 trx t7f tk82 tr1 tpx1 t181 twk1 t8w1 tr02 t312, 13
-H, H, 14, trm tn51 trr t4f1 tcv1 t452 tz42 tmf t5j t242 tlm t042 tl01 tqd, 14
-V, V, 13, t622 trr tjc tm81 tmk1 t3c1 tq42 tpc2 t211 tt92 t53 tvh ts41 V, 5, thr thv t1w t242 td62, 135
-V, V, 13, trr tjc t6c tdm1 tc5 ts22 tkc1 t2m ts61 td62 t511 twj txb V, 5, tj8 tm81 tz9 tgn t511, 135
-V, V, 5, tt t002 tc5 tgn tc61 V, 8, tt82 tr62 tbv td61 tr2 tdt1 t2m tf2, 58
-V, V, 13, t5c t5n1 tt61 t2 tc61 t9d1 t911 tc5 t48 trq1 t5p1 tns tqj1 V, 6, t762 tz91 tb5 tqk tml tv1, 136
-H, H, 9, t4w1 tgt1 tdq tvc2 th1 trq1 tv1 t401 tqz, 9
-H, H, 8, tgb2 ts92 tr21 txf1 th1 t8f1 tdn tbb2, 8
-H, H, 9, tgb2 t17 tls1 tt11 tpc t3h tq21 t2m tgc2, 9
-H, H, 8, t562 t8r1 tl3 tpc tgc2 tc11 tk6 tns, 8
-H, H, 9, tmb1 td t5q1 tc11 txm1 tf92 tnq t451 tp92, 9
-V, V, 12, t6c td t902 ts22 tmj1 tdp tf02 tfc2 tvl tc61 tnq tn7 V, 8, t8b1 t2c1 tb5 tk22 t351 ttk1 t4f t801, 128
-H, H, 9, tg71 tr31 t452 tmj1 t771 tnd1 tc61 tfr1 t2l, 9
-V, V, 10, t9c tgg1 t381 t8h1 ttk1 tt52 trk tf42 tc61 tfr1 V, 14, tlb1 tjq td91 tz21 t82 t452 tdp1 tc5 tg7 t6d1 td7 tzg1 t2w1 t9n1, 1014
-H, H, 13, th11 t851 thq1 tdg t452 t7h tmf t8h1 t3g1 tf42 t3f1 tm2 t63, 13
-H, H, 14, t622 trm th11 tlh1 t2 tdg t5f1 tht1 t2x1 t412 tgp1 tq22 t3l tn4, 14
-H, H, 8, th11 tz22 tkh1 tht1 tct tg7 tkt1 tp3, 8
-H, H, 13, tz22 twl1 t3w1 tnl t5r1 tb5 tm42 tkd1 t6d2 tsv1 t3p tp3 tqq, 13
-H, H, 13, t4x tz21 ttn tm42 tws twm1 t0s tsv1 tgj tb62 tj82 tvm1 tmn, 13
-H, H, 14, tl6 tc61 t9d1 tld t9j1 tsv1 t8n tsq ttd tb62 tl t8h tq81 t691, 14
-V, V, 5, tfv tkr1 t0b t8h tt21 V, 7, tcw1 th11 tl6 t1g tdx tpc t4r, 57
-V, V, 14, tw71 th11 t76 txx1 ttv t091 tjx1 t5f1 tx01 t9z1 ttc1 t4r thw1 tjr1 V, 6, tls t7d1 tzt1 t0h1 tc21 tfr1, 146
-V, V, 10, tc21 t5r1 t3k tcc t4t1 twz t0f1 tk61 ttz1 ts52 V, 8, t921 tfr1 t091 t1s tkt1 tx41 tqq t8l, 108
-H, H, 8, tx51 ttz1 t74 tvr t4t1 tvh tkc tqq, 8
-H, H, 13, tzg tn9 t3m t9d1 tht1 t882 tjj tjt tvr t242 tjr1 tjs1 tqq, 13
-V, V, 5, tq11 tzt1 tjt tf01 tjs1 V, 5, tzt1 tr22 tvv1 t6r1 tn, 55
-H, H, 14, tw31 t34 t672 t471 t62 tzt1 tls1 tt62 tt11 tjt t481 tq52 ttv1 trt, 14
-H, H, 14, tfz1 t7k1 tz22 t471 tgt1 t7b2 tzt1 t351 t082 tfc2 tk31 tsg tgc2 t0l1, 14
-H, H, 6, tp41 t0l1 tm42 tjs1 tsg tx71, 6
-H, H, 10, tp41 t7x trz tj92 tms t3j1 tdd1 tjr1 tqz tx71, 10
-H, H, 9, t0l tmt1 t3j1 tx61 t1 thh1 tsf1 t4h1 tvn1, 9
-H, H, 14, t0j1 tvb tck tnl1 tbm trv t0b1 t4h1 thh1 tw51 tc6 t0f1 tt21 t252, 14
-H, H, 6, t0j1 t2c1 t012 tn3 thh1 tv8, 6
-H, H, 9, t69 tlb1 tn81 t6k1 t592 t4t1 th8 tn3 tf42, 9
-V, V, 10, tfz1 tn81 thr tqv1 tg51 td22 ts11 tc21 tmn t391 V, 5, t5w1 tq71 tn3 ttb2 tjj1, 105
-H, H, 6, tfz1 t7d1 t122 tq12 t0w1 tjj1, 6
-V, V, 12, tr02 thk1 tkr1 tq01 thg1 tf01 t131 tpp1 tb62 tvh t961 tpb2 V, 14, ttt tf2 tnf tr2 td41 t561 tt32 th1 tk6 t0w1 t511 tjj1 t6t tjc2, 1214
-V, V, 11, t34 t46 t26 tbq1 tcc tzw tqx td41 t2q tj1 tx41 V, 9, t4c2 t5d tqf1 ttk ts51 tvh ts2 t0w1 t86, 119
-H, H, 12, t4c2 t9k t9s1 t4d1 tqx tvs1 tvl1 tl9 t0f1 tz12 t86 t691, 12
-H, H, 9, twp t232 t3c1 t4d1 t621 t5m1 twz t8k1 tt21, 9
-H, H, 13, tt9 tq3 t4d1 t621 tnf tsq1 tb2 tpq1 trj tj61 t6r1 th61 ts62, 13
-H, H, 14, tnh1 tdn1 tq3 thr1 t471 t402 tp82 tsq1 tb02 tb4 tr42 tz02 tv71 th61, 14
-V, V, 5, tpd tj6 t12 t8c t912 V, 7, tdn1 thn tf6 t2l1 tv32 t661 tz02, 57
-H, H, 6, tdn1 tpd tbv t4c1 t2t tnd1, 6
-V, V, 14, tpd t2 t81 tjh tgt thv tjt t58 tfc2 t04 t181 twp1 td62 t7p1 V, 7, tm72 t76 tw81 t2t tb11 tvn1 tx71, 147
-V, V, 11, tpn1 t76 tzw t1h1 tfm t2t tk12 tvr td9 tq81 trg V, 8, tcl1 tq01 t762 t9w t031 t2m tq81 tx71, 118
-V, V, 11, tn51 t4c2 tdb2 t762 tnw1 t82 td02 tb4 tdf tq81 tsg1 V, 9, tvb t8l1 tbv1 tjl trz1 tgw1 t9j1 t6j1 txf1, 119
-V, V, 13, t861 tg61 txt1 tp11 tcc tr2 t4n tqv tf12 t8l th2 tf02 t032 V, 14, t651 t2c1 t762 t39 tcc tmz1 tb7 txf1 tlb tv1 tnj t21 t1b2 t721, 1314
-H, H, 7, tg61 tp4 t3d2 td51 thr t3r1 t032, 7
-H, H, 9, t541 t9c t82 tdg trx tm3 tzt1 tf6 thr, 9
-V, V, 11, t0l t9c t751 tlj1 tl8 t0b1 tzt1 trg1 tvc2 tdn t4 V, 14, t5g1 t8p1 tv9 tjc tc81 t3c1 t8k t3k t14 t7n1 t4t1 t9t1 tw11 tr02, 1114
-H, H, 13, tg11 t5w1 t3c1 tr51 tjb1 txz tf12 txm1 t991 tw11 tt5 t5p1 t86, 13
-H, H, 12, t4x t9k t5f1 tjb1 tzb2 t6d2 tmj1 t991 thm1 t5p1 t152 tsc, 12
-V, V, 11, t4x1 tt9 t9k tk41 tc21 tg71 tct t8h1 tx41 t8h t8q1 V, 7, t921 tw4 tkq tht1 tmj1 t6z tf22, 117
-H, H, 12, tt9 tcr tnl tvz1 tht1 tdz1 ttc1 tx41 tn71 t3r1 t001 ttf1, 12
-H, H, 5, tx41 t07 tz02 tl72 ttf1, 5
-V, V, 5, tp4 tl11 t3p1 t4b1 tz02 V, 6, tsz tls1 t9j1 tft1 tx41 tp5, 56
-V, V, 13, t5c t002 t9h tr51 trn t0d2 t6h1 tfc t092 t3g tp5 tgn t7p1 V, 6, t9x1 trc1 tvs1 tz02 tr42 tvq1, 136
-H, H, 5, t002 t9h tg7 tzv tb11, 5
-H, H, 9, t9k t621 tg7 tb9 t661 t8n tf41 ttb2 t64, 9
-H, H, 8, t1q t5g tg7 tm41 t511 tnw tcq t0l1, 8
-V, V, 10, t3c tqb2 tn81 trt1 tx2 tmj1 t3w t412 tk6 t001 V, 11, tqb2 tgb2 tmw1 t011 tfk1 t4b t0h1 tk6 tgn t511 tcq, 1011
-H, H, 10, tb22 tgb2 tjc t3m tgn tqv td62 t001 th61 tf2, 10
-V, V, 8, t6x tgb2 th11 tc8 t3k t8d1 thq tf2 V, 9, tls t3m tvb1 t802 thz ts tdh1 t462 tzn1, 89
-H, H, 14, tpn1 t3m tw81 t2s twb tfk1 t881 t0h1 tq91 t242 tzn tl2 tpr1 tf2, 14
-H, H, 10, tnl tw81 ttb1 trv t881 tq91 tz02 tn3 tp21 t9j, 10
-V, V, 6, tnl tlz1 t65 t9j ttw1 tk V, 6, tz31 txc2 tcn1 t881 tft1 t8w1, 66
-V, V, 10, tqs tz21 t611 t1p1 t7b1 tjt tw t412 t711 t912 V, 12, t34 tv9 tl6 tlw1 t692 thv t881 tfs t99 tf12 thh1 ttw1, 1012
-H, H, 11, tz82 t881 tv32 tt8 tpc tw t412 tkf1 tbd1 t3l tvc1, 11
-V, V, 11, tp9 tjz1 t0f1 t0z tbv t852 t4t1 t4f tvh tr5 tx71 V, 7, t471 tjb1 tpc tv22 tdv tkf1 tqn1, 117
-H, H, 8, tt82 tsq1 tn12 tpc tgv1 t0z1 tr5 tpc1, 8
-H, H, 13, tt82 tcp t422 td91 t9c t8x tqc tpc t0c2 ts81 th8 t0f1 t1w1, 13
-H, H, 7, tq01 tr3 tpp1 th8 t0f1 td2 t3b1, 7
-H, H, 8, tm32 tq01 t3c1 t9x1 t1s tc11 thc1 tkc1, 8
-H, H, 9, thk1 tpd tzw tvb2 td41 tc11 tkc1 tdd1 t4l1, 9
-H, H, 9, tpd tr51 tcn1 tzw tt11 t6w tzl tst tg11, 9
-H, H, 12, tm9 tzf tff1 tr51 tx3 tq21 t482 tzl tll t9t1 tjr1 t711, 12
-H, H, 7, tm9 tm41 tdm1 t381 tw6 tzl t0f1, 7
-H, H, 8, t2g1 t981 t9k tf31 t381 t8m tnm tt52, 8
-H, H, 7, t861 tv4 t0c t8m tv92 tm02 t78, 7
-H, H, 8, t861 tm81 tdg tm7 tt4 t4g1 t1n1 tst, 8
-V, V, 10, tpv tdg ttt1 tm7 tc5 tlw tr2 tgg tsg t3b2 V, 8, t8j tb21 t8b1 tk22 th91 t802 tz02 t1, 108
-H, H, 5, t8b1 tr2 tf01 tvh td8, 5
-H, H, 9, t6x tnv t221 t7d tvh t5l tn3 tz9 tpx, 9
-H, H, 8, tjx1 tnv tz61 t7d tqf ttc1 tf3 tqq, 8
-H, H, 7, tlt t7d t9q1 tbj t38 t7p1 tpn, 7
-H, H, 6, t8b1 t0b1 t7d th1 thh1 t38, 6
-H, H, 9, twh1 t6c t0p1 tqt tcc tc5 thh1 t55 t0l1, 9
-V, V, 12, tm9 ttx1 tw72 txc1 t1p1 t691 td7 tgk1 tr72 tjj1 t55 t0l1 V, 7, t121 txh tmm1 t462 t9c1 t3l tlg1, 127
-H, H, 14, tc92 tm9 tzb tm1 t0b t0g1 tw52 tg tgj t3g thh1 tjj1 t2m1 tvq1, 14
-H, H, 14, tqz1 tdn1 t47 tm1 t5f1 t13 t1l tqf tr42 tsb tp91 tt31 t2m1 td92, 14
-H, H, 8, tz51 t1q t5f1 t882 t7n1 tpd1 t012 t1, 8
-H, H, 14, t4p1 tkq t002 tn81 t2 t5f1 tvq txr1 t7n1 t361 t5v1 tm71 twp1 t92, 14
-H, H, 12, tfj twv t002 t2 t2x1 t282 twz tz02 t0n1 t711 tfb tt42, 12
-H, H, 13, td21 t6k tnl tn82 t2 t2x1 tls1 tb41 t95 tjd tpz tb12 tk61, 13
-H, H, 13, tgv twf t54 tcl t2x1 tz42 t561 tss tk61 tv8 t8x1 t38 tf9, 13
-H, H, 6, t5s1 t54 tng t0f1 tcl t38, 6
-H, H, 6, tjn1 t6n1 t4g1 tf01 tcl td32, 6
-H, H, 12, tz21 tf21 td32 tbm t532 t4g1 t321 t361 t351 t2m t0r1 t391, 12
-H, H, 14, t0j1 t2g1 tnp1 tbc1 t232 tsp t9x1 tv91 t361 tj41 tmt1 tk7 t2m tr32, 14
-H, H, 14, t921 tfj t861 t7j t0g1 tg21 tb th6 t361 th1 tt3 th8 tr5 tr32, 14
-H, H, 12, tb22 tqb2 tpd tc51 t532 tn12 tqf th1 th8 tzz1 tsw1 tx71, 12
-H, H, 12, tpd tzk1 t0x1 t532 tn12 thz t181 tf22 thh1 t062 t3q1 tmn, 12
-V, V, 11, tl51 t3x1 tbz1 t1w t59 tzr t6h tnc t3g t3q tmn V, 7, thn t532 t181 tv81 t642 t491 tqj1, 117
-H, H, 12, t651 t9n tt21 t532 tdg1 tzr t5v1 tq91 t181 tgp1 tq7 t5p1, 12
-H, H, 12, tfz1 tnl tg71 t2x1 tzx1 tzk1 tkj th21 tdg1 t181 tfc1 t001, 12
-H, H, 9, t7k1 trf1 t2x1 tlz1 thv t5j1 tdg1 t131 tg62, 9
-V, V, 5, t4d t2x tlr1 tst1 trt V, 6, t7q1 t2x1 tqc tdg1 t561 t7w, 56
-H, H, 13, t161 tbc1 tn6 t3k tb1 th62 tdg1 t19 tn01 tlr1 tss1 t0t1 tx71, 13
-H, H, 8, thc tsp tcc t1l1 tpz tss1 tnc2 t6r1, 8
-V, V, 11, tj8 t6r tsp tbm td7 t1l1 tkc1 trn tpr1 ts91 tlp1 V, 14, t1j1 ttr tdb2 tbt thn tbk tq6 trx td7 tf01 t4m1 t412 t2h1 tfj1, 1114
-V, V, 11, t4x1 t34 tdb2 tlb1 tqs1 ttb1 tb1 t81 tzt1 thl t412 V, 14, t4x1 tt72 tdc1 t47 t621 tg31 t2t t6t ttz tx52 t6 tpr1 t961 tm51, 1114
-V, V, 11, tt82 t34 tt t9c t81 t131 tsq tj1 t6z thz trg V, 12, tz91 t3k t881 tkt1 t242 tk42 tl72 tw8 tvf t63 t6t t8l, 1112
-H, H, 7, t9c t81 t2x1 t4h tl9 tj82 t0r1, 7
-H, H, 12, tt82 tbz1 tl9 tnx t802 t5n t351 t8r t242 tpj1 ttl tj82, 12
-H, H, 9, t4x1 tdr thg1 t041 tb7 t131 tcm1 tj82 tfr1, 9
-V, V, 13, tgb2 txt tg71 ttb2 t3m tt12 tf01 tq91 t8h tvv1 tcv tp21 t3n V, 7, thg1 tjb1 tmf tx72 t0f1 tj82 tp6, 137
-H, H, 7, tl51 tt thg1 tmf tvr t181 tl72, 7
-H, H, 12, t9g1 tl72 tjl t27 tv02 t58 tq21 tvr ttd tlm tbj t5p1, 12
-H, H, 14, t002 tl72 t9k tr51 tm7 tlm tpq tx41 tzp1 tms tvv1 tjx tjs1 tq81, 14
-H, H, 12, tqb2 tvf1 tz21 tr51 t221 t4d2 t5q1 tqf t1r tnj tc21 tq81, 12
-H, H, 8, t232 t9c tr51 t9z1 t4d2 tmj1 t572 t3q1, 8
-H, H, 12, tk2 t7c2 t9c t001 td tnf t501 thv1 t322 t572 tl2 t63, 12
-V, V, 10, tpd t011 tb5 tm3 tjb1 t332 t3g t501 t0f1 t9r V, 9, tjl1 tt tn81 tgt1 tnf t7j1 t6h tst1 tk61, 109
-V, V, 12, tv9 t4g tt82 tz82 txp t11 tzt1 twq1 ts71 tst1 t991 t89 V, 6, t161 tgt1 tp82 tt41 t6h1 t252, 126
-H, H, 12, tv21 tk9 tht1 tzt1 tzn t6z t4w tfc2 tq41 tl t991 tzf1, 12
-V, V, 12, thf1 t9c1 tgb2 trr tp61 thb1 tc6 t991 tpb2 tgn tn31 twn1 V, 13, tfj t841 t39 tbw tfb tmf trc1 tt11 tf52 t321 tzn ttc tq81, 1213
-H, H, 5, tv9 trr tjf1 thb1 tr5, 5
-H, H, 8, t911 td4 t2b1 ttd1 tw11 tnj tgn1 thb1, 8
-V, V, 11, th31 ts92 tnq1 tg01 tt11 tdg1 tq91 t042 tw9 thb1 tl01 V, 6, tdn1 tqp1 tt11 tnj t21 ts42, 116
-H, H, 13, tc01 tt tnb2 thn td7 tdg1 t4w t7z1 tqb1 tk6 tv1 thb1 t1c, 13
-H, H, 11, t4g tn51 tdg tqc t3v td7 tv1 tpr1 tr5 tr02 tpx, 11
-H, H, 11, tcv1 t13 tqc tb02 t1w tww1 tnh tv1 twk tvc1 tkc1, 11
-H, H, 12, t4x1 t302 tjn1 tqc th42 t4d2 tb02 tqv tg62 t711 tj82 thb1, 12
-H, H, 7, tkr1 th42 t0s tqv t9q tnj tjj1, 7
-H, H, 8, trx1 t0g1 th42 tt8 tmj1 tf01 tz7 tw11, 8
-V, V, 11, tl6 t091 tbm th42 t7d tjv1 t242 tw11 tks t1b1 t391 V, 6, t3s tcf tvd1 t492 t78 t801, 116
-H, H, 12, t1j1 tx6 t011 t78 tsv1 t0r tlr1 tw tww tw11 tz9 ttt, 12
-H, H, 11, t1j1 t0l1 tw52 t802 t19 tj41 t3j1 tz9 t93 tkn twg1, 11
-V, V, 5, tsp1 t4w t811 tzt tnx1 V, 8, tqb2 t4d1 td t0c t2c t3j1 tz9 t032, 58
-H, H, 8, tt82 tpd tp62 tz9 tvw1 tvp tn4 tmp, 8
-H, H, 11, tg8 tt t9k tzp t1g t82 t1f tq21 t7r1 tz9 tn4, 11
-H, H, 9, tkh1 tw52 tbw tj91 t6q1 tww tn4 tm52 tzm1, 9
-H, H, 8, tv21 tk4 t7j1 tqd1 t6q1 t361 tdg1 t641, 8
-H, H, 7, tmg tw7 t9c2 t361 tsq tbj tpr1, 7
-V, V, 7, t1m t0w tzf tsb2 tx41 t181 tfr1 V, 8, t0j1 td tb92 t181 tvp tpr1 t7p1 tpg1, 78
-H, H, 11, t69 tbx1 tq9 t692 td t2k tdd1 tgn tzs1 t3q1 t7p1, 11
-H, H, 8, tl72 tg71 t692 tqc tzb2 tb8 tzr tq52, 8
-H, H, 12, tzg tz21 tb52 tsw tl72 tqc tc11 tzn t462 tf22 tp22 tv, 12
-H, H, 6, tm32 t9k ttb1 tv32 tzn t462, 6
-H, H, 8, t7g1 tp62 t68 tv32 t3w t74 tx41 t55, 8
-H, H, 13, tdn1 tc72 t9x1 t5j1 t38 t631 t74 t5v1 tx61 tv52 t4v1 t55 t1b, 13
-H, H, 6, t7c2 t452 t2j1 t5v1 tn21 t38, 6
-H, H, 13, t4k1 thg1 tkl1 tj02 t452 t5b1 tc txf1 t021 t412 tw11 tqc1 t38, 13
-H, H, 10, t69 t1j1 tp2 tb42 twz t412 tnj t64 tf71 t38, 10
-H, H, 11, t622 t1j1 tm42 t84 t19 t74 tx41 th92 tnj t511 tl31, 11
-H, H, 6, t622 t4p1 tp02 t8k tm42 ttb1, 6
-H, H, 7, t622 tkl t0f td51 txf1 tc11 t6d, 7
-H, H, 9, tzh thv tk82 tnt1 tt4 tc11 t0w1 trk1 tvc1, 9
-H, H, 7, tcw tk51 t8h1 tt4 tg9 tsz1 tpb2, 7
-H, H, 7, tcw t5c t0g1 tjl t6b2 tmf tgc, 7
-H, H, 6, tlb1 tjl ts7 ttc1 tgc t38, 6
-H, H, 8, thc tmx1 tcf tg32 tx01 tsq1 tgc td62, 8
-V, V, 10, t622 tqh tn51 t212 t1h tbz1 tx01 tsq1 t911 ttb2 V, 9, thc tdc1 t342 tvj1 tb02 t5q t29 tzm1 tfx, 109
-H, H, 5, t342 t81 tx01 tzn t0l1, 5
-H, H, 12, tfz1 t8j tnl t81 ttb1 tp42 tqf t9q1 tb81 tc61 tpm1 t0l1, 12
-V, V, 11, tfz1 t061 t512 twt1 tjt t0b2 t5d1 t9q1 t1x tcv tvq1 V, 6, tt82 t28 t301 tjt tq52 tdn, 116
-H, H, 11, tt82 tqh tsr1 t3x1 tpd tq3 tjt tkx tqv tc6 tc61, 11
-H, H, 12, tpn1 tk72 t821 tv32 tjt t1r ttk1 tqv t131 tz02 tj82 tm52, 12
-V, V, 11, tb21 tl51 t6g1 tdn1 tr tnf t8c2 tk6 thp1 tlb2 t4k V, 6, tft tlw t7h tjt tz9 tj82, 116
-V, V, 10, tft t21 t0g1 t141 t8c2 tw11 tj82 tnr1 t3b1 tvc1 V, 9, t3x1 tn81 t762 t4q1 tnm tv02 tq52 t6z t7w, 109
-H, H, 14, t0d1 tfd t9b2 t762 tn81 t461 tx01 t4d2 tq21 trk tw11 tx31 ttz1 tks1, 14
-H, H, 8, t8b1 t762 t1w tkd tv22 t9q1 tw11 tj71, 8
-V, V, 10, th01 t9t tz61 t1w t351 tt92 t181 tm02 th41 tbd1 V, 9, t4x1 tp62 t762 tm52 tz61 t2h t3h txb2 tr02, 109
-H, H, 10, tpn1 t212 tkf t1w t7n1 td31 t351 tjj1 th61 tr02, 10
-H, H, 12, tvb tcv1 tkf t2f1 tq82 tbs1 tg62 t2m t6k twz1 thb1 th61, 12
-H, H, 13, t622 tsr1 t4t tm7 ttx tt11 t86 t5k1 t0n1 tg62 tb62 tnf1 th61, 13
-H, H, 13, t622 t8b2 thp1 tgj1 tm7 t0s ts5 tb3 tb62 t6z t0g tnq1 tt6, 13
-V, V, 10, t602 tbg1 t212 tpf1 tr51 tz61 tjk1 t1 t6z t3p V, 14, t622 t942 t212 t3m tw81 t0b1 t7b1 tdd1 thp1 tnx1 tbd1 t6t ttp1 tv, 1014
-H, H, 12, t1j1 t3m tw81 t512 tpb t432 ttc t8s tt21 t6t t152 t391, 12
-H, H, 5, t011 t512 tjr tjq1 t6t, 5
-H, H, 7, tv7 t011 t692 tv6 tp12 tgp1 t6t, 7
-H, H, 10, tv7 tfj tz21 tjq th5 ttc1 tdn t6t tvc1 tf2, 10
-H, H, 11, tfj t921 t3x1 tbz tf2 tgj tvs1 thp1 t55 tgb1 tfp, 11
-V, V, 10, tlb1 t3x1 txs1 tn12 t6d2 t4b1 tb51 tl9 thp1 t2m1 V, 7, tlq t3c tsq tz02 tv1 tk31 tpc1, 107
-H, H, 7, tsx1 tth1 tl9 tl91 tlm t7p1 tpc1, 7
-H, H, 7, tn8 tfm txf1 t101 tz9 tz1 t7p1, 7
-H, H, 7, twc2 tq01 txg tbf1 t3s1 tln t7p1, 7
-H, H, 7, tq01 t9c tb01 tvb1 t3w t5v1 ttz1, 7
-H, H, 7, t3d1 t39 td t3w t182 th1 tgk1, 7
-H, H, 8, t39 tcv1 tr51 tzw1 tq61 tt32 t33 td6, 8
-H, H, 8, tt82 t6r t241 tr51 t332 tr82 tj41 t372, 8
-H, H, 11, t6r t332 tn12 t0s tv32 tt02 tz61 tvs1 t8n tpb2 t32, 11
-V, V, 5, t2x1 tf tmf tv32 t6w V, 7, thc tqb2 twb2 td81 tk3 t8n tws1, 57
-H, H, 5, tsw tzw t6w1 tv32 t8n, 5
-H, H, 7, tnl tp62 t5f1 tzw ts5 trn1 tbs, 7
-H, H, 12, tt72 tp62 t6f1 t5f1 t7d tbj1 tdg1 tvs1 t4r ttz1 t6r1 t781, 12
-H, H, 12, ts92 t9c t952 t4n1 t7d tw12 tr42 tk6 twt ttb2 t6r1 t5p, 12
-H, H, 7, tqs tg32 thv t0k1 tr42 t6r1 t6t, 7
-V, V, 5, thr tct1 t18 tsq t6r1 V, 9, trr t8j t4d1 tv32 tps tpq tl71 tst tr42, 59
-H, H, 13, trr tr11 tgn tr1 txf1 t31 t3g t4b2 tl2 t6r1 tbd1 t682 tpc1, 13
-H, H, 12, tx91 trr tcl tv61 t512 tfc2 t3j1 tkb2 tp7 t6r1 t5 t3v1, 12
-H, H, 6, t3w1 tg7 tfc2 t3j1 t3d tvm1, 6
-H, H, 7, tlp tgx tfc2 tgd ttc ts42 t86, 7
-H, H, 8, t2x1 tjp ttc tk6 tdm1 t5p1 t2m1 twg1, 8
-H, H, 12, t9c1 tt t9r1 tjp ttc t162 tk91 tx41 t412 tbj t6r1 t601, 12
-H, H, 14, twv1 tt t212 t512 tsr td51 tk22 t1s tr1 thd tc42 t162 ttc1 tpg1, 14
-H, H, 11, tpg1 tt9 t3c1 tk22 tr82 td7 tb9 twz tlm t78 tmd, 11
-H, H, 8, tjb tqk1 tbm t511 tw42 tsz twz tfb1, 8
-V, V, 10, tdg t66 ttb1 tzk1 t7m1 tw52 tlj tp3 t64 tl31 V, 7, tk82 t6v1 twz t41 tfb1 tv8 tz42, 107
-H, H, 6, tzk1 tf81 tt11 tfb1 tv8 tpw1, 6
-H, H, 8, tfv twc1 t3 tt11 t6d2 tjm tv52 t8l, 8
-H, H, 7, tn51 t311 tt11 tvr t771 tcz tn3, 7
-H, H, 14, twp ttb tm81 t64 tt11 tf72 tdz1 tkt1 t6h tvr tdv t57 tr02 t7w, 14
-H, H, 7, tgl t7l1 tp81 t6h tvr tnj t3n, 7
-H, H, 7, t8l1 t5t t522 t0h1 t3g tnj tld1, 7
-V, V, 10, tsl1 tt82 t1v1 tg71 tvk1 t672 t0h1 t4r1 tnj t8l V, 9, thg1 t221 t332 t4n1 t0h1 tll1 t3g tst thp1, 109
-V, V, 11, t7q1 tff t9h t532 t221 t0s t58 tmq t3g tf42 tpc1 V, 6, t4x th11 tn51 t5w1 tq32 t291, 116
-H, H, 6, t4x t6r tcn1 tx51 t5w1 twg1, 6
-H, H, 11, t6r t621 tbz1 tkj1 ts6 tqc2 tb51 tdd1 trq1 t2m1 twg1, 11
-H, H, 6, tdn1 tt22 tcv1 t0h1 ts6 tss, 6
-H, H, 8, tt82 t0v t3c tjh1 tcv1 tsm1 tcn tq32, 8
-H, H, 8, t8b1 t76 tcv1 tjk t6f t8w t1m1 tpg1, 8
-H, H, 13, twc2 tsj1 t1v1 tzj1 t452 t7v1 tlw tfp t4b1 tc2 tsg ttw1 tpg1, 13
-V, V, 5, t66 ts01 t711 tc2 t0f1 V, 6, t1v1 t171 tpb t561 t3q txb1, 56
-H, H, 10, tgt1 t82 t74 txf1 t561 tzq1 tc2 t3b1 t711 tt6, 10
-V, V, 6, tf21 t011 t512 t141 twj1 t561 V, 6, t8j thc trv tfc tvc2 tf42, 66
-H, H, 6, trm tdn1 t141 th1 t561 tpr1, 6
-H, H, 13, t261 trm tkr1 tz22 tdn1 ttb1 tmn tbf1 t31 tnn1 tz02 tnw tdp, 13
-V, V, 11, thg tz22 tpb1 tkf tc91 tb02 t2m tbj trt tjr1 t0l1 V, 6, t5k t6s tjd1 tz02 t55 tq81, 116
-V, V, 10, t8b1 tts1 tb5 tq81 th42 tr52 tlv1 tp21 t55 tx71 V, 6, t9h t6w t74 tzl tz02 t4r, 106
-H, H, 14, tpf t6c2 tnz tk71 tdh tsc2 t6w txf1 t4t1 twr1 tjs1 tj12 t55 tf91, 14
-H, H, 12, tj8 tcv1 ttb1 tzs tkt1 tmc1 txf1 tl72 td62 tvt1 t55 tq52, 12
-H, H, 8, tfw t9d1 t1s tkt1 t991 tr5 tm52 t2r1, 8
-H, H, 11, tvk tz21 t491 t8t1 t09 t1s tkt1 trb trk tc2 th5, 11
-H, H, 7, ts92 tt t8t1 t4d2 tqx tl5 tf42, 7
-H, H, 7, t161 t8t1 tl3 t271 tgs t572 tkg, 7
-H, H, 10, t161 tp41 t8t1 t692 t532 t8h1 t3p1 t1 t5c1 t0w1, 10
-V, V, 10, t602 t302 t692 tgj1 tdp1 t7n1 t3w tx41 tjw1 tkc1 V, 6, tm81 tsp tf12 t7g t1 tjw1, 106
-H, H, 12, th11 tbh t011 td tkp tdp1 t911 t481 t8h t1 tq52 t6r1, 12
-H, H, 7, td tht1 tqc tdp1 t392 tbj t511, 7
-H, H, 12, tv9 t0j1 tg71 t9h tqc tqp1 t7d tdc t1d1 tbj t3z tmn, 12
-H, H, 12, t0j1 tvk tnl tvc1 tqc tfq1 tqv1 t8h1 tnj1 thp1 tnr1 tzm1, 12
-H, H, 7, t34 tnl t5l1 tjj tv81 tld1 tkc1, 7
-H, H, 12, tsj1 tt t892 tz41 tpb t9q1 t4t1 tv81 trn tld1 t6r1 t2m1, 12
-H, H, 14, tpn1 tt t8l1 tm81 tfx1 tvc1 t452 tr51 t731 tpb th8 tb91 t7w t0k, 14
-H, H, 8, t2 t452 tbx t6c1 ttg1 tvf t33 thf, 8
-V, V, 12, tpl1 t452 tkf tgz tlz1 t332 tn62 tqf tsk1 t88 t771 trt V, 7, txc tjb t332 tvf tt21 t001 twg1, 127
-H, H, 6, ttn tw02 t8q tfm1 t771 twg1, 6
-V, V, 6, tb7 tr82 trb1 t351 tl31 tqq V, 9, t861 tcf tg41 t8q tnv1 tw3 tr42 tc22 t8p, 69
-H, H, 13, tjt1 thr1 tw81 t0t tb7 tbw1 t0p ttl1 tr42 tpq1 tf42 tk61 t7p1, 13
-H, H, 7, tj8 tfz1 tbv1 tw52 tgb tbt1 t7p1, 7
-H, H, 7, tfz1 t34 tz91 td tl3 tz02 tp8, 7
-V, V, 6, t622 t2d2 tr42 trh1 t701 t2r1 V, 7, t622 td82 td t0m tjb1 t082 tt21, 67
-H, H, 7, tm32 tn51 tjs1 t141 t5q1 t701 tc21, 7
-H, H, 7, trr t3c1 t141 tc32 t322 th61 tbs, 7
-H, H, 7, t81 tcn1 t421 tw11 tt92 tn3 th61, 7
-V, V, 10, t81 tpp tm7 tdp1 tv02 t561 tqv tpp1 tn3 tdm1 V, 9, t921 tqb2 t6c twg1 tcn1 ts01 t022 tdm1 tp51, 109
-H, H, 7, t6c tc51 t81 tzb1 twt1 trn tgr, 7
-H, H, 6, t971 tsw tn81 tc51 tgf1 tv72, 6
-H, H, 6, tsw tz21 tjt1 tns1 trq1 ttc, 6
-H, H, 5, tgs1 tcq1 tv51 trq1 tvh, 5
-V, V, 11, t3t1 t981 t2x1 t151 t9d1 t031 t131 tqv trq1 tw11 t062 V, 5, trl1 t4m1 tp21 t55 tdp, 115
-H, H, 12, th7 t0g1 t8z1 tb7 tpb t031 t242 t032 tnq1 t2c2 tpb2 tdp, 12
-V, V, 5, thc tdg tl3 tq21 t242 V, 7, tpn1 t4x tb5 t9z1 t5s tr22 tpb2, 57
-H, H, 12, tpn1 tn81 tjh t882 t802 tm21 t5s twj1 t88 t162 tl72 t572, 12
-V, V, 14, tqb2 trp1 t1g tn81 tsl tq81 t882 tvz tj01 tdg1 tdd1 tv81 thh1 t63 V, 5, t382 tbm t3p1 thd thw1, 145
-H, H, 13, tm9 tsw tdn1 tkx1 t0c tbm tqc tnf tk82 t2t t5v1 tdd1 th2, 13
-H, H, 6, tkx1 t0c tpk1 tvr tfh t511, 6
-H, H, 7, tkr1 t0c t1s tdz1 tl81 th8 tp6, 7
-H, H, 5, tpx1 tl81 tj41 tgg t3q1, 5
-H, H, 6, tt72 t881 tt11 t9q tk6 t3q1, 6
-H, H, 13, thn t4q1 tcr1 tcc tht1 t882 t881 t262 tbp tmm tf42 t21 t3q1, 13
-H, H, 10, t4x1 tz91 t8t1 tht1 t221 t881 t561 tss1 ttb2 t7p, 10
-H, H, 14, tvk t011 tz91 tjl tr2 tm t7p1 tn42 th1 tv81 tb32 ttb2 tx62 t2m1, 14
-H, H, 12, tm1 td82 trn tqv1 t351 th1 ts02 t5v1 tjr1 ttb2 t1v t691, 12
-V, V, 10, tf7 trm t541 t222 trz tqv1 t9t1 tvh tbj t4l1 V, 9, t7q t011 td82 tzt1 t951 tgd1 tgn t3p tcl, 109
-H, H, 10, tqk1 t9w1 tqc tl9 txz1 tg7 t2m t991 t3p tcl, 10
-V, V, 10, tj8 tqb2 tvk trv tlt1 t3g t412 t991 tlg tlg1 V, 14, tcw1 t762 tq3 tm42 t7c tg7 t2t t6v1 t3g t4z t92 tjj1 t8x1 t7x1, 1014
-V, V, 11, t132 tm42 t792 trv tk22 th72 trc2 tjj1 t1j tjw1 tzn1 V, 8, tqh1 t46 tz41 t011 tw1 t7n1 tk31 tt6, 118
-H, H, 11, ts92 t13 t332 tn3 tdv1 t561 tsm t491 tjj1 tjw1 tqj1, 11
-H, H, 12, t51 t7d1 t071 t882 t332 tn3 tfg1 t771 ttc1 t3b1 t822 tbn1, 12
-V, V, 5, tpc tqx t031 t3j1 t4q V, 8, twv tr82 tbn1 tg62 tm02 tjs1 t38 tvd, 58
-H, H, 7, t651 tqz1 t7x t292 tw11 tjs1 tfr1, 7
-H, H, 6, t792 tvb1 tlr1 t43 tfr1 tmn, 6
-H, H, 13, tf7 tfr1 tm22 t342 tbv1 t3k tb7 thz tf01 t85 t21 tpb2 tt6, 13
-H, H, 6, tqq1 tx82 t692 t3k t342 tl71, 6
-H, H, 7, tqk1 tdb1 t051 t3k thr t782 tx72, 7
-H, H, 5, tqk1 tqs t6c2 tw11 t1r1, 5
-H, H, 5, tqk1 tk5 t9x1 tqk tdv, 5
-H, H, 6, t9x1 th42 tr41 tnz1 t1w1 tsf1, 6
-H, H, 6, t9h t862 t1w tk21 tnz1 tzn, 6
-H, H, 7, tc81 tfd t2 tn32 t9h t88 t6t, 7
-H, H, 6, thl1 t2 t6n1 t66 td51 t2z1, 6
-H, H, 5, tq01 td51 trk tvf tfq1, 5
-H, H, 5, tgb2 t6r tf42 tvf t7m, 5
-H, H, 10, t1v1 tr51 tvb1 tnn tj91 t661 tw t2m tf42 tvf, 10
-H, H, 12, tcj1 t1v1 tz21 tzk1 th42 tw t5w1 tqw1 tk61 t4z1 t0t1 tjw1, 12
-H, H, 7, t6g t1v1 t4l trc1 thj1 t111 t2q, 7
-H, H, 12, t9n tjb2 t1v1 tq3 td51 ttj1 t882 trx tn12 tl72 t0f1 tbj, 12
-H, H, 10, trr t1v1 t68 tw5 twq t15 t4d2 tw2 t0f1 tfh1, 10
-H, H, 5, trr t4d2 ts2 tc6 t33, 5
-H, H, 13, tqk1 tzk1 tm42 t4d2 tsv t1z1 t542 tww t852 thv1 t4w t33 th61, 13
-H, H, 12, tbx1 tc51 t91 t4d2 tb7 tb8 t33 t4t1 tp5 tm91 t291 tpr1, 12
-V, V, 11, t5r1 tgt1 t7b2 tb7 tmj1 tlm1 tfs1 tgc1 t4t1 tbj t6r1 V, 5, t7s1 tm7 trk tc61 tv, 115
-H, H, 13, t7s1 t13 twn1 tzw trd tgb tq92 t481 t3q trh1 tbj tl31 t6t, 13
-H, H, 6, tqc tf52 tqv tcj1 thh1 tl31, 6
-V, V, 5, tb tc62 tww tnr thh1 V, 6, tjs1 tgw tcs1 t07 t511 t86, 56
-H, H, 6, t7q1 tps1 t7w1 t4r t511 tpb2, 6
-H, H, 8, t9k1 tlb1 thg1 td7 tnk t682 t4r tzd1, 8
-H, H, 6, t7j1 tqm1 td7 tfc2 t481 t021, 6
-H, H, 6, tsp tw81 tsz tj91 tfc2 tf51, 6
-H, H, 14, ttm tpn1 thk1 t34 tzz t4q1 tn22 txz tj91 tqf tcn t3h tjr1 t912, 14
-H, H, 6, thc t221 tr2 tvj tjr1 tn92, 6
-H, H, 10, tt t1v1 t532 t221 thr tc82 t2b1 tr42 tjr1 t4m, 10
-H, H, 12, tjn1 t9k t0c tb5 td52 thr tsh1 tv11 tq91 tr42 t8f1 t7v, 12
-H, H, 6, trt1 tb5 tm7 t6m1 tv1 tn5, 6
-V, V, 12, tg3 tql1 trt1 t2k t9m1 t8h tq51 tn3 thq tpr1 tqx1 tp71 V, 6, t7l tx51 t6d2 tlc ttl t1, 126
-H, H, 6, tzw tx51 t3z1 tc21 tc61 tr9, 6
-H, H, 6, th7 t7d t6z tc21 tcl tt6, 6
-H, H, 5, t921 t7d td62 ttb2 trt, 5
-H, H, 6, t8l1 tts1 t512 tqx td62 t462, 6
-H, H, 5, tjb2 tgt1 t4m1 tb91 t462, 5
-V, V, 10, t8j t3t tkx1 tk22 tzt1 t332 t4m1 t33 ttl1 tdj V, 5, tvr1 tdp1 t9j1 tvc2 t2b2, 105
-H, H, 13, tpn1 t861 t8j t6c tb01 tdp1 tr1 tzr tsm tx5 tnj t93 t2m1, 13
-H, H, 12, t232 t0j1 t6r thn tkf tdp1 td1 t131 t2p tnj t641 tbn1, 12
-H, H, 5, t0l t6r t9d1 tkf t761, 5
-H, H, 8, tl72 t9d1 tkf t1l1 t4f t0s1 tn92 tkc1, 8
-H, H, 5, tsx1 t071 t1d1 tgn tkc1, 5
-H, H, 10, t651 t5v t161 t5l1 tc82 tm7 t4r1 t031 txk1 tkc1, 10
-H, H, 5, tls tcw1 thg1 txk1 t0l1, 5
-H, H, 7, t212 t0l1 t6z1 tn12 tmj1 t35 ts8, 7
-V, V, 5, th82 td41 tzn ttb2 tbf V, 7, t6z1 t271 ts7 tq32 tc2 tjj1 t86, 57
-H, H, 12, t1j1 t4f1 thx tv5 tjt td7 t6m1 tcm1 tzn tfd1 tjj1 tjr1, 12
-H, H, 6, tjz t4d1 tnf tjt t802 th1, 6
-V, V, 11, t4d1 tsl t7n1 t6w t481 ttz th1 tcq tj82 tf71 tlg1 V, 6, tkr1 tdg t291 trm1 tkh ttt, 116
-H, H, 10, t0j1 tbc thx t4d1 tt11 tq2 ttz tgp1 tr5 tqq, 10
-H, H, 6, t7l1 thn tq42 t291 tqq twj, 6
-V, V, 13, tg52 tdr t83 t4t t66 t1s t662 tww tmv1 t4v1 twk t291 tpc1 V, 7, t7k1 tlh t881 t9w tq52 tc61 tdp, 137
-V, V, 11, tfj t7d1 ttx1 tpp tls1 tt41 tb7 th51 t5m1 tk6 td62 V, 8, tx t7k1 t1s t2b tlf1 t242 t3q tld1, 118
-H, H, 10, t7k1 t7d1 t8f t3v thv tn22 tmj1 tvl1 t3q t711, 10
-H, H, 5, tvj1 tvl1 tf41 tr42 t1, 5
-H, H, 5, th1 tq12 t1 t86 td32, 5
-H, H, 11, t2k1 t002 tf11 t1f1 t2t ttg1 tk6 thc1 tgr t86 t391, 11
-H, H, 6, t1k t002 tf62 t1q tnx tt3, 6
-H, H, 6, tmf tnx tr82 t9c2 t5r th71, 6
-H, H, 5, tlz1 tr82 tq52 ttb2 t312, 5
-H, H, 10, thc tl4 t2x1 t9d1 tlz1 tpb td41 t3g tq52 trt, 10
-H, H, 6, tn51 tk22 t8z1 tq52 tsw1 tj52, 6
-H, H, 11, tn51 t1v1 t692 t66 t6s1 tz61 t0h1 tlf1 trn tzm1 tt1, 11
-H, H, 12, tt82 t8l1 t941 t8t1 t3m tlf1 tf01 tmt t43 tt21 tr5 t1r1, 12
-H, H, 10, tt9 t011 tbv tpb tq21 tf01 tvr t931 tt21 tdp, 10
-H, H, 5, tdp1 txf1 t9v t3q tdp, 5
-H, H, 13, tl51 tz21 tdg t2c tw6 tvb2 t1d2 t372 t3q thh1 t5p1 t1b tdp, 13
-H, H, 4, tpz tf1 tzk1 t3q, 4
-H, H, 5, tkr1 tzk1 t9z1 td7 trs1, 5
-H, H, 6, th11 tf11 tbz1 t9z1 t7p1 t0d, 6
-H, H, 5, t622 tfj t9z1 t1n1 thc1, 5
-H, H, 6, ttn txf t911 tzt1 tg7 thc1, 6
-H, H, 6, tpn1 tqh ths1 tj41 thc1 tv, 6
-H, H, 12, th4 t3c1 t1g t452 tzm tvr tv tq7 trt tk81 twn1 t3v1, 12
-H, H, 14, tbh tvc1 txj1 tt7 tq31 tzp1 tvr tq91 t4s1 t4r tk61 tmq1 tbb2 t8l, 14
-H, H, 5, ths tm81 tts1 tq91 tt31, 5
-H, H, 5, tm81 tqx t351 txf1 t551, 5
-H, H, 12, t7q1 tz91 t9d1 tbv t882 tr2 tv32 tvc2 t351 tnr t9s1 t6t, 12
-H, H, 12, t921 tz91 t621 t512 t141 t882 t0p tq31 t0n1 tj7 tc41 tdp, 12
-H, H, 10, tgb2 t422 t1g tqq1 tz91 tr92 tq31 trk t531 tqq, 10
-H, H, 12, tj8 th32 t161 t512 tvb1 t6l twz ttd t7g t2n trk tm91, 12
-H, H, 7, tx tsk tt81 tjp ttd t6k t55, 7
-H, H, 5, th01 thc t771 trp t55, 5
-H, H, 5, thc tj9 t2f t88 tp7, 5
-H, H, 11, thc tqs tp41 tk82 tqp1 tqv1 tpc tfc2 tt01 tpr1 tpb2, 11
-H, H, 11, t5k tp41 tmc tfc2 t9q1 t561 tww tkq1 tdv t35 tpg1, 11
-H, H, 5, tw92 t9w t561 t2r1 tfb2, 5
-H, H, 11, tv9 t4j1 t0v1 tfl1 tlz1 t332 t742 tgw1 t561 t16 tgb1, 11
-H, H, 5, tv9 tc31 t96 tw22 tvt, 5
-H, H, 13, t651 tfz1 tv9 tz22 t0z tmr1 tqz t6l1 tvr tdv tbd1 tjw tn4, 13
-H, H, 11, t0x t651 tz22 tw81 t3k tfz t3w tnz1 tjn t001 t8l, 11
-H, H, 13, tt72 t26 tn81 tx51 tqp1 txj tfg1 tnc2 tdk1 t0g tld1 t001 t8l, 13
-H, H, 5, tl6 tn81 trd1 t6b1 tfc1, 5
-V, V, 11, thn t7j t1q t221 t08 tpb2 t3r1 tr21 tbs tlg1 tz3 V, 7, tp62 tn81 tz8 tb02 tpb tpb2 tlg1, 117
-H, H, 11, tqs t1g td32 tl3 tt51 t832 tmf t1s1 t3r1 t5g tfc1, 11
-H, H, 10, trr t7k1 tqz1 tm81 tgt1 tb7 tpr t4w tzl td32, 10
-H, H, 12, t6c td tpp th42 tlz1 tvf tb8 tpr ttc1 tgn1 tx72 t202, 12
-H, H, 5, thk1 t6c t02 t882 t98, 5
-H, H, 11, tkn1 t3x1 tcv1 t81 t882 tkp t911 tp1 tpt tt21 t202, 11
-H, H, 11, tk1 tdn1 tnl tdg t141 t2t tlk1 tt21 t3q1 tqq tj, 11
-H, H, 12, tnl t672 tg3 trf t8b tjl tnv1 t6j t6h t1r tms tk61, 12
-V, V, 13, t3t t672 t3m t5r1 tx1 tpc2 thj t361 tx4 tqv t05 t362 ttm1 V, 6, t161 tx41 tbl1 ttz1 tr02 tdj1, 136
-H, H, 12, t3t tnb t311 t881 tms1 t3g1 td92 tgc tp21 tjs1 tqx1 tpg1, 12
-H, H, 12, t8j t0j1 tkr1 t002 t39 t052 t3t t2x1 td72 tb12 t8c1 tk31, 12
-H, H, 12, tgb2 tkr1 tg42 tlz1 thr t8c1 tn71 t3j1 t7z tkb2 tfr1 tw41, 12
-H, H, 13, t4x1 tx91 tg42 trz1 tm31 ttg tnr tcg1 trw tjj1 t3b1 t291 t7p1, 13
-H, H, 11, t34 tm81 t6r1 t0b1 t3k tvr tm02 td3 tvv t3b1 t35, 11
-H, H, 11, tm81 txg tq tm42 t992 td4 t242 t1c2 tkg ttc tds, 11
-V, V, 10, tv61 tb02 tc62 t6h t561 t8h twz tzk ttc tdj V, 5, tmw tjt t3p t2p1 t4, 105
-V, V, 10, tv9 tkr1 tq5 t6z1 tjt tdg1 tzx t3q tcl t9d V, 11, t4x1 tv9 tc51 tht1 tr92 txz tgz1 twz t4s1 tv8 trt, 1011
-H, H, 10, t81 t532 t4s1 tjt txd1 t412 t0q1 tp91 tgb1 t0l1, 10
-H, H, 11, tw61 tsp t5r1 tkj tw91 tjt tvx t852 tks1 t7k tdp, 11
-H, H, 11, tm9 t4q1 t5r1 tg7 t5h1 t6w t8v1 tn71 txd1 tk31 tqz, 11
-H, H, 5, t1h tnh tbj tqz tjw1, 5
-H, H, 6, t4x tj22 twz tjq1 t21 tc61, 6
-H, H, 5, t4x t681 t7 t481 tn3, 5
-H, H, 10, t34 tb5 t4n1 tlr1 t021 tn3 t78 thc1 t38 t3v1, 10
-H, H, 11, t34 tl6 t4c2 ttn1 tvk tgq tgj1 th52 t351 t5w1 tld1, 11
-H, H, 11, tvk t762 t532 t0b1 td92 t1n tx41 tsq tdm1 tl1 tx71, 11
-H, H, 5, t8v t621 tbw t73 t172, 5
-H, H, 5, tg1 tzw tmj1 tkt1 t64, 5
-H, H, 10, trm tcw1 tfw tz21 thr1 t952 tls1 tk92 tmj1 tcq1, 10
-H, H, 5, tcx tpd tqp1 tdz1 t2m1, 5
-H, H, 11, tr01 tsr1 tjc tpd tlz t6b tm7 t6d2 t251 tl72 tqq, 11
-H, H, 10, t76 twr t1v1 tpd tf2 t1s tvs1 t4m1 t001 tv, 10
-H, H, 10, txq t76 tbp1 tqt1 trz t4g1 tx8 t4m1 t2w t701, 10
-H, H, 4, tdg1 tsq1 t8t1 tp12, 4
-H, H, 11, tzj tsw tdb2 tsq1 tb12 t211 tk91 tf12 t7v tn4 th9, 11
-H, H, 12, tt tnl t4q1 tp72 ttx1 th61 t7n1 tkn t991 t0t1 twn1 tkc2, 12
-H, H, 11, tt t792 tmr1 tcc tmh t431 tdk tt2 t6d tld1 tsb1, 11
-H, H, 11, tgb2 trl1 t6z1 t2d t431 tdz1 tvh thp1 tdx1 t7w trc, 11
-H, H, 11, tsj1 t232 tr2 tvb1 t0h1 tt11 txf1 tmb tk6 tt21 tc8, 11
-H, H, 11, t672 t9z1 th52 t5v1 tf01 th22 trk tk6 thz tbd1 t56, 11
-H, H, 10, t6c t24 t42 tpl t311 t3p1 tfc2 tdk tjj1 tvc1, 10
-H, H, 10, ttp t5f1 t0c tr8 t7x tfc2 tf42 t64 tt21 t521, 10
-H, H, 10, trx tb71 t5t1 tg7 t102 t9q1 tng1 tt21 t55 t5z1, 10
-H, H, 10, t4q1 t13 trx txj1 tdp1 tk82 tx11 tnt tnm t511, 10
-H, H, 10, tq5 t011 tjt1 tr51 t3k t221 t7d t8h t001 t291, 10
-H, H, 10, tr51 tqc txh1 t19 tm02 tfb1 tkk tcf1 tzh1 t2m1, 10
-H, H, 10, tft t11 t3c1 tzx1 tj3 tb7 tl71 tj82 ts72 tz42, 10
-H, H, 10, t9x1 t3p1 td7 th1 ttd t3r1 tgc tz42 t8l tt42, 10
-H, H, 10, tz82 tz91 t9x1 tcn1 t9j1 tl22 th12 tf42 tw22 t63, 10
-H, H, 10, tq01 tlw1 txx txf1 t771 tdd1 tb91 tnj thc2 tgr1, 10
-H, H, 10, t622 t2v1 tzg t8d tbm tht1 tx01 t7n1 trd1 tdp, 10
-H, H, 10, tm9 trh tzg t3x1 tnf t6k1 tr1 t38 tzm1 tkc1, 10
-H, H, 10, tmh1 t7c2 txg tv32 tdg1 t74 t3g tdc2 thb1 tbn1, 10
-H, H, 10, t6c tpd td82 tkf tpc tdg1 t1 t6z tmz tpc1, 10
+H, H, 10, tqz1 t8b1 tqp1 t351 twd1 tms tl3 tg02 t0c t21, 10
+V, V, 9, tv61 t242 tqz1 tck trq tvh tlg1 t261 ttw1 V, 9, tzj tcl trv t0t1 tf21 tr02 tht1 t351 tp2, 99
+V, V, 14, tk82 tqz1 tdd t452 t4v tqc t65 tj91 tsx tv tz9 tcv1 t1w t822 V, 14, tsv1 tkl t161 tzr t412 tvh tf5 t1n t7n1 thb1 t6r1 tpg1 tcf tb62, 1414
+V, V, 14, tv61 tqz1 ts31 ts92 tv7 tm3 t161 t66 tnf tqk t9s1 txj1 thb1 txq V, 14, thm t9l1 t9d1 tn52 ttb1 tzr tbh ts01 t7d thp1 tt82 t9k t532 tdl1, 1414
+V, V, 14, t991 tqz1 tdb2 ttb1 tld1 t8l1 tz91 tm42 t011 tqm th31 tdc2 tpx1 thh1 V, 14, t97 tdm t9d1 t6x t4n1 tdg1 tg62 t221 t78 tm11 tv3 t74 thp1 t4t, 1414
+V, V, 9, tb02 t6x tcc tk22 t7j1 tjr1 tjj1 t802 tw11 V, 9, t3g t0h1 t4n1 t221 t332 thg1 thp1 tst tll1, 99
+V, V, 9, tl42 t112 t8t1 tk22 tfb1 tvc2 tjr1 tq21 tqv V, 9, tx41 t081 tzw t221 twz tb32 tkf tmd tm1, 99
+H, H, 11, twz tr82 t78 tk22 tb9 td7 tt9 t3c1 tlm tpg1 tmd, 11
+V, V, 9, tq01 t982 tt9 td41 ttz1 tm6 tpg1 tbm1 t1w V, 9, tqs tkf tgj td7 tb9 t7d1 t8l tdn1 t7p, 99
+V, V, 9, tq01 t0t1 tzr td7 tf9 t082 tv82 t0c t4g V, 9, tfc2 tn41 tm81 t7d1 t6z t141 tsr1 t63 thh1, 99
+V, V, 9, tsj tnj t9b1 t0t1 tqs t161 td7 tdd1 tdq1 V, 9, t6h tk61 tjl1 tn81 t7j1 tnf tt tst1 tgt1, 99
+V, V, 7, tqb2 t0l1 tr82 t161 t1k1 tbv tq91 V, 7, t5v1 t13 tnf tw22 tvc1 tbm1 tgb2, 77
+V, V, 13, tcl t0l1 tgk1 tr82 tt21 t1m1 tf71 tv32 tlg t2n1 tb7 tdp1 tnl V, 13, t3r1 tbb t9x1 t4d2 tts1 trs1 tf21 tfr1 tzg tbv tjp1 tsw tnm, 1313
+V, V, 9, tzq t151 tr82 t86 t8t1 tp41 t9w1 tss1 td V, 9, t3r1 tb5 tvl tt21 t13 t1p1 tt tbb1 tj9, 99
+V, V, 14, t3r1 t001 t241 t3g tm9 tth tc21 t002 tn91 tbc2 tbh1 t3b1 tbv th42 V, 14, twj1 t991 tgp1 t512 t13 tqq t291 tr1 tt twx td tvb thh1 tbd1, 1414
+V, V, 13, t3q t361 t221 tv42 tqq t4t1 tr1 td81 th61 t9s1 tgt1 t4d1 t672 V, 13, thh1 tsj1 t3r1 tj4 t7w td82 tzk1 tpn1 tq81 t13 t5f1 tvp1 t311, 1313
+V, V, 5, tc62 tww tb tnr thh1 V, 5, t361 tz61 t511 t5f1 t472, 55
+H, H, 7, tpc tww tz61 tpq1 tm42 tbs1 tk71, 7
+H, H, 7, tpc tg6 tww txg tms thc1 td62, 7
+V, V, 7, tpc tqn1 tjb1 tkf1 tdv tv22 t471 V, 7, t861 t19 td41 td62 t3w tgt1 trn, 77
+V, V, 14, tp62 t861 tqg1 tk52 tj82 tn4 tqh tch tm42 t41 tlm tgt1 tql thb1 V, 14, tq01 tqb2 t2v t7w t19 tld1 thz t762 th8 tt6 tt4 t0b1 tcf trc1, 1414
+V, V, 9, t861 tw3 tr42 tnv1 t8p tg41 tc22 tcf t8q V, 9, t001 tqh1 t3m tmj1 tl61 t2n t1w tzs1 trc1, 99
+V, V, 8, tqh1 tqr1 tqq t7j1 tbv tms tdz1 txg1 V, 8, tk82 tf82 t861 t621 td01 tqx tst tsr1, 88
+V, V, 9, trw tkl tn81 tqr1 t8t1 td41 t882 t3t tq22 V, 9, tqv tvn1 ttb2 tw32 tc6 tst tw81 thb1 tlz1, 99
+V, V, 12, tn71 tqb2 t6h1 tpg tn3 tw32 td41 tvk tz21 t7q1 tjr1 t391 V, 13, tft1 tv8 thd ts1 ttb2 t582 tfj tr02 tb82 th8 t692 tw6 ts3, 1213
+V, V, 13, t33 t432 t0l1 tr42 tn12 t332 tvk t8h1 t4x1 tnl t4d1 t672 th11 V, 13, tz22 tsv1 tbv1 t8t tph tr02 tvm1 th8 t011 tvc1 t8g t5f1 tz5, 1313
+H, H, 13, t33 t621 t771 tj ttb2 tr02 t3b1 tdf1 t7g1 tvc1 t5f1 tsq t662, 13
+H, H, 9, t661 t621 tg7 ttb2 tb9 tf41 t8n t64 t9k, 9
+V, V, 14, t7t1 t3q t361 tg7 t4x trr tm92 tqh th8 t7q1 t77 t212 t6w tmf V, 14, tk6 t4c2 t38 tmj1 t0b t74 tf41 t2g t131 t6d2 tlg1 t2t tz71 twn1, 1414
+V, V, 9, tn72 t0f1 tqb2 ttc2 twz txf1 t2t trp1 tqf V, 9, t38 tl51 t74 t64 tz21 t291 t6w t3w tpt, 99
+V, V, 14, tqb2 tdg1 t1g tn81 tq81 t882 tdd1 tv81 tj01 tvz trp1 t63 tsl thh1 V, 14, t47 tx52 t621 tt72 tm51 tdc1 ttz tpr1 tg31 t961 t4x1 t2t t6t t6, 1414
+V, V, 11, trt tv8 tv9 tc51 t4s1 twz tgz1 tht1 t4x1 tr92 txz V, 11, th1 tsl tj82 tf71 ttz tcq t7n1 tlg1 t481 t6w t4d1, 1111
+V, V, 8, ths tj41 t361 t8n1 t9l tht1 ts22 tj9 V, 8, tv9 trr tkr1 t3d1 t481 t812 tsv tmb2, 88
+H, H, 5, trr tv9 tr5 tjf1 thb1, 5
+V, V, 13, trg1 tsb2 ttb1 t1 thv tk22 tgc t34 tr5 t4t1 tmf tbd1 tf12 V, 13, t53 tpc2 trr tjc t211 tm81 tmk1 tvh tt92 t3c1 t622 ts41 tq42, 1313
+V, V, 11, t0f1 t852 tx71 t4f tvh tp9 t4t1 tbv t0z tjz1 tr5 V, 11, tjw1 trv th72 tk22 t792 t1j tm42 tzn1 tjj1 t132 trc2, 1111
+V, V, 10, tx41 t74 thk1 tqq tdd1 tm42 th8 tlm tpg1 t5v1 V, 10, t0f1 tk61 twz ts52 tc21 ttz1 t4t1 t3k t5r1 tcc, 1010
+H, H, 8, t74 tvh tqq ttz1 t4t1 tx51 tvr tkc, 8
+V, V, 7, tcz1 t572 t4x thh tmm1 tq81 tgb2 V, 7, tft1 tn81 tvh tsg tn51 tvr tpg1, 77
+V, V, 13, tjs1 tpb2 t4x t7k1 tv02 tsg twm tn4 t2t tc61 t5v1 t4d1 tkw V, 13, tft1 t861 tc3 t6x t0t1 tlm t1q tpd tnc t34 t2t1 tqv1 t21, 1313
+V, V, 13, tj41 t2p tlm tpd t161 t7v t09 tms1 t8h1 t141 tsw tzl thc V, 13, tr81 tvh1 t452 tnk1 tdm1 tl6 tc61 t682 t5f1 tmf1 tgd t4d1 td32, 1313
+V, V, 7, t4z1 tj41 t272 tg71 t7v td41 t471 V, 7, tcs t4r1 tvz1 tpn1 tc61 t9p1 tz9, 77
+V, V, 7, tj41 tjw1 tq01 tg71 t7v tbm tjb1 V, 7, tpc1 t3c tv1 tz02 tk31 tlq tsq, 77
+V, V, 12, tj41 tbj tk82 tc2 t78 thz tjb1 trq1 tv1 tm52 ttw1 trk V, 12, tfp1 tp21 t031 td82 t412 t381 t74 t7d tqc2 tzg tf22 t93, 1212
+H, H, 9, t181 tx1 tp21 tv02 t3c1 tv1 tm52 t2r t5f1, 9
+V, V, 9, t7w tn81 tq52 tv02 t762 t4q1 t6z t3x1 tnm V, 9, tj3 tp21 tqz t37 tk01 tv1 t8x1 tfj t711, 99
+V, V, 14, t7c t3g tg7 tcw1 t6v1 t762 t7x1 t92 tm42 t8x1 t4z t2t tjj1 tq3 V, 14, t911 tsj1 t5c2 ths1 ttb1 ttl t3b t2g tq81 ttd tw01 tsr1 t802 t711, 1414
+V, V, 13, t3g tc02 tlv t76 ttb1 tbv1 tgp1 t49 t6t tsd1 t63 t4m1 ttw1 V, 13, tr21 t242 tk61 t9x tdb2 t3q tpd tld1 t1 tt9 tz61 tm42 tpz1, 1313
+V, V, 11, t3g tdb2 tpr1 tq81 t1n td41 tz61 tlg1 tr1 tnf tk11 V, 11, t242 tpb2 tg71 twp thk1 t762 td71 tzg tc22 td62 trc1, 1111
+H, H, 14, tzb1 tlx1 t892 tr02 tds tq81 t5j tpk tb7 tr1 tnf tp61 tf22 tr5, 14
+V, V, 8, tq01 t031 tx71 tq81 t762 t2m tcl1 t9w V, 8, tzw t791 tc2 tzn tb7 tfj td51 tzl1, 88
+V, V, 13, t861 t242 t4d2 t7v tm62 t7k1 tx71 tr51 tld1 tw t13 tf02 tr5 V, 13, t39 ttc t321 tbw tq81 tzn tt11 t841 tf52 tfj tmf tfb trc1, 1313
+V, V, 8, t242 t2b t3q tx tld1 t7k1 t1s tlf1 V, 8, t6x thq tc8 tf2 t3k t8d1 tgb2 th11, 88
+V, V, 9, tw8 t94 t4d2 tld1 tn51 t4r tk31 tf2 t2s1 V, 9, txq1 t0f1 tn81 tf21 t512 tj72 tr1 t5v1 tc82, 99
+V, V, 14, tz22 t9d1 tn71 tj82 thr tgn t1v1 tf21 tf71 t3c1 tn4 tc72 t39 tl72 V, 14, t0f1 t82 tcg tlm ts21 t462 tg12 tn81 tts1 t222 tt61 ttg1 t4r tzm1, 1414
+V, V, 10, t33 tmj1 t002 td41 tm42 tn4 tf3 t7n t39 t9p1 V, 10, tg51 td22 tmn thr tn81 tc21 ts11 tqv1 tfz1 t391, 1010
+V, V, 12, tn31 t33 t2 t0m tc21 t8t t9b tn51 tsw tpb tfj tdl1 V, 12, t0f1 twc tpb2 tkf trx tv92 t8b1 t1l1 tgz tcx1 tfz1 t711, 1212
+H, H, 14, tj41 tk92 tv8 tf71 t1l1 txn tvk tt11 t6z t3w tjf tsw tc61 tfz1, 14
+V, V, 14, tj41 t9j1 tn12 tvs1 tld1 t002 tl51 tls1 t6z tlr1 t511 t532 t471 tlz1 V, 14, tv9 ttb1 t19 tww td7 t1l1 tp9 tt6 t4p tzb t4r th52 thc t4, 1414
+V, V, 13, tpb2 t19 tlk t7n1 ts4 th8 t79 tlr1 tn31 tf42 thc thb1 tcc V, 13, tdr tpc1 tg52 tmv1 t662 tww t1s t291 t66 twk t4t t83 t4v1, 1313
+V, V, 12, thf1 t991 t9c1 tpb2 trr tgn tp61 tc6 tn31 twn1 tgb2 thb1 V, 12, t911 tbj t8b1 t421 tfr1 tz61 tkr1 t7d td41 tph thc th41, 1212
+V, V, 12, t991 thk tzk1 tbk1 t691 t9f tvh txf1 t7d t6d2 t4t1 twn1 V, 12, tck1 txm tm7 t8t1 tfb1 tfx1 tqh tpr1 t4x1 tlm tp72 t711, 1212
+V, V, 12, tdb2 tg71 t722 tm7 tn3 tvh t9k t7q1 thn tzl tfz1 tgb2 V, 12, tsj1 t7p1 ts92 t8t1 tk1 tgc tn51 tv1 tf91 tm52 tfh tb62, 1212
+V, V, 6, tjs1 t5c2 thn tm52 tzg t5v1 V, 6, tn3 tk32 tkr1 t22 t9s1 tmf, 66
+H, H, 6, t001 tpr1 thn tzg tbv twg1, 6
+V, V, 7, t2l1 t661 tv32 thn tdn1 tz02 tf6 V, 7, txc t001 tvf t332 tt21 tjb twg1, 77
+V, V, 9, tm7 t452 tvf tnh t381 tdp ts62 t8w th42 V, 9, tr61 tg62 thr tbm tt21 t0c tcb tf01 tb62, 99
+V, V, 14, tx52 tm7 t381 tqh tjt tnt t0g tdn1 tbv t6r1 tw11 tgt1 thh1 tlz1 V, 14, tfj1 tq6 tdb2 t412 td7 trx t2h1 ttr t1j1 thn tbk tbt tf01 t4m1, 1414
+H, H, 12, thx t6m1 tfd1 td7 tjt t4f1 tzn t1j1 tv5 tcm1 tjr1 tjj1, 12
+V, V, 14, t181 tfc2 t7p1 t81 t58 tgt t04 tpd tjh t2 thv tjt td62 twp1 V, 14, tn71 t3q tsb tdg1 ttb1 t5h tn4 t9s tmz1 tvc1 tjj1 t532 tl72 tql1, 1414
+V, V, 13, t462 tr42 tjc t2 tn12 t032 thk1 tfr1 tzn thp1 tdm1 twd1 t882 V, 13, tfc2 tn71 t7p1 tpc t0h1 ts92 t86 t0j1 tlw1 tbd t141 t2t ttk1, 1313
+V, V, 8, tg71 t86 tr42 t412 tj11 t032 tz82 t751 V, 8, tb21 t1 tk22 t8b1 t8j tz02 t802 th91, 88
+V, V, 10, t991 tqb2 t3g trv t412 tlt1 tlg tlg1 tvk tj8 V, 10, t33 t332 tk22 tzt1 t8j t3t tkx1 ttl1 t4m1 tdj, 1010
+V, V, 11, tk6 tqb2 t0h1 tgn tcq t011 tfk1 t511 tmw1 tgb2 t4b V, 11, t81 tdb2 ttb1 thl t412 tzt1 tlb1 tqs1 t34 t4x1 tb1, 1111
+V, V, 9, tcl tgd1 t951 t3p td82 tgn tzt1 t011 t7q V, 9, tx41 t0k1 t4n1 tvg t3c1 tvk t141 t9p1 t3w, 99
+V, V, 9, tnj tfk tqb2 t1q tgn tqb1 tx4 t2n1 tfz1 V, 9, tl31 ttm tkc1 tr02 tqk1 t3c1 tl6 t0c trn, 99
+V, V, 11, tqb2 tzk1 tb32 tb5 t211 tmj1 thz1 tmx1 tf01 tnl t0c V, 11, t181 tml1 t82 tpc t272 tck tqp ttb2 tl6 tvc1 t9m, 1111
+V, V, 7, t7c2 tpc tzk1 tr82 t882 tkf1 tf01 V, 7, t181 tqj1 t642 tv81 thn t491 t532, 77
+V, V, 14, tkb1 ttm tg6 t74 t922 t4g1 tt82 thn tjg1 t6n1 twp1 t6c t4d1 tl72 V, 14, tcl tsp tq1 t4x tr82 tmc2 tt72 tx71 tgj tdp1 t532 tkm th11 tq3, 1414
+V, V, 8, t0l1 tpr1 td12 td71 tz21 twn1 t6c th11 V, 9, tqz1 t76 tzn tvd1 tdn1 td t29 trx1 tq3, 89
+V, V, 9, tqb2 t0t1 tvs1 t002 t762 tdn1 tdg t7b2 t012 V, 9, tlc1 tq3 t0w1 td82 tqp1 t8h1 t9n1 tc71 trn, 99
+V, V, 13, t881 t4x t462 tj82 t3p1 tvs1 tqh t1l1 tb7 t7q1 tp32 t9k trl V, 13, t7p1 t3g t6h1 tfc tgn t0d2 tp5 t002 tr51 t5c t9h t092 trn, 1313
+V, V, 7, tcl tdb2 tjb1 tkq tzr t6t tx82 V, 7, t7p1 ttc t462 t74 t002 td41 txl, 77
+V, V, 9, t7c2 t462 tqw1 tl t882 tr1 tq91 t232 trk V, 9, t861 t0t1 ttc tt21 tms1 t4t1 tpw t55 tnx1, 99
+H, H, 13, t7c2 tg7 t0t1 tv7 ttm tn4 t762 td41 tw51 tzv1 tjx1 tr1 t1w, 13
+H, H, 8, tj71 tkd t9q1 tv22 t8b1 t762 tw11 t1w, 8
+H, H, 14, t9b2 tx01 tfd t4d2 t0d1 tn81 t762 ttz1 tx31 tw11 t461 tks1 tq21 trk, 14
+V, V, 7, tb11 tvn1 tx71 tw81 t2t tm72 t76 V, 7, tx01 tr12 t1q tqc t8l1 t3c1 t762, 77
+V, V, 11, tkb1 t871 tg7 tqz1 t1q tk22 t381 tzt1 t13 t7n1 tmv V, 11, t881 tbv1 t8l1 tgp1 tlz t3c1 tms tsw tz9 t3k thb1, 1111
+H, H, 8, t602 tqz1 td82 tn81 trs1 tz9 trr1 t3k, 8
+V, V, 12, ts71 t991 tv9 t89 tzt1 t11 twq1 tt82 tz82 tst1 txp t4g V, 12, tcl twb1 t3j1 tqz1 tl42 trt t622 tz9 t7t tdz1 th42 t3x1, 1212
+H, H, 13, trt t441 tj51 t9q1 t482 tqp1 t291 tt4 tl3 tdz1 tf42 th42 tlb2, 13
+V, V, 9, trt t3g tsq1 t462 t86 tqx t4x1 t2m1 tf12 V, 9, t0l1 t4d2 t161 t8t1 tss1 tr91 t3k th42 t471, 99
+H, H, 7, t4d2 ts92 t8t1 tqx tt tl5 tf42, 7
+V, V, 11, ts92 t1 ttb2 tgp1 tc5 t1v t55 tst tjj1 tzd txx1 V, 11, t81 thz t9c t34 tt82 t131 t6z trg tj1 tt tsq, 1111
+V, V, 13, t5l t4x t3m tjb1 t7k1 t412 tgp1 t1l1 t13 t4r t6f1 t0c th3 V, 13, twg tnj tzq tv9 tgp1 t4x1 tm52 t55 t5w1 tnl tx12 tst t851, 1313
+V, V, 6, t3r1 t2j tkp t141 t55 t6t V, 6, t4x t5w1 tn51 t291 tq32 th11, 66
+V, V, 14, tz8 tw52 tn12 t4x ttb2 t1j1 t8h1 tkr1 tz02 tvc1 t4t1 t5w1 t6t tgt1 V, 14, t4c2 tl52 tzw thr tbm ttp1 tt72 t5j tn91 t7r tb01 tvc1 t541 tzr1, 1414
+V, V, 5, t621 tn12 t8l t6t tcn1 V, 5, t242 thr thv td62 t1w, 55
+V, V, 12, tnj th1 t38 t3p1 tvh tr5 t6d2 t8h t5f1 tj42 tfb tcc V, 12, t242 t881 tvf tk42 tz91 t8l t6t tw8 t3k t63 tl72 tkt1, 1212
+V, V, 7, t9c1 t0j1 thc2 t291 th61 tpb ttk1 V, 7, th1 tbl tgg t8l tdn t6d2 td, 77
+V, V, 13, tz22 tpc1 trr t38 t7d t1l1 t3c1 tht1 tk31 t8g1 tdg tq12 ttk1 V, 13, th1 tft tn12 tmj1 t452 tf22 tdn tzc2 t632 t3k tf42 t391 t5r1, 1313
+V, V, 9, t371 tz22 twz t4h1 t7d t3c1 t88 td ttk1 V, 9, tft1 tjs1 trv tc11 tc51 tkf tbg1 t8m1 tt12, 99
+V, V, 12, t531 tg7 tx71 tc4 thk1 t651 t71 tnb2 tq8 t6q th42 tt12 V, 12, trt t771 t452 t332 tpl1 tkf t88 tgz tlz1 tn62 tqf tsk1, 1212
+H, H, 14, trt tq91 tx tx7 tx71 t8p t2m t7n1 tc52 tdq1 t692 t2m1 tfz1 th42, 14
+V, V, 14, tnl1 t361 tc41 tx1 tn12 tr82 tl51 tx71 tpr1 tgc tf9 tbb1 t692 thh1 V, 14, t81 tv61 t932 t971 t0j1 tk22 t351 tqq trj1 t12 tpt1 tnp1 t212 th42, 1414
+V, V, 6, tjs1 t86 t07 tgw t511 tcs1 V, 6, tl31 tr82 t351 tqq trb1 tb7, 66
+V, V, 8, t86 tr82 tcw1 tdp tmt1 t0c1 tpb t711 V, 8, t6z1 tl31 tbv1 t9k thc1 tpg1 tkv1 t062, 88
+V, V, 12, t001 tb02 trr tr82 tcw1 thv tdd1 tdm1 t9k tdg ttw1 t39 V, 12, tx41 tj82 thr t9t t2 t762 t3b1 txg t6r1 t5w1 tjq1 t5b, 1212
+V, V, 13, tc2 thr t74 tgc tht tz9 tdz tq02 t0k tn4 ttw1 tm tw11 V, 13, trr tjc tkc1 tc5 txb ts61 t511 tdm1 twj t2m td62 ts22 t6c, 1313
+V, V, 9, tg72 tt71 t951 tb02 tx1 tr02 tfr1 tz9 tc61 V, 9, t022 tqb2 t6c ts01 tp51 tdm1 twg1 t921 tcn1, 99
+V, V, 8, t001 tbm t002 tfr1 tqx thn1 t3t tgt1 V, 8, t3j1 tqb2 t2c t032 tz9 td t0c t4d1, 88
+V, V, 9, tl71 trr tr42 tv32 t8j tst tpq tps t4d1 V, 9, t192 td tbz1 tb7 t612 t3k tbn1 tt22 tqw, 99
+H, H, 14, t6z1 t9c1 tb02 trr t19 tfd1 tv32 t1j1 tm02 tq92 tbn1 tp31 tfz1 tj31, 14
+V, V, 8, tjs1 tvd tg62 t38 tr82 twv tm02 tbn1 V, 8, tqv tld1 t74 tl6 tl4 tfz1 t5v txq, 88
+V, V, 10, t81 tpp1 t561 tm7 tn3 tv02 tpp tdm1 tdp1 tqv V, 10, tfk t38 tvl trx tht1 tss1 t6g t25 t9c2 tfz1, 1010
+V, V, 12, t561 tb02 t4l t3p tvn t161 tkc1 tfr tdp1 t2x1 t2m t1w V, 12, t81 tm9 tf61 tww tfb1 txg tz61 tjj1 twd1 tcv1 tkv t5z, 1212
+H, H, 11, tb02 tnh tqc tkc1 t13 tww1 tv1 twk tvc1 tcv1 t1w, 11
+V, V, 12, tpc tb02 tx6 tkc1 t512 tz91 tvk txw tbn td tkv1 ttw1 V, 12, t3r1 tx01 t221 t982 tfn t1s tn2 t13 tf42 t2m1 twb2 t711, 1212
+V, V, 13, t861 tsp tb02 tv2 t5k tjb1 tn3 tgp1 t1s tv1 t23 t1t1 tvg1 V, 13, tx01 tp t9d1 tl7 t4c1 tzr tvh tvk twd1 thc1 td62 tf01 t311, 1313
+V, V, 9, t181 t3m t86 tn3 t8l1 tx71 txd1 tp31 tt8 V, 9, tmn thk tb5 t1s t8b1 tv1 t0w1 t9d trg1, 99
+V, V, 10, tp21 tb5 tr52 tx71 tts1 t8b1 tq81 t55 tlv1 th42 V, 10, tqs t412 t912 tw tjt t1p1 tz21 t611 t7b1 t711, 1010
+H, H, 12, t4z1 tjw1 tk61 t0t1 tcj1 tzk1 t1v1 tqw1 tw tz21 t5w1 th42, 12
+H, H, 9, trv t112 t1v1 tp41 t7d1 t8n twd1 t5w1 tm1, 9
+H, H, 13, t331 t192 t2p t5w1 tf71 t7d1 t66 t9s1 tsw tw11 tmd tm1 t711, 13
+H, H, 7, tcn tpl tkr1 t66 tn4 t5w1 twx1, 7
+H, H, 9, tq51 tf81 t721 t8j tj8 tz81 tt82 t5w1 t5s, 9
+V, V, 7, tqv t221 tq51 tbv t2m th61 tnm V, 7, trw tm01 tdb2 t1 tmx tdd1 tj8, 77
+V, V, 8, tr62 t2m tt82 td61 tdt1 tbv tf2 tr2 V, 8, t2b tn61 tqt1 tw ttr tt11 tjr1 tvb, 88
+H, H, 9, tpc t3h tls1 tgc2 t17 tt11 t2m tq21 tgb2, 9
+V, V, 9, t3q1 tx1 tzk1 tk22 t9k tfk1 thc1 t921 thx1 V, 9, tq01 t1w tjb1 tkj txf1 tq7 t2m tc12 tgb2, 99
+V, V, 8, tx41 t1s tfr1 tqq t8l t091 t921 tkt1 V, 8, tqb2 t9c1 tzk1 tc1 tvc tn4 thc1 tb62, 88
+V, V, 8, t81 tsp tvf tkf tvb1 tct tjr1 thc1 V, 8, t0t1 t462 tzk1 tcx tb61 tqq t5v1 t8d1, 88
+V, V, 9, tdh1 t462 t3m thz tls tvb1 tzn1 ts t802 V, 9, t4c2 tg7 t8t1 tx71 tww tjt th61 t901 trk, 99
+H, H, 9, tq01 t4c2 tc2 t3m tm11 tpn1 t4q1 t7q1 t141, 9
+V, V, 7, tzw tw62 tbv1 tlq1 tlc2 tgb t471 V, 7, tpc1 tq01 tr02 t7q1 tn4 t5 t7g, 77
+V, V, 12, th1 t4w tts tl12 t1s tt11 tn11 tt22 t5 tjg tlb2 t2v1 V, 12, t991 trv twc t072 t3p thz tn4 tx51 t4t1 t7q1 tjx1 tq62, 1212
+V, V, 14, tlj tn82 t991 tzk1 tgn tr02 t6r1 tqz t291 tx51 t4r th82 tl72 t83 V, 14, tx01 tw71 thw1 ttv ttc1 t091 t9z1 tjr1 tjx1 t4r t5f1 txx1 t76 th11, 1414
+H, H, 14, tcl tjw1 trh tsm tgn tls1 t032 tmn1 tgr tlr1 tjr1 t5f1 t191 tq3, 14
+V, V, 6, t2d2 t2r1 trh1 tr42 t622 t701 V, 6, t1g tls1 t512 tkr1 tbv tjr1, 66
+V, V, 7, td82 tjb1 t0m tt21 t622 t082 td V, 7, tfc2 tkj1 twn tr42 tv9 tz91 t1x, 77
+H, H, 7, tz91 t34 tp8 tz02 tl3 td tfz1, 7
+H, H, 9, tj7 tkw1 t8l1 tzn tq81 tz91 t8j tlz1 trk, 9
+V, V, 13, t181 t6d t0m1 t4x tk22 td7 tfb1 tl41 t002 tzt1 tf2 t391 trk V, 13, t1q1 ts5 tm9 tjb1 t571 tww t8l1 tpn1 t6m1 tz91 t9k t5w1 t3w, 1313
+V, V, 11, tcl tjl th6 tn81 tfb1 tww t7d1 t9k tx51 twg1 t63 V, 11, tmn t3p t221 tdm1 tdn1 t511 t2n t342 t55 t6l t391, 1111
+V, V, 13, tjl tqb2 tg62 t4x t3m tt9 t7d1 t882 tnd tb7 t41 t76 tf12 V, 13, t9d1 tq01 t242 t872 tb02 tpc tg71 tz11 t9 tz82 t212 twg1 t59, 1313
+H, H, 13, t9d1 t242 tjs1 t3m tjj tn9 tht1 tjt t882 tqq tzg tjr1 tvr, 13
+V, V, 5, tjs1 tq11 tzt1 tjt tf01 V, 5, tm9 t7r1 tz02 t3k tbn1, 55
+V, V, 5, tsp tk8 tgj tjt tz02 V, 5, t0m tz62 tms tjx1 tjm1, 55
+H, H, 12, tj82 tk72 tv32 t821 tpn1 tjt t131 tz02 tm52 t1r ttk1 tqv, 12
+V, V, 11, t9d1 t151 t981 t031 t131 trq1 t2x1 t3t1 tw11 t062 tqv V, 11, tz22 tl31 tg81 t6c tz12 t19 thg1 t011 twv1 tgb2 ttk1, 1111
+H, H, 14, tt71 t9d1 tqz1 tc2 t19 tc21 tqw1 tgc trq1 t6z tzg t2r tdz1 tnm, 14
+V, V, 5, twd1 tzg t802 tcn1 tnm V, 5, t181 t76 t6z tzc1 t9p, 55
+H, H, 7, tcj1 tp21 tg12 t8n t8h1 t76 t9p, 7
+H, H, 9, tz31 t8n t7n1 tt82 tkg1 tf2 twn1 t76 tb62, 9
+V, V, 7, tqb2 tk3 tws1 t8n td81 thc twb2 V, 7, tfc2 tb41 ttq1 t7n1 twg1 tx12 trk, 77
+H, H, 9, t7w tgp tv9 tv7 t332 t7n1 t131 tz61 twg1, 9
+V, V, 14, t9t1 tc81 tv9 t8p1 tjc tr02 t3c1 t7n1 t4t1 t14 tw11 t8k t3k t5g1 V, 14, t561 tk6 t0w1 th1 td41 t511 tnf ttt tjc2 tf2 t6t tt32 tjj1 tr2, 1414
+H, H, 11, trt t561 tqc t1c1 tm02 t7n1 t8h1 t6d2 tp6 t6t t2m1, 11
+H, H, 7, t4d2 t462 tlx t622 t8h1 t7n1 t6d2, 7
+H, H, 9, tk6 tpc1 t33 t4d2 t462 tdd1 thw tv01 t041, 9
+H, H, 8, tk6 t33 tb5 tbb2 th5 tk t0c thb1, 8
+H, H, 13, tlj trv t361 tsw tb5 tt21 tp41 txg tt11 tcb1 t39 t0c tdc2, 13
+H, H, 9, tjw1 t361 t452 tb5 tjc tf12 tj91 t6d1 tk7, 9
+V, V, 8, t3q tb5 tv7 t831 t351 tj91 tb11 trc1 V, 8, t81 t9x1 twz tj82 tkf thp1 t921 tkz, 88
+V, V, 8, t801 tb5 tk22 t4f t8b1 t351 t2c1 ttk1 V, 8, t2w t4d2 thr tg2 tc21 t512 tr1 tzl, 88
+H, H, 14, tsr t162 thd tk22 tc42 t512 ttc1 t1s twv1 tr1 tt t212 tpg1 td51, 14
+V, V, 14, t181 t5v1 tm9 tx3 tfb2 t1v1 tj81 td9 t7q1 tt t9z1 th61 tnl t9s1 V, 14, t3m ttp1 thp1 t622 tdd1 t942 tv t212 t6t t7b1 t0b1 tnx1 tw81 tbd1, 1414
+V, V, 12, t0r1 tm9 t462 tz2 tvs1 ttb2 t891 tqp1 tlm1 t6d2 tpj tr5 V, 12, tq72 t1v1 tc21 tds1 t1s tc5 tm42 t011 tr1 t071 t5v1 t942, 1212
+H, H, 9, tb21 tg2 t1v1 tgp1 tc21 t671 tdp tbq1 t6d2, 9
+H, H, 9, tg72 t561 t0s tc21 tv12 tgp1 t34 tm02 tbd1, 9
+V, V, 6, t0h1 tls tc21 tzt1 tfr1 t7d1 V, 6, t561 t171 t3q txb1 t1v1 tpb, 66
+V, V, 7, t44 txv t691 tt4 tdg tpb t232 V, 7, th02 txb tfr1 t9h trs t8b t21, 77
+V, V, 10, t8c2 tft tj82 tnr1 t3b1 t0g1 t141 tvc1 tw11 t21 V, 10, tb02 t8l1 tr51 t512 t01 tt4 tr1 tz62 tpb t9v1, 1010
+H, H, 14, t7w t452 t8l1 tm81 tpn1 tfx1 tr51 th8 t731 t0k tvc1 tb91 tpb tt, 14
+H, H, 8, t881 t452 t19 thh tpn1 t3b2 t6c t311, 8
+V, V, 10, tl9 tb51 txs1 tn12 tlb1 thp1 t6d2 t3x1 t2m1 t4b1 V, 10, t991 tdr1 t881 tm81 tjj tpn1 t511 t0q tp62 t311, 1010
+H, H, 12, th1 t991 tl9 t33 tdb2 thp1 t882 tb7 t7j1 t4r t851 tmf, 12
+H, H, 12, t7c2 t2d2 t33 ttb1 tk51 tts1 tc5 tns tj91 th8 t7j1 tmf, 12
+V, V, 9, tm7 t462 tr tqc2 tj91 t7j1 t692 tzc tjs V, 9, tt42 tv02 tv32 ttd t6n tzg t711 t532 tcc, 99
+V, V, 12, tpp1 tq01 tpb2 thk1 tvh tr02 thg1 t131 tkr1 t961 tf01 tb62 V, 12, twz t3p tqc tv32 ttd tn51 t4g1 tv81 tl6 tzg t212 thb2, 1212
+H, H, 12, t7c2 ttg t3p tbm tgp1 tts1 t2m tvh tkr1 tzg t4r tvr, 12
+V, V, 10, t9t1 tbj t4l1 trm trz t222 tvh tf7 tqv1 t541 V, 10, t0t1 t462 t8t1 tmr1 t4x1 tzg tjx1 t2m tf01 t7p, 1010
+H, H, 10, t561 t881 t221 t8t1 ttb2 tht1 tz91 tss1 t4x1 t7p, 10
+H, H, 14, th1 tjl tm t7p1 tb32 ttb2 tn42 tx62 tz91 tv81 t011 tvk t2m1 tr2, 14
+V, V, 13, t9d1 tg82 t3m1 t3q t9x tjc tz91 tv1 tmr tjr1 t2m t0c tg92 V, 13, t81 tpb2 tvs1 tkc1 tlb1 t141 tnf tk31 tsv t2m1 tn02 tjf1 t5r1, 1313
+V, V, 13, t7f1 t7w tvx1 t2 tt72 tfg t1v1 tgf tv trq1 tnf tvr tf42 V, 13, t81 t6t1 t991 tqz1 t1x1 tx1 tln1 tb5 tw62 tpn tk31 t2m1 t4d1, 1313
+V, V, 10, tn1 tpb2 t8h1 t291 th8 tnd1 tv tvr t2s1 tcf V, 10, t0f1 t3g t501 tb5 tjb1 t332 tpd tm3 t011 t9r, 1010
+V, V, 8, tj41 twg1 tw t3c2 tnp1 t6w t3b2 tcf V, 8, tft1 tgx tts1 thg1 t011 t5x1 tzl trx1, 88
+V, V, 6, tft1 t1g t512 t0w1 tm1 tq3 V, 6, t7f1 ttb thg1 t13 t011 tj8, 66
+V, V, 5, tv32 t2x1 tf t6w tmf V, 6, twj1 t561 tf21 t512 t011 t141, 56
+V, V, 6, t561 tdg1 t7w tqc t7q1 t2x1 V, 6, tzk1 tjb1 t5w1 tx22 t5v tlz1, 66
+H, H, 9, tdg1 tg62 t7k1 thv trf1 t5j1 t131 t2x1 tlz1, 9
+H, H, 13, tdg1 t0l1 t221 tld1 t8l1 t8n t4g1 tz81 tlz1 tpg1 t9s1 t67 t041, 13
+V, V, 7, twf tqb t8l1 t651 t412 tcj th91 V, 8, t181 t7p1 tvp t0j1 tpr1 td tpg1 tb92, 78
+V, V, 8, t0f1 t7p1 td11 t3q1 t6g1 tm81 t13 ts3 V, 8, tgk t3g t0j1 tgj tlk tpv1 t481 tsk1, 88
+V, V, 14, tmg t3r1 tjs1 tw21 tm9 t4d2 tgn t61 t1v1 t13 t2t tpg1 t9n1 tmf V, 14, tx41 tfc2 t3k1 tbm t0s t3p1 tcw1 tgj tkf tpr1 tv31 tt6 tz82 t4r, 1414
+V, V, 7, tpc t1g tcw1 tdx tl6 t4r th11 V, 7, tpc1 tw21 tx71 t4c tsn tdv thc, 77
+H, H, 12, t991 tpc1 tg62 tgl t4d2 tcw1 tvz1 t8l tf2 tpg1 thc txp, 12
+H, H, 14, tpc1 tg62 thc tdd ttm tvb1 trk thc2 tz92 tvk t5p1 tvb td51 tdz, 14
+H, H, 5, tq01 tfq1 tvf td51 trk, 5
+H, H, 9, tn71 t771 t4k t2 tkf tht1 tm42 tlm trk, 9
+V, V, 10, tlc1 tfq1 t2 t5r t8b1 tz61 tm42 tlm tx12 t6c V, 10, t672 tnj t0h1 t4r1 tg71 t1v1 tt82 t8l tvk1 tsl1, 1010
+H, H, 11, t0h1 t1v1 t6s1 tt1 tn51 tz61 t66 t692 tzm1 tlf1 trn, 11
+V, V, 9, tb02 t29 tvj1 tdc1 t342 t5q tzm1 thc tfx V, 9, txb2 t2h t3h tr02 t762 tz61 t4x1 tm52 tp62, 99
+H, H, 9, t6q1 tw52 tww tbw tj91 tm52 tn4 tzm1 tkh1, 9
+V, V, 11, tz22 tbj tpb1 trt tb02 t0l1 tkf tjr1 t2m thg tc91 V, 11, txc tt72 tn4 tww tbz1 t762 tn51 thb1 tm12 t59 t48, 1111
+H, H, 12, t2f1 tg62 tkf tcv1 twz1 tq82 tbs1 t6k t2m th61 tvb thb1, 12
+H, H, 9, tqs t7d1 t6z tl6 thb1 tf2 th61 tz6 t672, 9
+H, H, 14, t1q1 tsk tzt1 t1s tw ts4 tv1 tz9 t931 tl6 t6p1 tf2 th61 tsr1, 14
+H, H, 12, t1c t0d2 ttm t952 tk22 t74 t1s tzt1 t402 tt11 tf2 tg22, 12
+V, V, 6, t74 tz02 t6w t4r t9h tzl V, 6, tqz1 tj12 ttb t1s t352 tq62, 66
+H, H, 9, tzw tpd tr51 tt11 tst t6w tzl tg11 tcn1, 9
+H, H, 9, t4l1 tzw tc11 tpd tkc1 thk1 tvb2 td41 tdd1, 9
+V, V, 8, tzw tfv1 t2 tn91 tz91 tcp1 td41 t3w V, 8, t1g tkc1 txs t351 t3k tmf t03 t711, 88
+V, V, 11, tzw tk12 tpn1 tq81 tvr td9 trg t2t tfm t1h1 t76 V, 11, t712 tsr t3p1 tkc1 tww tpn1 tgc th8 tdv tnb1 tmf, 1111
+H, H, 9, t6z1 tr42 tkc1 t2d tkx tdp1 t0c t532 t76, 9
+V, V, 9, t371 t45 t572 t0n tpn1 tdp1 tvj ttw1 ttk1 V, 9, tnm1 tr42 t8t1 t0p1 t7j1 tnb2 tdg tr5 t711, 99
+V, V, 10, tpv tm7 ttt1 tc5 tsg tgg tlw tdg t3b2 tr2 V, 10, tm9 t412 tpn1 t8h1 tdp1 t6z tst tpb twn1 t471, 1010
+H, H, 8, t861 tm7 tm81 t4g1 t1n1 tt4 tdg tst, 8
+V, V, 5, tm81 t691 ttf1 tfr1 tqv1 V, 5, t7s1 tm7 tv tc61 trk, 55
+V, V, 10, tfl1 t3m t0d1 td41 tz21 t4q1 tc72 td tz4 t471 V, 10, t381 t9c tfr1 tt52 t8h1 tgg1 tc61 tf42 ttk1 trk, 1010
+H, H, 9, t771 t452 tmj1 tg71 tr31 tfr1 t2l tnd1 tc61, 9
+V, V, 6, tff1 t332 tfr1 t4g1 t7h1 tbd1 V, 6, tv8 tg71 tx81 t882 t692 t2g1, 66
+H, H, 8, tg71 tq52 tzr tqc tzb2 tb8 t692 tl72, 8
+V, V, 12, t99 t881 tv9 thv tlw1 t34 tl6 tfs t692 ttw1 thh1 tf12 V, 12, twz tjb1 tbv1 td7 tqj tz61 t0g1 tlh1 t7q1 t9z1 tl72 tbp1, 1212
+V, V, 14, t2w t3f tq91 tft t881 tv9 t0t1 t7k1 tv02 thk1 txb tdd1 tcv1 tqv V, 14, t3r1 t9f1 t771 th62 tj82 tgx1 tj t011 tj32 t7q1 tdn1 t921 t2q t76, 1414
+V, V, 11, tjs1 t072 tv02 t6d2 tgg1 thb1 t6t twg1 tq91 tkm1 t76 V, 11, tq11 tpd tn3 tcb2 td7 twv1 tjx1 t481 tfj t28 tkt1, 1111
+V, V, 6, t1 ttl t6d2 tx51 tlc t7l V, 6, tq52 tjt tt82 t301 tdn t28, 66
+H, H, 14, ttv1 trt tw31 t62 t471 tls1 tq52 tzt1 tjt t34 tt11 tt62 t481 t672, 14
+H, H, 9, tbm tg91 tq52 t5m ttw tm81 t34 tv81 tcj, 9
+H, H, 7, twz tq52 tm81 t91 t0g1 t4r twx1, 7
+V, V, 11, tzq t3p t7v tmp tm81 tvk t3t t0k t4r tbn1 t411 V, 11, tsn1 tzm1 t2v t4x tp52 t1s tz91 t2t ttw1 t1w tm1, 1111
+H, H, 9, tqz1 tz72 t3m tc7 t3t t9k tdv tzm1 tfj, 9
+V, V, 13, t672 t361 tpc2 tx1 t3m thj t05 tx4 t362 ttm1 t3t t5r1 tqv V, 13, tvd tr81 t3x tzm tdp tgm1 tmg1 t351 tlg1 t6r1 t321 t532 tqf, 1313
+H, H, 12, t361 t0r1 tbm tf21 t351 t4g1 tz21 t2m t321 t532 td32 t391, 12
+V, V, 5, t361 tb41 twz1 t2x1 tcj V, 5, t791 t78 tz21 t532 t471, 55
+H, H, 14, t361 th02 tgx1 t651 tf71 tz91 t622 thn t4t1 tpw t7h tf22 t6c t471, 14
+V, V, 13, t0c2 t6x t972 t361 tvm tgp1 tsq ttc1 tv62 tdd1 tl6 thn t4d1 V, 13, tnj tzw tdr1 tjb1 t1s t402 tnn1 tn51 t4q1 tj5 tcv1 t6c t3n1, 1313
+V, V, 12, tw91 t462 tmg1 t5h1 t832 t6z t8l t0j t2t tcv1 t5f1 t9p V, 12, tr9 tr81 ttj t1q t19 tq52 t3p t38 t8b1 tdd1 t4d1 t232, 1212
+V, V, 12, tx01 t861 t292 t462 t031 tgb2 t7d tdd1 tt4 t5v1 t532 t191 V, 12, tz72 t3p tg12 t34 tt82 t291 tnf tl01 tn tl21 tc61 ttw1, 1212
+H, H, 13, tk82 tsw tm9 tbm t5v1 tqc th2 tdd1 tdn1 tnf t2t tkx1 t0c, 13
+V, V, 14, t911 t561 tk6 tlf tm9 t1 tl51 tcd tdd1 t3t tz9 tc61 tr5 t76 V, 14, tcl t3g trh1 t112 tvs1 tvw tqc t5x tvc2 txr t0g1 tvr tj21 t8q, 1414
+V, V, 12, tw72 txc1 t0l1 tm9 tgk1 td7 t691 ttx1 t1p1 tjj1 t55 tr72 V, 12, t6z1 tft tq52 tm82 tvs1 tbw1 tbh1 tvc2 tc6 tc61 tmt trc1, 1212
+V, V, 6, tvc2 t5p1 tl6 t7q1 th42 t142 V, 6, t9x1 tr42 tvs1 tvq1 tz02 trc1, 66
+V, V, 11, t3r1 t0s tvs1 tkc1 tss1 tvc2 tjr twd1 tnf t612 t782 V, 11, t242 tks tbm t1b1 t7d tl6 t091 tw11 th42 t391 tjv1, 1111
+V, V, 14, t3r1 t242 t6x t19 t161 tx71 t8w tv1 t4t1 t342 tsw tq91 t532 tph1 V, 14, t3l1 tzw t001 trw1 t6h t3x tl51 t3b tp41 t7d t622 tl02 t1t t5w1, 1414
+H, H, 13, th62 tdg1 t0t1 t19 t161 tx71 tn6 tss1 tn01 tlr1 tb1 t3k tbc1, 13
+V, V, 14, tx41 t181 tgt1 tn12 t52 tx71 t09 tzn tt82 tl6 tbv t2m1 tm1 t8z V, 14, tfn1 t8c2 t3g t0t1 tbm t8m t601 tv32 t88 ttz1 thc1 trv1 ttw1 tkm1, 1414
+H, H, 9, tsj1 t3g ts31 ts6 t88 t5s1 tvz tbv t3w, 9
+H, H, 9, t861 tg7 twz tk22 t8j1 t141 tvz tqv1 t7v1, 9
+V, V, 11, tg7 tzk1 t4c1 thq tr02 ttd th8 t051 t802 tz5 tlz1 V, 11, t861 tdb2 twz t86 tf21 t6p t7n1 thn tfq t702 tqv, 1111
+V, V, 7, t9c1 t3l t462 tmm1 txh t121 tlg1 V, 7, t991 tg7 tb5 t8l t4r t3w tz5, 77
+V, V, 13, tk82 t991 t7p1 tpd t0s tt9 tmm1 tqp1 t7q1 tnf td5 tp7 tc6 V, 14, tjq t82 tg7 t452 tlb1 td7 tc5 td91 tzg1 tz21 tdp1 t6d1 t9n1 t2w1, 1314
+V, V, 12, t192 t3q tpb2 t1g thz tv02 tlg1 ts61 t8l tdp1 tnf tlr1 V, 12, t862 t82 tsw t452 tgn t161 t8t1 tfg1 tv1 t7q1 tsh trb2, 1212
+H, H, 14, t33 t86 t0j1 tld1 tj2 tjb1 tgn txg tqx t8l tnf tzn1 tp62 t8, 14
+H, H, 8, ttj tx7 t691 t13 txg tq91 tp62 t711, 8
+H, H, 14, tcl tfc2 ttj t3m t3p1 tmj1 tds1 tgc tg5 txg tmv tjr tz02 th61, 14
+V, V, 5, t3p1 tp4 tz02 tl11 t4b1 V, 5, trt t4d t2x tlr1 tst1, 55
+H, H, 9, tbj tv8 t2c tq52 t7d1 tsg tz02 tlr1 ttk1, 9
+H, H, 7, tbj t9f1 t6k1 tq52 t2q1 ttw1 t232, 7
+H, H, 9, t8k1 t621 twz twp tt21 t3c1 t5m1 t4d1 t232, 9
+H, H, 13, trj t621 tsq1 tt9 t6r1 tpq1 tnf tb2 ts62 th61 tj61 t4d1 tq3, 13
+H, H, 14, tp82 tv71 tb02 tb4 tr42 tsq1 t402 tnh1 tdn1 tz02 thr1 th61 t471 tq3, 14
+H, H, 14, tp91 t47 tsb tqz1 td92 tr42 tt31 t13 tdn1 t5f1 t2m1 t1l tm1 tqf, 14
+H, H, 14, tfc2 t3q tn61 tg52 tc21 t0h t13 t34 tzn tn51 t3c1 t2m t2m1 twb2, 14
+H, H, 7, tjs1 t5q1 tc21 tn51 t701 t141 tm32, 7
+H, H, 12, tnj tqb2 t4d2 t221 tvf1 tc21 t5q1 tr51 tq81 tz21 t1r tqf, 12
+H, H, 8, t3q1 t572 t4d2 tmj1 tr51 t9c t9z1 t232, 8
+V, V, 6, t9j1 t572 t582 tbz1 tdd1 tdn V, 6, t4d2 t0j1 thp1 tr1 tz9 td62, 66
+V, V, 9, tjl t9j1 t4x t221 t381 tbz1 tsc2 tlm t672 V, 9, t4c2 ts51 t86 tvh tqf1 t0w1 t5d ts2 ttk, 99
+V, V, 9, tjl t6j1 t9j1 tbv1 t8l1 txf1 trz1 tvb tgw1 V, 9, tz22 tqb2 t9c1 t4x t581 tx9 tr1 t141 tc6, 99
+H, H, 14, t0f1 trv tnl1 t4h1 tbm tck t0j1 tt21 t252 tc6 tvb t0b1 tw51 thh1, 14
+H, H, 9, t3j1 tx61 tvn1 t4h1 t1 tsf1 tmt1 t0l thh1, 9
+H, H, 9, tnj t7p1 t242 tsm1 tf91 tpb t3w thh1 tlz1, 9
+H, H, 12, t4z1 tj41 t6h td01 th61 t592 tjr1 txw t2t tpb t3w t2m1, 12
+H, H, 14, t1z1 tj41 tlb1 tf21 t8w tmj tmc t4r tpb t2z th82 tsl th11 tr41, 14
+H, H, 14, trt tsj1 tk6 tm9 tx1 tlb1 tcv1 ttr t2x1 t8w ttw1 tl72 td62 th11, 14
+H, H, 12, ttb1 tq52 tvt1 tmc1 tcv1 txf1 tj8 t55 td62 tzs tl72 tkt1, 12
+V, V, 5, t242 tdg tl3 tq21 thc V, 5, tm62 txf1 tkt1 t471 td4, 55
+H, H, 13, t471 tc51 thr tkf tsh1 t6m td41 tnt t692 tst t311 thc tcf, 13
+H, H, 9, tbm t002 t12 tt t692 t75 thc1 tzh t471, 9
+H, H, 7, tzb1 t0t1 ttm tt thc1 t901 thb1, 7
+H, H, 13, tk6 tc01 tdg1 t1c td7 tqb1 t7z1 tv1 thn tnb2 tt thb1 t4w, 13
+V, V, 11, tk6 tg7 t651 t962 ts4 tzg t55 thc1 ttw1 t5w td62 V, 11, tq91 tdg1 ts92 tw9 tg01 tt11 t042 tl01 th31 tnq1 thb1, 1111
+H, H, 12, t181 tdg1 tzr t651 tgp1 tt21 t5p1 tq7 tq91 t5v1 t532 t9n, 12
+V, V, 5, tfv t0b tt21 tkr1 t8h V, 5, t181 trm tq52 t4t1 t1w, 55
+V, V, 10, t6z1 tcl tzx t3q tdg1 tv9 tjt tq5 tkr1 t9d V, 10, t181 th01 t9t t351 tm02 tz61 tt92 th41 t1w tbd1, 1010
+V, V, 11, tft tlb tgp1 ttb2 t351 txw1 tw11 tfz1 tx82 thb1 tf12 V, 11, tmn t3g t3q t6h tzr tl51 tbz1 tnc t59 t1w t3x1, 1111
+H, H, 9, thf tft t031 t86 tf4 tbz1 td62 tpg1 tll1, 9
+H, H, 5, t031 t002 td81 td62 tlz1, 5
+V, V, 5, t3j1 tpc t4q t031 tqx V, 6, t9j t65 tk tnl ttw1 tlz1, 56
+V, V, 5, tbr tm9 ttd1 tkr1 t511 V, 5, tk6 tw21 t031 t88 tlz1, 55
+H, H, 12, t3j1 t7z tw41 tkb2 tn71 tg42 thr tfr1 tkr1 t8c1 tgb2 tlz1, 12
+V, V, 7, tn71 tdh1 tzk1 tz91 tb1 tz9 t772 V, 7, t691 tfr1 t351 tz62 ts91 tzg tvb, 77
+H, H, 12, th1 td82 ttb2 t691 t351 t1v ts02 tjr1 tqv1 t5v1 tm1 trn, 12
+H, H, 9, t3j1 tl31 tpk1 tww t351 t8l tjj1 tp12 tmf, 9
+H, H, 10, tkf tpn1 tr02 t351 t7n1 t212 th61 tjj1 td31 t1w, 10
+H, H, 7, t732 tmp1 t512 th61 t1w twd trc1, 7
+V, V, 7, tb02 tdb2 t512 t2q1 tzm1 t6 t3k V, 7, tsb tn41 tj82 t332 tpn1 t34 tj1, 77
+H, H, 7, tdb2 tr51 t512 tz42 tr92 t3n t76, 7
+H, H, 8, tj41 t241 tr82 t332 tr51 tt82 t372 t6r, 8
+V, V, 10, t9c1 tlb t502 tr51 trx tj62 t9s t291 t14 tpz1 V, 10, tsv1 t572 t271 tr82 t332 tcb2 t13 tf7 tl21 t5r1, 1010
+H, H, 7, t572 t271 t161 tkg t8t1 tl3 tgs, 7
+V, V, 6, t6x ttr1 thg1 tgc t88 tl3 V, 7, t6z1 ts7 tc2 t271 t86 tq32 tjj1, 67
+H, H, 9, tbj t752 tgc tss1 t88 t7s t4r t812 tqv, 9
+H, H, 9, t181 trt t242 t9g tgc tss1 t49 t3d t8, 9
+H, H, 13, trt t242 tkj1 t1d tdb2 tbm t3m tw62 tdl tm81 tp52 t5w1 tkb, 13
+H, H, 5, tbm t332 t74 tm81 tpt1, 5
+H, H, 8, tx41 tp62 t68 t74 tv32 t55 t3w t7g1, 8
+V, V, 6, tx41 t161 tdj1 tr02 ttz1 tbl1 V, 6, t6s t5k tq81 tjd1 tz02 t55, 66
+H, H, 7, t0f1 t572 tzk1 tzr td71 tz02 t55, 7
+H, H, 9, twh1 t0l1 tqt tc5 t0p1 t55 t6c thh1 tcc, 9
+V, V, 13, tqj1 t911 t9d1 t5c t2 tc5 t5n1 tt61 tns t5p1 trq1 tc61 t48 V, 13, t4n t861 tqv tp11 tcc tf12 txt1 t032 tf02 th2 tg61 t8l tr2, 1313
+H, H, 7, t3r1 t3d2 thr t032 tp4 tg61 td51, 7
+V, V, 10, t3r1 tq01 tl9 ttt1 tkf tmz t6n trq1 tbr1 th8 V, 10, tp01 tpm t032 t442 twf1 tl8 tdq1 t75 ttw1 t5g1, 1010
+H, H, 7, tpp1 tq01 t0f1 tr3 td2 t3b1 th8, 7
+H, H, 13, t0f1 tpc t1w1 t0c2 t422 tqc tcp t9c td91 tt82 th8 ts81 t8x, 13
+H, H, 8, tpc tpc1 tsq1 tn12 tgv1 tt82 t0z1 tr5, 8
+H, H, 12, t3m t8t1 t8l1 tt21 t1r1 t941 tt82 t43 tmt tf01 tr5 tlf1, 12
+H, H, 14, th1 tj3 tbm t3m t72 t8l1 tqt tv32 t5j1 thn tzb th81 tcv1 t5f1, 14
+H, H, 9, t241 tr42 tl82 tv02 tgp1 ts12 thn th81 tm2, 9
+H, H, 11, tzw t3x tj82 tqg tr42 t762 td42 ts12 t391 t471 tcc, 11
+V, V, 14, tnj t21 tlb t651 t762 txf1 t721 t1b2 tb7 tv1 tmz1 t39 t2c1 tcc V, 14, thj1 t951 tk9 tv7 tk51 tr51 t1s tgc thg1 t431 tm42 tdn1 tkr1 tgb2, 1414
+V, V, 11, tcl tt51 tv61 t001 t0l1 t3b t721 t3d1 t6t twc2 t711 V, 11, t6h tx1 tv7 tq52 tr51 tsf tdn1 tbv tfx td32 tlz1, 1111
+H, H, 13, tv61 t6h trr tkf t002 tkp1 t9q1 tk22 tsb1 thn tf01 tr5 td32, 13
+V, V, 10, t561 tv61 t6h tb02 ttc tc62 twz tzk t8h tdj V, 11, tbs t3r1 tr21 tpb2 t221 t1q t7j tz3 t08 tlg1 thn, 1011
+V, V, 7, tz8 tpb2 tb02 tn81 tlg1 tpb tp62 V, 7, t9j1 th01 tk22 tbc2 t622 tn4 t76, 77
+H, H, 8, tp62 tvp tpd tmp tt82 tn4 tz9 tvw1, 8
+V, V, 6, tft tj82 tjt tlw t7h tz9 V, 6, t0f1 tfl t1n1 txh1 tq92 tn4, 66
+V, V, 7, tcl tbj tm7 t1q tfj t9h1 t5g1 V, 7, t0f1 tj82 tx72 tjb1 thg1 tp6 tmf, 77
+H, H, 9, tdr tj82 tfr1 thg1 t131 tb7 t4x1 tcm1 t041, 9
+V, V, 7, t0j1 ttp t882 tdp1 t4x1 tl3 tlm V, 7, tzw tz thg1 t0g1 t8s1 tbg tmf, 77
+H, H, 7, tjl t5c t6b2 tcw tgc t0g1 tmf, 7
+H, H, 6, ts7 tjl t38 tlb1 ttc1 tgc, 6
+H, H, 9, t6k1 tn81 tn3 tlb1 t592 t69 th8 t4t1 tf42, 9
+H, H, 9, tpx t6x t5l t221 tn3 tvh t7d tz9 tnv, 9
+H, H, 8, t7d ttc1 tqq tz61 tjx1 tf3 tnv tqf, 8
+V, V, 10, t602 tjk1 t3p t1 tpf1 tr51 tz61 t6z tbg1 t212 V, 10, tlc1 t0t1 ttb1 t7d tv81 tj91 t8l t8h t711 tr2, 1010
+H, H, 10, t001 t221 tr51 t7d tq5 t011 t291 t8h tjt1 t3k, 10
+H, H, 12, t911 tbh tq52 t1 t011 tkp tdp1 t8h t6r1 t481 td th11, 12
+H, H, 7, tbj tqc t392 tht1 t511 tdp1 td, 7
+H, H, 12, tbj tmn t1d1 t3z tv9 tg71 t0j1 tqc t7d tqp1 t9h tdc, 12
+H, H, 7, tbj t7p1 t38 t9q1 tpn t7d tlt, 7
+H, H, 6, th1 t38 t8b1 t7d t0b1 thh1, 6
+H, H, 9, tz22 t441 t002 t65 ttd tmx tt4 t0b1 twh, 9
+H, H, 5, tz22 t0t1 t2 t0b1 tgb2, 5
+H, H, 9, tsv1 tb31 t0t1 tm7 tv9 t64 t5s1 tpg1 thp, 9
+V, V, 13, tsv1 t171 thb tvs tdb tx92 t0r t8l t4x1 t141 tw8 tpg1 t1w V, 13, txt tp21 tg71 t3m ttb2 tvv1 tcv t8h tq91 tf01 tgb2 t3n tt12, 1313
+V, V, 6, trm1 tkh tkr1 t291 tdg ttt V, 6, tg71 t4x1 t931 twg1 tfj t1w, 66
+H, H, 13, trw t7p1 tm31 ttg tg42 trz1 tcg1 t3b1 t291 t4x1 tjj1 tnr tx91, 13
+V, V, 8, t46 tqh1 t7n1 tz41 t011 tt6 tk31 tw1 V, 8, tzw t6x tgn tk22 tdp t7j trz1 thh1, 88
+V, V, 5, tp21 tdp trl1 t55 t4m1 V, 5, tgn tm81 t511 tj8 tz9, 55
+V, V, 8, trt t42 tp21 thl1 thv tgz tqz tq91 V, 8, twf t7c2 tvf tgn trx tz01 th t5g, 88
+H, H, 10, tq91 trv t9j t881 tp21 ttb1 tn3 tz02 tnl tw81, 10
+H, H, 14, t242 t0h1 tq91 t881 twb tl2 t3m tpr1 tpn1 tzn tfk1 tf2 t2s tw81, 14
+H, H, 13, trt t871 t791 tc3 t76 tqc txx tpr1 tkx tf2 tvb td51 t7l1, 13
+H, H, 8, t902 trm t032 t8b1 tf2 tbt tvb tdc, 8
+H, H, 8, tft1 trm tv21 t86 t8b1 t11 tf2 t4d1, 8
+H, H, 7, trm tcc2 t8b1 tz61 tz82 tmt t311, 7
+V, V, 11, tpx t33 t562 tcc2 trr tl32 tgp1 tht1 t49 t6z tz82 V, 11, tx1 td82 t3p t0j1 t831 t381 thg1 thp1 t9d tdk1 tf01, 1111
+H, H, 8, tx1 tr82 thz tf71 thp1 t7q1 t7v1 tnm, 8
+H, H, 9, tbj thj1 ttq tr82 tqh tvb1 t3h1 t4g1 th91, 9
+V, V, 7, tx41 t181 tsb2 t1m tfr1 t0w tzf V, 7, thr tr82 tn5 t141 t0w1 tw81 t3x1, 77
+H, H, 9, t82 thr tm3 tzt1 trx t9c tdg tf6 t541, 9
+V, V, 11, tlj1 tzt1 t0l t9c tvc2 tl8 tdn t0b1 t4 t751 trg1 V, 12, tv41 tf71 tsg t3b1 tzn th8 t25 tv81 t9s1 tbc1 tcf tcc, 1112
+H, H, 14, tz22 tfc2 t0l1 t7k1 tzt1 tsg tgc2 t351 t082 tk31 t7b2 tfz1 tgt1 t471, 14
+V, V, 7, t881 tlh tq52 t7k1 tdp tc61 t9w V, 7, tz22 tg72 tjc tts1 tvk tg4 t342, 77
+V, V, 11, tbx1 td31 tsq1 tt72 tpr1 tq02 tjm1 t2m1 t28 t6v tkc V, 11, tcz1 t6x t332 t8l1 tts1 tvk t8h1 tdp1 tr1 t342 tk52, 1111
+H, H, 13, tnj t861 tx5 tsm tzr tpn1 tb01 tdp1 tr1 t8j t2m1 t6c t93, 13
+V, V, 10, tx41 t602 tjw1 t302 tkc1 t7n1 tgj1 tdp1 t692 t3w V, 10, tnj tq01 tv8 t0l1 tm7 tc21 tm5 tr1 tm61 tlm, 1010
+V, V, 6, tm7 tc21 tnp trp tcl1 t4m1 V, 6, tx41 tft1 t9j1 tsz tls1 tp5, 66
+H, H, 14, tx41 tjs1 tjx tm7 t002 tr51 tq81 tvv1 t9k tms tlm tpq tl72 tzp1, 14
+V, V, 11, tx41 t46 tzw tbq1 tqx td41 t34 tj1 t26 t2q tcc V, 11, trt t6c tn12 ttb1 ttm t9q1 tbq1 tlm t2t tpg1 tl72, 1111
+H, H, 9, trt tsw1 trr t38 tsq1 tww t9k tlm tpb, 9
+H, H, 14, t242 trm trr t452 t5j tz42 tn51 t4f1 t042 tqd tl01 tlm tcv1 tmf, 14
+H, H, 13, t181 tk82 t452 trx tr02 tn51 t622 t312 tr1 t7f t8w1 tpx1 twk1, 13
+V, V, 7, tk82 tv8 twz tfb1 t6v1 tz42 t41 V, 7, t181 t7c1 t8l1 t34 t66 t072 t471, 77
+H, H, 8, tsz twz tbm tfb1 tqk1 t511 tjb tw42, 8
+H, H, 8, tnw tg7 t0l1 t1q tcq tm41 t511 t5g, 8
+H, H, 8, tz22 tg7 tp3 tht1 tct tkh1 tkt1 th11, 8
+H, H, 14, trm t3l t2 tgp1 t412 t2x1 tht1 t622 tlh1 tdg tn4 t5f1 tq22 th11, 14
+H, H, 14, tm71 t361 txr1 tkq t2 t002 tn81 t7n1 t92 t4p1 t5f1 t5v1 twp1 tvq, 14
+H, H, 8, t1q t1 tz51 tpd1 t7n1 t882 t5f1 t012, 8
+H, H, 7, tbs tzw ts5 tnl tp62 t5f1 trn1, 7
+H, H, 12, t781 tbj1 tdg1 tvs1 tt72 t7d ttz1 t6r1 t4r t5f1 t6f1 tp62, 12
+H, H, 12, t5p tk6 t4n1 tr42 ts92 t952 ttb2 tw12 t9c t7d twt t6r1, 12
+H, H, 7, t0k1 tqs tr42 thv tg32 t6r1 t6t, 7
+H, H, 9, tk82 trk1 tc11 thv tnt1 tt4 tvc1 t0w1 tzh, 9
+H, H, 9, tc11 tp92 t5q1 tf92 t451 tmb1 tnq td txm1, 9
+V, V, 12, tfc2 t902 tmj1 tvl td tdp tf02 tn7 tnq tc61 ts22 t6c V, 13, t4c2 tsb2 tm7 t1c tvs1 tkc1 tt01 t7q t0j t6w t73 t4m1 t542, 1213
+H, H, 14, trn tm9 t5w1 tdp tr02 tzg tkg1 tk31 tf2 t6r tbn1 tx2 t6c t4v1, 14
+H, H, 7, twt1 t81 tzb1 tc51 tgr t6c trn, 7
+V, V, 7, tw4 tmj1 tkq tht1 t6z tf22 t921 V, 8, t81 t652 t001 t4q td7 t201 tb6 tg11, 78
+H, H, 12, tx41 t3r1 tcr tn71 t001 tvz1 tt9 ttf1 ttc1 tht1 tdz1 tnl, 12
+H, H, 5, tx41 t07 ttf1 tz02 tl72, 5
+H, H, 8, t9d1 tkf t4f tkc1 t1l1 tl72 t0s1 tn92, 8
+H, H, 5, t761 t9d1 tkf t0l t6r, 5
+H, H, 12, tnj t641 t2p t0j1 td1 tkf t131 tdp1 thn t6r tbn1 t232, 12
+H, H, 14, tj41 tsp t361 t9x1 t232 tr32 t0j1 tv91 tmt1 tnp1 t2m t2g1 tbc1 tk7, 14
+H, H, 14, th1 t861 th6 t361 tg21 tr32 tb tfj t7j tt3 t0g1 th8 t921 tr5, 14
+H, H, 12, th1 tqb2 tsw1 tn12 tpd tc51 tx71 tb22 th8 tzz1 t532 tqf, 12
+H, H, 12, t181 tmn t3q1 tzk1 tn12 thz tpd tf22 t0x1 t532 thh1 t062, 12
+H, H, 12, t181 th21 tzx1 t001 tdg1 tfc1 tzk1 tg71 tkj t2x1 tnl tfz1, 12
+H, H, 13, tn82 tk61 td21 tpz tb12 tls1 t2 tb41 t95 t6k tjd t2x1 tnl, 13
+H, H, 13, tcl twf t561 tk61 tv8 t38 tz42 t54 tss t8x1 t2x1 tf9 tgv, 13
+H, H, 6, tcl t0f1 tng t38 t5s1 t54, 6
+H, H, 8, tng t3p t7v tkz1 tq81 t0w1 tgt1 tw11, 8
+H, H, 7, t7v tp41 tkr tq81 thn twg1 tqv1, 7
+H, H, 11, tk82 tfc2 tpc tpb2 tqs tpr1 tp41 tqp1 tt01 tqv1 thc, 11
+V, V, 12, t911 tnl1 tpb2 tld1 t5w1 t6m ttf tcd1 t7b tgt1 t4d1 tqv V, 12, t741 tft tmk t1 t1g1 tt72 tpr1 tqk1 tx42 t1z t7j1 tm4, 1212
+H, H, 14, t001 tpb2 t4n1 tc51 t1 tn12 tgj t622 ttf tz82 t0x t6r tgt1 tnv, 14
+H, H, 11, tpb2 t32 tn12 t0s tvs1 t332 tv32 t8n tt02 tz61 t6r, 11
+H, H, 5, tzw tv32 t8n t6w1 tsw, 5
+V, V, 11, tcl tgp1 tws1 tv32 t591 tz61 tvc1 t2x1 tsw tvr t232 V, 11, t8c2 tk6 t6g1 t4k tb21 tl51 tr thp1 tdn1 tnf tlb2, 1111
+H, H, 14, t171 t861 tx11 tmp tc42 t7d1 t591 tz61 tsx t6z t511 t2x1 tf42 tjc1, 14
+H, H, 7, t861 t392 t291 t8w tf42 ts2 t4w, 7
+H, H, 7, tsj1 thr t4h t8w tf22 tf42 t63, 7
+H, H, 6, tsj1 tv61 tqg1 t312 tf22 twn1, 6
+V, V, 6, tb5 tml t762 tz91 tv1 tqk V, 6, tbj tv61 t3p thg1 t382 tch1, 66
+H, H, 6, tm7 tb5 tn5 trt1 t6m1 tv1, 6
+H, H, 9, t401 th1 t4w1 tdq tvc2 tv1 trq1 tqz tgt1, 9
+V, V, 6, t6h1 t161 t252 tt41 tgt1 tp82 V, 6, trv tfc tvc2 t8j tf42 thc, 66
+V, V, 11, tk6 th51 tls1 tpp t7d1 ttx1 tb7 tt41 td62 tfj t5m1 V, 11, tbj tfs1 tmj1 t7b2 tlm1 tb7 t4t1 tgc1 t6r1 tgt1 t5r1, 1111
+V, V, 10, tpc1 tl9 tcm t7d1 tks1 tkr1 t842 tlv1 t3w tnm V, 10, tk6 t001 tqb2 tmj1 tn81 trt1 t412 t3c t3w tx2, 1010
+V, V, 10, tjs1 tmj1 t19 t1v1 t412 t381 t7d1 t8b1 t5v1 tp82 V, 10, t6z1 t9d1 t7p1 tgm t501 tt21 thg1 td51 t7n1 tx2, 1010
+H, H, 7, t6z1 t0l1 tn12 tmj1 ts8 t35 t212, 7
+H, H, 8, tz7 tmj1 th42 t0g1 tw11 tt8 tf01 trx1, 8
+H, H, 9, tdp tbw1 t692 tsw tfj th42 tb92 t672 th11, 9
+V, V, 11, tk41 tx41 tg71 tc21 tt9 t8h1 t9k t8h t4x1 tct t8q1 V, 11, tpc1 tm9 t1j t64 txf1 t692 tsd1 t5b2 tkv1 t311 th11, 1111
+H, H, 9, t881 tg71 tf21 txk1 t87 txf1 tqn t8w t4d1, 9
+H, H, 8, t1m1 tcv1 t8b1 t8w t6f tjk tpg1 t76, 8
+H, H, 8, tjh1 tcn t3c tsm1 tt82 tq32 tcv1 t0v, 8
+V, V, 10, t561 tg71 tm52 tdg tf2 tcv1 t5v1 tk52 tr5 td62 V, 10, t3r t4n1 tv7 t392 t1l1 tsb1 t0c1 tt82 twd1 tfj1, 1010
+H, H, 8, tfw t991 t9d1 t2r1 t1s tm52 tr5 tkt1, 8
+H, H, 11, tc2 trb t8t1 t09 t1s tvk tz21 th5 t491 tkt1 trk, 11
+H, H, 10, tjq tv7 ttc1 tz21 th5 tdn tvc1 tf2 t6t tfj, 10
+H, H, 7, tv7 tgp1 tv6 t011 t692 t6t tp12, 7
+H, H, 5, t512 tjr t011 tjq1 t6t, 5
+H, H, 12, t8s t432 t152 ttc t3m tt21 t512 t1j1 t6t tpb t391 tw81, 12
+H, H, 10, tq21 tt21 tdp tt9 tvr t011 t931 tbv tpb tf01, 10
+H, H, 12, tbj tjl t58 t9g1 tv02 ttd t5p1 tvr tlm tq21 tl72 t27, 12
+H, H, 7, t181 tl51 thg1 tt tvr tmf tl72, 7
+H, H, 8, t9k1 tnk tlb1 td7 thg1 t682 tzd1 t4r, 8
+H, H, 7, tqb2 t0t1 tls1 tgc thg1 tzc2 tfj, 7
+H, H, 8, tx01 tsq1 tg32 tgc tmx1 td62 thc tcf, 8
+V, V, 10, t911 tx01 tsq1 ttb2 tqh tbz1 t1h t622 tn51 t212 V, 10, tgk tv9 ts82 t7v tn81 ttc1 tzn tvc1 tvb tmf, 1010
+V, V, 5, tz52 t412 tv32 tr5 trk V, 5, tbf ttb2 tzn td41 th82, 55
+H, H, 6, t462 ttb1 tv32 tzn t9k tm32, 6
+H, H, 12, tc11 t462 tqc tzn tz21 tv tzg tb52 tsw tf22 tl72 tp22, 12
+H, H, 6, tns1 ttc trq1 tz21 tjt1 tsw, 6
+H, H, 8, tpc1 tx71 t8l1 tfb1 tzq1 tz21 tdg tb72, 8
+H, H, 13, t3q t1d2 t2c tl51 tdp t1b tvb2 t5p1 tz21 tdg t372 tw6 thh1, 13
+H, H, 5, t3q tdp t9v txf1 tdp1, 5
+H, H, 8, th1 tr21 ts92 t8f1 txf1 tbb2 tdn tgb2, 8
+H, H, 7, tn8 tz1 t7p1 txf1 tz9 tfm t101, 7
+H, H, 8, tz1 td22 tpc1 t221 tvs1 tjz t2z1 tbv, 8
+H, H, 12, t221 tvs1 tx7 thp1 t6f t762 tz21 t9z1 tbv tsc1 tf01 tcc, 12
+H, H, 6, t3r1 t221 t762 tqr tb7 tnf, 6
+H, H, 6, t221 tjr1 tvj thc tn92 tr2, 6
+H, H, 10, t221 tr42 thr t1v1 t4m tc82 tt tjr1 t532 t2b1, 10
+H, H, 12, tv11 td52 tr42 tb5 thr t7v tsh1 tjn1 t8f1 t9k tq91 t0c, 12
+V, V, 6, t9d1 t9c1 tmp1 t2f t0c tz6 V, 6, t36 ttp tdz1 t7d1 t832 tq91, 66
+H, H, 7, t1s th8 tkr1 tp6 tl81 tdz1 t0c, 7
+H, H, 8, tq01 tc11 t9x1 tkc1 t1s t3c1 thc1 tm32, 8
+V, V, 12, t292 tc11 tgn1 tv7 tz42 tp9 t6z t7q1 tms tq02 t3w t8 V, 12, t5p tzx tj4 t33 t6c tf21 tqh t8n t4s thc1 ttw1 tr5, 1212
+V, V, 6, tj4 tdw1 tj41 tdn t3j tp32 V, 6, t33 tdb2 tlk tbd t8h1 tnl, 66
+H, H, 13, tdr tjs1 t7w tdb2 tf32 tb5 tv9 t3c1 thp1 tsg tdp1 t2t tnl, 13
+H, H, 7, tv9 t891 tq81 tsg tz42 tsw tq91, 7
+H, H, 8, tj41 txp1 tz42 tvk tv tdd1 tq91 tcf, 8
+H, H, 6, tj41 ths1 tqh tpn1 tv thc1, 6
+V, V, 7, tpb2 t4x tb5 tr22 tpn1 t9z1 t5s V, 7, t19 tr4 tgc t6d2 t2x1 t692 tw51, 77
+H, H, 13, tz22 tsv1 t5r1 t3p tb5 tp3 tqq t6d2 twl1 tm42 tkd1 tnl t3w1, 13
+H, H, 13, tmn tsv1 t4x tj82 t0s ttn tgj tvm1 tws tm42 tz21 twm1 tb62, 13
+H, H, 14, tld tsv1 t9j1 t9d1 t691 t8n tq81 ttd tl tl6 t8h tc61 tsq tb62, 14
+V, V, 5, t9j1 tvr1 tvc2 tdp1 t2b2 V, 5, tgn t002 tc5 tt tc61, 55
+H, H, 8, tw52 t8b1 txh t5f tp32 tt tr5 tqb, 8
+V, V, 7, tw52 tjb1 tg6 t8b1 t17 tmz1 t1l V, 7, ts21 tsp1 t0s tq62 tcl1 t84 t6x1, 77
+H, H, 13, tqz1 t0m1 tw52 tcn1 tsh1 t8b1 thg1 tz01 tp8 th8 tdv t1w t341, 13
+H, H, 9, t6q1 t6b2 tlr tjt t1k1 tj8 tdv t9s1 td32, 9
+H, H, 8, t361 t6q1 tdg1 t641 tv21 t7j1 tk4 tqd1, 8
+H, H, 8, t361 t4w t552 tfr1 tt6 tbv t5v1 tqv, 8
+H, H, 13, tpb2 thz tm22 tbv1 tfr1 tf7 tt6 tb7 t342 t85 t3k tf01 t21, 13
+H, H, 6, tl71 tqq1 t342 t692 t3k tx82, 6
+H, H, 7, thr tx72 tqk1 tdb1 t3k t051 t782, 7
+V, V, 5, tt91 tjb1 tqp tqk1 thc V, 5, t18 thr t6r1 tsq tct1, 55
+H, H, 8, tsp tpz t1l1 tss1 tnc2 t6r1 thc tcc, 8
+V, V, 11, tsp tlp1 tbm tkc1 td7 tpr1 t1l1 tj8 ts91 t6r trn V, 11, t3r1 ttg tr6 t161 tbv1 tht1 tqq tn51 tdn tsq t76, 1111
+H, H, 11, tpx tqc td7 tpr1 t3v tr02 tn51 tv1 tdg tr5 t4g, 11
+H, H, 7, t771 tn3 tcz tn51 tt11 tvr t311, 7
+H, H, 14, t6h t7w ttb twp tf72 tm81 tr02 t64 tvr tt11 t57 tdv tdz1 tkt1, 14
+H, H, 7, tnj t6h tgl tp81 tvr t3n t7l1, 7
+H, H, 8, t911 tnj tgn1 ttd1 t2b1 tw11 thb1 td4, 8
+H, H, 7, t292 tjs1 tqz1 t651 tfr1 t7x tw11, 7
+H, H, 8, t9d1 tpc1 tqz1 tzt1 t291 tbv t4j tsr1, 8
+H, H, 12, t9d1 tv32 t351 tvc2 t882 tz91 t7q1 tbv t6t t9s1 tnr tr2, 12
+H, H, 12, tj7 tc41 t621 tq31 tdp t512 tz91 t882 t141 t921 t0p t0n1, 12
+H, H, 10, t531 tqq1 t1g tq31 t422 tqq tz91 tr92 tgb2 trk, 10
+H, H, 7, t531 t881 tqs tj82 tgp1 tv1 t2m, 7
+H, H, 7, t81 tl9 t0r1 tj82 t9c t4h t2x1, 7
+H, H, 12, t242 t8r tl9 t5n tj82 ttl tbz1 t351 tt82 tpj1 t802 tnx, 12
+H, H, 7, tjs1 tpc1 ttc2 t19 tv81 tpj1 tgt1, 7
+H, H, 11, tjs1 tpc tg71 t19 tkk1 tgj t34 t882 tvk t4q1 t5r1, 11
+H, H, 14, tzz tcn t3h ttm t912 thk1 tpn1 t34 tj91 t4q1 tjr1 tn22 tqf txz, 14
+V, V, 12, tg3 trt1 thq tn3 tq51 tpr1 t8h t2k tp71 tqx1 t9m1 tql1 V, 12, twb1 tjw1 t3q tpd t2 tdb tjv t9z tmc ts32 tn22 tqf, 1212
+H, H, 11, tqj1 t561 tjw1 tsm ts92 tn3 t332 tdv1 t13 t491 tjj1, 11
+V, V, 5, tq71 tn3 ttb2 t5w1 tjj1 V, 5, tzt1 tr22 tvv1 tn t6r1, 55
+H, H, 8, txm tlm tn12 tjc tl61 tzn ttz1 t5w1, 8
+H, H, 13, tj41 tgh1 ts51 tlm t4n1 tr82 t481 t7d1 tzn t8j t8w t8x trk, 13
+H, H, 8, tmg tpc1 tv4 txd t7d1 t8f t2t tgh, 8
+H, H, 10, t3q tmj1 t7k1 thv t3v t8f t7d1 tvl1 tn22 t711, 10
+V, V, 10, tl92 tzw tvx1 t0j1 t7d1 t64 td42 tr71 tq8 t822 V, 10, t3r1 t3q t881 t4d2 t78 tl51 tvh tmj tv52 t0c, 1010
+H, H, 7, t861 tv4 t8m t78 tv92 tm02 t0c, 7
+V, V, 6, tz22 th42 td2 ttz1 tfw1 t0c V, 6, t801 t3s t78 tvd1 t492 tcf, 66
+H, H, 7, tq01 t5v1 tvb1 t9c ttz1 tb01 t3w, 7
+H, H, 7, t7p1 tq01 tln tbf1 txg twc2 t3s1, 7
+H, H, 7, tbt1 t7p1 tw52 tbv1 tj8 tgb tfz1, 7
+H, H, 8, td22 ts51 tw52 td82 tcw1 tz61 tr7 ttw1, 8
+H, H, 5, t0l1 tls tcw1 txk1 thg1, 5
+H, H, 6, tjs1 t0l1 tx71 tp41 tsg tm42, 6
+H, H, 10, t3j1 trz tj92 tx71 tp41 tqz tdd1 tjr1 tms t7x, 10
+H, H, 6, t3j1 tfc2 tg7 tvm1 t3d t3w1, 6
+H, H, 12, tcl t3j1 tfc2 tkb2 tv61 trr t3v1 t512 t6r1 tp7 t5 tx91, 12
+H, H, 13, tpc1 t3g t4b2 trr tgn t31 tl2 tr11 txf1 tr1 t6r1 t682 tbd1, 13
+V, V, 11, tq4 tq01 tl42 tn12 t412 t4g1 tg tcc1 t291 t692 t5b V, 11, tpc1 t3g tff t58 t221 t0s tmq t7q1 t9h tf42 t532, 1111
+H, H, 14, thh1 t3g tw52 tm9 t0b tgj tvq1 tc92 tg t0g1 tzb tjj1 t2m1 tm1, 14
+H, H, 8, tk6 ttc tjp t5p1 tdm1 t2x1 twg1 t2m1, 8
+H, H, 12, tx41 t9r1 tbj t9c1 t162 ttc tk91 t412 t601 tjp tt t6r1, 12
+H, H, 12, tsj1 tld1 t9q1 t892 tv81 tz41 t4t1 tt t6r1 tpb t2m1 trn, 12
+H, H, 7, tld1 tkc1 tjj t34 tv81 t5l1 tnl, 7
+H, H, 11, t4c2 tld1 t351 t34 tvk tgj1 tl6 t5w1 th52 ttn1 tgq, 11
+H, H, 13, t4c2 t6j1 ts31 tcc tvx1 tld1 tz91 t511 t14 tc6 t4m1 t751 t4w, 13
+H, H, 7, t6j1 tsd t511 twd1 tqd tz82 t471, 7
+H, H, 6, tpk1 t511 tvr tkx1 t0c tfh, 6
+H, H, 6, tpb2 t7w1 t511 tps1 t7q1 t4r, 6
+H, H, 7, tpb2 tsz1 tg9 tk51 tcw t8h1 tt4, 7
+H, H, 13, t452 tm2 t3g1 t3f1 thq1 t8h1 tdg t7h t851 tf42 t63 tmf th11, 13
+H, H, 13, t6z1 tqz1 t2 tkf t31 tbf1 tqq tl62 tt11 tm4 t3w t63 th11, 13
+H, H, 13, tz22 tnw tmn trm ttb1 t31 tdp tbf1 tnn1 t261 tkr1 tz02 tdn1, 13
+H, H, 6, t561 th1 trm tpr1 tdn1 t141, 6
+H, H, 11, t3q1 tj tlk1 tk1 tt21 tqq tdn1 t141 tdg t2t tnl, 11
+H, H, 6, t4c1 tpd tdn1 tbv tnd1 t2t, 6
+V, V, 6, tc81 tl9 t942 tzl th42 tl72 V, 6, tnj ts42 tqp1 tt11 tdn1 t21, 66
+H, H, 7, tnj t0s t9q tkr1 tjj1 th42 tqv, 7
+H, H, 12, tqv tg62 tb02 t4d2 tj82 t302 tqc tjn1 t4x1 th42 thb1 t711, 12
+H, H, 6, tl31 tcj1 tqc tf52 thh1 tqv, 6
+H, H, 6, tv8 t0j1 tn3 t012 t2c1 thh1, 6
+H, H, 7, t81 tn3 tt92 t421 th61 tcn1 tw11, 7
+H, H, 7, tbs trr t322 t3c1 t141 tc32 th61, 7
+H, H, 6, tm8 t6 t8l1 t3c1 t492 tfz1, 6
+V, V, 11, t7c2 txm t361 t5b1 t8l1 tvh twd1 tjx1 t8g1 thc1 tgb2 V, 11, twt1 t061 t0b2 t9q1 t512 tvq1 tjt t5d1 tcv tfz1 t1x, 1111
+H, H, 6, t462 t8l1 tts1 t512 tqx td62, 6
+H, H, 7, tnj t3g t0h1 tld1 t8l1 t522 t5t, 7
+H, H, 6, t5c2 t86 tld1 tzt1 tsx tz81, 6
+H, H, 7, tfc2 tgx ttc t86 ts42 tlp tgd, 7
+H, H, 6, tfc2 tsp tsz tf51 tj91 tw81, 6
+V, V, 6, tft1 t881 tz31 t8w1 txc2 tcn1 V, 6, tjw1 tsp t1 tm81 t7g tf12, 66
+H, H, 6, tk6 t3q1 t881 tt72 t9q tt11, 6
+H, H, 13, tmm tcr1 t3q1 t881 tcc tht1 t882 tbp thn t262 t4q1 tf42 t21, 13
+H, H, 13, tj41 t9d1 tx52 tdg1 t3p tg71 t38 tlr tht1 t6d2 tm1 tqb t21, 13
+H, H, 8, t3 tfv twc1 t6d2 t8l tt11 tv52 tjm, 8
+H, H, 6, tpw1 tv8 tzk1 tfb1 tf81 tt11, 6
+H, H, 5, ts92 thk1 tf81 t66 tkt, 5
+H, H, 6, t2 thl1 t2z1 t6n1 t66 td51, 6
+H, H, 8, thf t6c1 t33 tbx t452 tvf t2 ttg1, 8
+H, H, 8, t33 t39 td6 tr51 tt32 tzw1 tcv1 tq61, 8
+H, H, 7, th1 t39 t182 tgk1 t3d1 td t3w, 7
+H, H, 6, th1 tjz tjt tnf t802 t4d1, 6
+V, V, 5, t3r1 t4x t452 t342 tqv1 V, 5, tmw t3p t2p1 tjt t4, 55
+H, H, 6, t7c2 t2j1 t452 t38 t5v1 tn21, 6
+H, H, 13, tx61 t9x1 t38 t74 t1b t5j1 tdn1 tc72 t55 tv52 t5v1 t631 t4v1, 13
+H, H, 7, tsk tx tt81 tjp ttd t6k t55, 7
+H, H, 5, t771 th01 trp t55 thc, 5
+H, H, 6, t771 ttn tfm1 twg1 tw02 t8q, 6
+H, H, 6, t4x t5w1 tx51 twg1 t6r tcn1, 6
+H, H, 11, tkj1 tb51 t621 ts6 tbz1 tqc2 tdd1 trq1 twg1 t6r t2m1, 11
+H, H, 6, t0h1 ts6 tdn1 tss tcv1 tt22, 6
+H, H, 6, tpb tpc t0j1 tc5 tl21 tcv1, 6
+H, H, 6, t9c1 tb02 t0j1 tt6 tx51 tcv1, 6
+H, H, 6, tr9 tzw tc21 tx51 tc61 t3z1, 6
+H, H, 6, tcl th7 tc21 t7d tt6 t6z, 6
+H, H, 13, ts5 tm7 t0s thp1 tgj1 t622 t0g t6z t8b2 tt6 tb3 tnq1 tb62, 13
+H, H, 13, ttx tg62 tm7 t86 tnf1 t622 tt11 t4t th61 tsr1 t5k1 t0n1 tb62, 13
+H, H, 11, tr01 tm7 tpd tjc t251 t6b tlz tqq t6d2 tsr1 tl72, 11
+H, H, 11, tqv tpd tqh tjt tt82 tc61 tkx tc6 tsr1 t3x1 tq3, 11
+H, H, 6, tj22 t4x twz tjq1 tc61 t21, 6
+H, H, 5, t7 t4x tn3 t481 t681, 5
+H, H, 6, tfc2 tqm1 td7 t7j1 t481 t021, 6
+H, H, 5, tzk1 trs1 td7 tkr1 t9z1, 5
+H, H, 6, t7p1 tbz1 t9z1 tf11 t0d th11, 6
+H, H, 7, tl91 t7p1 tpc1 tl9 tth1 tlm tsx1, 7
+H, H, 5, t1d1 tgn tkc1 tsx1 t071, 5
+H, H, 12, t771 t51 tn3 t332 ttc1 tfg1 t7d1 t882 t3b1 tbn1 t071 t822, 12
+H, H, 6, t0w1 t7d1 tq12 t122 tjj1 tfz1, 6
+H, H, 5, th1 t1 t86 tq12 td32, 5
+H, H, 6, tcl tjn1 t4g1 t6n1 tf01 td32, 6
+H, H, 5, tvh t8b1 td8 tf01 tr2, 5
+H, H, 5, tgs1 tv51 tvh trq1 tcq1, 5
+H, H, 11, t6z1 trc tdx1 t7w tvh thp1 t431 t2d trl1 tdz1 tgb2, 11
+V, V, 5, t302 thp1 tvc1 t5f1 t102 V, 5, t0f1 tc2 ts01 t66 t711, 55
+H, H, 12, tfq1 tnl tnj1 t0j1 tqc tnr1 thp1 tvk t8h1 tvc1 tqv1 tzm1, 12
+H, H, 5, tzm1 tr82 tvc1 tsw tq91, 5
+H, H, 14, tmq1 tq91 tk61 tq31 t4s1 tbh tbb2 t8l tvc1 t4r tvr txj1 tzp1 tt7, 14
+V, V, 5, tk61 tx51 t2t thc1 tvp1 V, 5, tzt1 tz42 tqq t692 t7g1, 55
+H, H, 6, t911 txf tg7 ttn tzt1 thc1, 6
+H, H, 5, tzv tg7 t002 t9h tb11, 5
+H, H, 7, tc81 tfd t2 t88 t6t t9h tn32, 7
+H, H, 6, t862 tk21 tzn t9h tnz1 t1w, 6
+H, H, 6, t1w1 t9x1 tsf1 tnz1 th42 tr41, 6
+H, H, 5, t9x1 tqk1 tk5 tdv tqk, 5
+H, H, 5, tqs t6c2 t1r1 tqk1 tw11, 5
+H, H, 14, tt71 td21 t9g1 tlb1 t032 tqk1 thp1 tm5 t141 tdg ts91 tsw tsr1 tf61, 14
+H, H, 13, tx02 tl31 t971 ttc2 tcw1 ttb2 tss1 t3t t042 tdg t141 tms txl1, 13
+V, V, 10, tlj t7m1 tl31 tw52 tzk1 ttb1 tp3 t64 t66 tdg V, 10, t81 tn71 tmw tmj1 tb5 twz1 thd1 t1b2 tjx1 tfj, 1010
+H, H, 5, tzw tg1 tmj1 t64 tkt1, 5
+H, H, 13, tbj t7s1 tzw t3q tl31 trd trh1 tgb t13 tq92 t481 t6t twn1, 13
+H, H, 7, tmg tbj t361 tw7 tpr1 t9c2 tsq, 7
+H, H, 6, th71 tr82 t5r tmf t9c2 tnx, 6
+H, H, 6, tf62 t1q t002 tt3 t1k tnx, 6
+H, H, 12, t282 tt42 t0n1 twz t2 t002 twv tz02 t2x1 tfj tfb t711, 12
+H, H, 13, thf1 t82 tkb2 tc51 t2 tv32 tx4 t9w1 t1j1 t252 tdn tjr1 tfj, 13
+H, H, 6, tv72 t971 tc51 tn81 tsw tgf1, 6
+H, H, 5, tfc1 tn81 t6b1 trd1 tl6, 5
+H, H, 6, tgq1 t9h tsr1 tl6 tf22 tnm, 6
+H, H, 8, t981 t8m t381 tt52 t9k t2g1 tf31 tnm, 8
+H, H, 7, t0f1 tm9 t381 tm41 tdm1 tw6 tzl, 7
+H, H, 12, t9t1 tll tm9 tff1 tx3 tr51 t482 tjr1 tq21 tzl tzf t711, 12
+H, H, 13, t991 t86 tjb1 tf12 tr51 t3c1 tt5 t5p1 txz t5w1 tw11 tg11 txm1, 13
+H, H, 12, t991 t152 tsc t4x tmj1 tjb1 tzb2 t5p1 t6d2 t9k t5f1 thm1, 12
+H, H, 12, tfc2 t991 tzf1 tk9 tq41 tv21 tzt1 tht1 tzn tl t6z t4w, 12
+V, V, 5, thw1 tbm thd t3p1 t382 V, 5, tzt t811 tsp1 tnx1 t4w, 55
+H, H, 14, tmd1 t4w tdb2 tgr1 tmz td41 tm02 tn7 tz21 t4t1 thc1 t5m1 t2s1 tcc, 14
+H, H, 12, td02 tzx trj tdb2 t1 t8t1 tc21 tm02 thn th11 t471 tcc, 12
+V, V, 11, t81 t19 t74 tdw t8h1 t7q1 tjx1 tl3 tq21 tp72 ts9 V, 11, td02 t4c2 t82 tdf tb4 tdb2 tq81 tn51 t762 tsg1 tnw1, 1111
+H, H, 11, tx41 tnj tl31 t19 t74 t1j1 t622 tm42 t511 th92 t84, 11
+H, H, 6, tp02 ttb1 t622 tm42 t4p1 t8k, 6
+H, H, 7, t6d tkl tc11 t0f txf1 t622 td51, 7
+H, H, 8, tk6 tpc t562 tc11 tgc2 tns t8r1 tl3, 8
+H, H, 13, tpc t9j1 ttx tk62 t4n1 tn3 tw td41 tbb1 tc6 t5q tpg1 t1w, 13
+H, H, 11, tpc t881 t3l t412 tv32 tw tz82 tvc1 tkf1 tt8 tbd1, 11
+H, H, 13, tkl1 tj02 tqc1 tc t452 t38 t5b1 t412 thg1 t4k1 txf1 t021 tw11, 13
+H, H, 10, tnj twz t38 t69 t412 tf71 t64 t1j1 tb42 tp2, 10
+H, H, 12, tsv1 tx6 t78 tww tw t0r t1j1 t011 tlr1 ttt tz9 tw11, 12
+H, H, 11, t3j1 tj41 t0l1 tw52 t19 tkn t1j1 twg1 tz9 t802 t93, 11
+V, V, 5, tjl t19 t332 tx92 tl6 V, 5, tj6 tpd t912 t12 t8c, 55
+H, H, 5, tpd tcx tqp1 tdz1 t2m1, 5
+H, H, 13, t001 tn81 tt72 tld1 tfg1 tqp1 t0g tdk1 t8l txj tx51 t26 tnc2, 13
+H, H, 11, tz22 tnz1 t001 tfz tjn t651 t8l t0x t3k t3w tw81, 11
+H, H, 13, tz22 tv9 tmr1 t651 t6l1 t0z tqz tdv tn4 tvr tfz1 tjw tbd1, 13
+H, H, 14, tz22 tmd1 tqr1 tww tdp t332 t051 tm51 t6f tqz tt32 twg1 tjm1 tqv, 14
+H, H, 13, tc11 th71 tc51 tvs1 t1 tdp tgc tn51 tqz t8w tnc1 tll1 txk, 13
+H, H, 12, t992 tb02 tvs1 ttm t74 tm51 tgl1 tgc t291 tgt1 txn1 tlz1, 12
+H, H, 10, t561 t82 tc2 t74 t3b1 txf1 tt6 tzq1 tgt1 t711, 10
+H, H, 5, t462 tjb2 tb91 tgt1 t4m1, 5
+H, H, 12, t0f1 tbj tn12 t1v1 trx ttj1 t882 tjb2 td51 tl72 t9n tq3, 12
+H, H, 12, twj1 t572 t162 tjh tn81 tm21 tpn1 t88 t882 t802 tl72 t5s, 12
+H, H, 5, t98 thk1 t882 t02 t6c, 5
+H, H, 12, tpr tgn1 tvf tx72 tpp ttc1 t202 tb8 td th42 t6c tlz1, 12
+H, H, 5, tr82 tq52 ttb2 t312 tlz1, 5
+H, H, 10, trt t9d1 t3g tq52 td41 tl4 t2x1 tpb thc tlz1, 10
+H, H, 6, t8z1 tj52 tsw1 tq52 tk22 tn51, 6
+H, H, 12, t8z1 t242 th7 tpb2 t2c2 t031 tdp t032 t0g1 tb7 tpb tnq1, 12
+H, H, 13, tgq1 tb02 tpc2 tqs tn61 t161 tww ts02 tb7 tr1 txv1 t3k tnc2, 13
+H, H, 13, t0p t7p1 tk61 tr42 t0t tbw1 tpq1 tb7 tjt1 thr1 tf42 ttl1 tw81, 13
+H, H, 5, tr42 t1 tvj1 tf41 tvl1, 5
+H, H, 12, t0f1 t4c2 tl9 tz12 tvs1 t86 t691 tqx t9k tvl1 t9s1 t4d1, 12
+H, H, 11, t3q1 t33 t3p tvs1 tk22 tt9 t131 tc8 t9k tc9 t3x1, 11
+H, H, 6, t33 t3p tv91 t231 tmh t9h, 6
+H, H, 5, t33 t4d2 trr tc6 ts2, 5
+H, H, 13, t1z1 t33 t4d2 tzk1 t852 thv1 tww tqk1 tm42 th61 tsv t542 t4w, 13
+H, H, 12, t33 tbx1 t4d2 tc51 tp5 t91 tpr1 tm91 tb7 t4t1 t291 tb8, 12
+H, H, 6, tqq t291 thn twj tq42 t7l1, 6
+H, H, 10, thx t0j1 tgp1 ttz tq2 tqq tt11 tbc tr5 t4d1, 10
+H, H, 12, t8c1 tb12 t0j1 t002 t2x1 td72 t8j tkr1 t3t tk31 t39 t052, 12
+V, V, 5, tsv1 tx21 tlh tbc2 tx32 V, 5, t861 tdt t8t1 t2x1 tz4, 55
+H, H, 5, t861 tn6 tpr1 twg1 tcb, 5
+H, H, 12, tg52 t1p t8t tvb1 t8f t13 tbq t011 tkg1 twg1 t0b1 tz4, 12
+H, H, 6, tmn t792 tvb1 tfr1 tlr1 t43, 6
+H, H, 12, twz th32 t161 tvb1 t512 ttd tm91 tj8 t2n t6l t7g trk, 12
+H, H, 11, tz22 tgx t2d1 trk tt4 t4x1 tzg tph tbn1 tcn1 td32, 11
+H, H, 11, tjs1 t001 t4n1 tn12 tz32 t2m t5p1 tf8 t4x1 t5d2 t3w, 11
+H, H, 14, tjs1 tdh tj12 t6c2 twr1 tnz txf1 tf91 tsc2 t4t1 t55 t6w tpf tk71, 14
+H, H, 5, t551 tm81 t351 tqx txf1, 5
+H, H, 5, ths tts1 tm81 tt31 tq91, 5
+H, H, 11, t992 t242 t1c2 ttc tkg tm81 tq tds txg tm42 td4, 11
+H, H, 11, tm81 t35 t3b1 t34 tm02 tvr tvv td3 t6r1 t3k t0b1, 11
+H, H, 12, trt t1g t452 tk81 t3c1 tv tq7 t3v1 tvr twn1 th4 tzm, 12
+H, H, 5, trt ttb2 t7d td62 t921, 5
+H, H, 11, tvs1 tgj thp1 tbz t55 t921 tf2 tgb1 tfj tfp t3x1, 11
+H, H, 10, t001 tpd tvs1 t1v1 twr t1s tv tf2 t4m1 t76, 10
+H, H, 10, t2w trz tqt1 tx8 t4g1 t701 tbp1 t4m1 t76 txq, 10
+H, H, 7, thj1 t4l t1v1 t6g t111 t2q trc1, 7
+H, H, 13, tsj1 twc2 tc2 t4b1 t452 tzj1 t1v1 tsg tlw tpg1 tfp ttw1 t7v1, 13
+H, H, 12, tjs1 t881 tp21 tms1 tgc t3t tqx1 tnb tpg1 t3g1 td92 t311, 12
+H, H, 11, tfc2 t561 t5k tww t9q1 t35 tp41 tmc tdv tpg1 tkq1, 11
+H, H, 5, t561 t2r1 tfb2 tw92 t9w, 5
+H, H, 11, tfl1 t561 t0v1 t4j1 tv9 t332 t16 tgw1 t742 tgb1 tlz1, 11
+H, H, 5, tc31 tv9 tvt tw22 t96, 5
+H, H, 10, t9j1 t9x1 th12 tz91 tz82 tw22 tf42 t63 tcn1 tl22, 10
+H, H, 5, tvf t6r tf42 tgb2 t7m, 5
+H, H, 10, tnn t661 tvf t1v1 tr51 tvb1 tw tj91 t2m tf42, 10
+H, H, 11, tsj1 tmb tk6 t0h1 tt21 tvb1 txf1 tt11 tc8 t232 tr2, 11
+H, H, 11, tk6 t1f1 t86 t002 tgr t2k1 ttg1 thc1 t2t tf11 t391, 11
+H, H, 5, t622 t1n1 t9z1 thc1 tfj, 5
+H, H, 11, t672 tk6 thz t56 th22 t9z1 th52 t5v1 tf01 tbd1 trk, 11
+H, H, 12, tg3 tjl t6h tk61 trf tnv1 t1r tms t6j tnl t8b t672, 12
+H, H, 12, t81 tp42 tb81 t0l1 ttb1 tpm1 t9q1 tc61 t8j tnl tfz1 tqf, 12
+H, H, 5, t81 tx01 t0l1 tzn t342, 5
+H, H, 10, tqz1 tw82 tld1 t06 tzn tq81 tl6 t4t1 t342 td62, 10
+H, H, 11, tdk t6d tld1 tmr1 t792 t431 tsb1 tmh tt tt2 tcc, 11
+H, H, 12, t991 t0t1 tkc2 tkn tp72 t7n1 ttx1 t4q1 tt th61 tnl twn1, 12
+H, H, 11, t82 t1g t1f t7r1 tz9 tg8 t9k tt tn4 tq21 tzp, 11
+H, H, 11, tt51 t3r1 tfc1 t1g tqs t832 tl3 t5g t1s1 tmf td32, 11
+H, H, 10, tqz1 tpr t4w trr t7k1 tm81 tb7 tzl tgt1 td32, 10
+H, H, 10, tzx1 tl71 tft tj3 tj82 ts72 t3c1 t11 tz42 tb7, 10
+H, H, 10, th1 t3r1 tt42 t9x1 t3p1 td7 tgc ttd tz42 t8l, 10
+H, H, 10, tdk tfc2 t42 t3p1 tpl t24 tvc1 tjj1 t6c t311, 10
+H, H, 10, tfc2 t521 tt21 ttp t64 t7x t5f1 tf42 t0c tr8, 10
+H, H, 11, t81 t911 tt21 t882 tkp tp1 t202 tkn1 tcv1 t3x1 tpt, 11
+H, H, 10, t4n thr tgn t8t1 tr02 tht1 tj5 tcv1 twl t102, 10
+H, H, 4, tsq1 t8t1 tp12 tdg1, 4
+H, H, 11, tzj tdb2 tb12 t7v tk91 t211 tsq1 th9 tn4 tsw tf12, 11
+H, H, 10, tr61 tdb2 t281 t78 tjb1 ttm tvk tv1 tsq tcc, 10
+H, H, 11, tx41 tx71 tsq t762 t1n tvk tdm1 t0b1 tl1 t532 td92, 11
+H, H, 10, t1 t161 t5c1 t8t1 t3p1 tp41 t8h1 t692 t0w1 t532, 10
+H, H, 10, tj41 t161 tjz tf71 tk02 t8h1 t2d t6z tv22 t471, 10
+H, H, 5, tj41 t3q1 tgg tl81 tpx1, 5
+H, H, 11, t7p1 t3q1 tbx1 tgn t69 tq9 tdd1 t2k t692 td tzs1, 11
+H, H, 12, tk2 t7c2 t001 t572 t501 t322 tl2 thv1 t9c tnf td t63, 12
+H, H, 10, t7c2 t3g tdg1 t74 tv32 tmh1 txg tbn1 tdc2 thb1, 10
+H, H, 10, tpc tpc1 tdg1 td82 tpd t1 tkf tmz t6z t6c, 10
+H, H, 5, t8v t621 t172 tbw t73, 5
+H, H, 5, tbj tjw1 tnh t1h tqz, 5
+H, H, 11, tn71 tg7 tm9 t8v1 txd1 t5h1 tqz t4q1 tk31 t6w t5r1, 11
+H, H, 11, tsp tw91 tvx t7k t852 tdp tkj tw61 tjt tks1 t5r1, 11
+H, H, 10, tx01 tbm tdp tht1 t7n1 t622 trd1 tzg t8d t2v1, 10
+H, H, 10, trh t6k1 tm9 t38 tkc1 tnf tr1 tzg tzm1 t3x1, 10
+H, H, 10, tm7 t4r1 t031 t161 tkc1 t651 txk1 t5l1 t5v tc82, 10
+H, H, 5, thc t2f t88 tp7 tj9, 5
+H, H, 4, tzk1 t3q tf1 tpz, 4
+H, H, 10, tfw trm tk92 tmj1 tls1 t952 tcw1 tz21 tcq1 thr1, 10
+H, H, 10, tk82 tx11 trx t13 tnt t4q1 tdp1 t511 txj1 tnm, 10
+H, H, 10, tg7 t5t1 t5z1 tt21 t9q1 trx tb71 tng1 t55 t102, 10
+H, H, 10, tcl t991 tl9 tg7 t3p tqc t9w1 tqk1 t2m txz1, 10
+H, H, 10, t19 tqc tfb1 tr51 tcf1 tm02 tzh1 tkk txh1 t2m1, 10
+H, H, 10, tnj tq01 t771 tgr1 txx tlw1 thc2 txf1 tdd1 tb91, 10
+H, H, 10, t4n1 t38 tb5 t78 tn3 t34 tlr1 t3v1 thc1 t021, 10
+H, H, 10, t81 tp91 t0l1 t4s1 t412 t0q1 txd1 tjt tgb1 t532, 10
+H, H, 10, t001 tgn t3m tjc th61 tb22 tf2 td62 tgb2 tqv, 10
+H, H, 10, twq tfh1 t0f1 t4d2 t68 tw2 trr t1v1 t15 tw5, 10

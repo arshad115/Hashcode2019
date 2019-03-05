@@ -6,8 +6,9 @@ from itertools import islice
 # VerticalSamplePortion = 3
 
 class Parameters:
-    samplePortion = 1000
-    VerticalSamplePortion = 3
+    samplePortion = 300
+    VerticalSamplePortion = 150
+    ChildSamplePortion = 10
 
 def f5(seq, idfun=None):
    # order preserving
@@ -42,6 +43,14 @@ def smallest(a, y, z):
             Min = y
     return Min
 
+def smallofTwo(a, y):
+    Min = a
+    if y < Min:
+        Min = y
+    if y > Min:
+        Min = y
+    return Min
+
 def scoreSlides(slide1, slide2):
   AMinusB = slide1.getTags().difference(slide2.getTags()).__len__()
   AnB = slide1.getTags().intersection(slide2.getTags()).__len__()
@@ -57,8 +66,9 @@ def scorePhotos(photo1, photo2):
   APlusB = photo2.getTags().difference(photo1.getTags()).__len__()
   if photo1.getId() == photo2.getId():
       return 0;
-  min = smallest(AMinusB, AnB, APlusB)
-  return min
+  min = smallofTwo(AMinusB, APlusB)
+  # sending common elements, take min
+  return AnB
 
 def random_subset( iterator, K ):
     result = []
