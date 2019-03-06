@@ -3,7 +3,8 @@ from util import *
 
 def getBestPair(lastPhoto, remainingPhotos):
     dic = {}
-    localPhotos = (remainingPhotos[ : Parameters.VerticalSamplePortion])
+    localPhotos = (remainingPhotos[ : Parameters.VerticalSamplePortion]).copy()
+    localPhotos.remove(lastPhoto)
     for photo in localPhotos:
         dic[scorePhotos(lastPhoto, photo)] = photo
     selectedId = min(dic.keys())

@@ -9,13 +9,18 @@ def getBestSlide(lastSlide, remainingSlides):
     return dic[selectedId]
 
 def getBestSlideWithChild(lastSlide, remainingSlides):
+    dic = {}
     bestSlide = getBestSlide(lastSlide, remainingSlides)
-    localSlides = (remainingSlides[ :Parameters.ChildSamplePortion])
-    bestChild = getBestSlide(bestSlide, localSlides)
-
-    # scoreOfNextSlide = scoreSlides(lastSlide, bestSlide)
-    # scoreOfChildSlide = scoreSlides(bestChild, bestSlide)
-
+    bestChild = bestSlide
+    localSlides = (remainingSlides[:Parameters.ChildSamplePortion]).copy()
+    # localSlides = random_subset(remainingSlides, Parameters.ChildSamplePortion).copy()
+    if (localSlides.__len__() > 1):
+        scoreOfNextSlide = scoreSlides(lastSlide, bestSlide)
+        for slide in localSlides:
+            scoreOfChildSlide = scoreSlides(slide, bestSlide)
+            dic[scoreOfNextSlide + scoreOfChildSlide] = slide
+        selectedId = max(dic.keys())
+        bestChild = dic[selectedId]
     return bestSlide, bestChild
 
 def getInterestingSequenceWithList(slidesArr):
@@ -29,9 +34,13 @@ def getInterestingSequenceWithList(slidesArr):
   print("Total " + str(remainingSlides.__len__()) + " slides")
   while remainingSlides:
       print("Comparing " + str(i) + " with " + str(remainingSlides.__len__()) + " slides")
-      lastSlide = getBestSlide(lastSlide, remainingSlides);
+      lastSlide, bestChild  = getBestSlideWithChild(lastSlide, remainingSlides);
       slides.append(lastSlide)
       remainingSlides.remove(lastSlide)
+      if(remainingSlides.__len__()  > 1 and lastSlide!=bestChild):
+          slides.append(bestChild)
+          remainingSlides.remove(bestChild)
+          lastSlide = bestChild
       p = 100 * int(i)/(slidesArr.__len__())
       i += 1
       print("Done " + str(i) + " Percent: " + str(format(p, '.2f')) + "%")
