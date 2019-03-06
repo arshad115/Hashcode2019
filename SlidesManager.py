@@ -8,6 +8,18 @@ def getBestSlide(lastSlide, remainingSlides):
     selectedId = max(dic.keys())
     return dic[selectedId]
 
+def getBestSlideWithChildScoring(lastSlide, remainingSlides):
+    dic = {}
+    localSlides = (remainingSlides[ :Parameters.samplePortion])
+    for slide in localSlides:
+        bestChild = slide
+        childLocalSlides = (localSlides[ :10]).copy()
+        bestChild = getBestSlide(slide, childLocalSlides)
+        finalScore = scoreSlides(lastSlide, slide) + scoreSlides(slide, bestChild)
+        dic[finalScore] = [slide, bestChild]
+    selectedId = max(dic.keys())
+    return dic[selectedId]
+
 def getBestSlideWithChild(lastSlide, remainingSlides):
     dic = {}
     bestSlide = getBestSlide(lastSlide, remainingSlides)
