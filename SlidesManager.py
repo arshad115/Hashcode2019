@@ -1,4 +1,5 @@
 from util import *
+from more_itertools import split_after
 
 def getBestSlide(lastSlide, remainingSlides):
     dic = {}
@@ -13,9 +14,18 @@ def getBestSlideWithChildScoring(lastSlide, remainingSlides):
     localSlides = (remainingSlides[ :Parameters.samplePortion])
     for slide in localSlides:
         bestChild = slide
-        childLocalSlides = (localSlides[ :10]).copy()
-        bestChild = getBestSlide(slide, childLocalSlides)
-        finalScore = scoreSlides(lastSlide, slide) + scoreSlides(slide, bestChild)
+        listToSplit = localSlides.copy()
+        childScore = 0
+        if listToSplit.__len__() > 1:
+            try:
+                childLocalSlides = list(split_after(listToSplit, lambda x: x == slide))[1]
+                # childLocalSlides = (childLocalSlides[:Parameters.ChildSamplePortion]).copy()
+                childLocalSlides = random_subset(childLocalSlides, Parameters.ChildSamplePortion).copy()
+                bestChild = getBestSlide(slide, childLocalSlides)
+                childScore = scoreSlides(slide, bestChild)
+            except:
+                print('last slide has no child')
+        finalScore = scoreSlides(lastSlide, slide) + childScore
         dic[finalScore] = [slide, bestChild]
     selectedId = max(dic.keys())
     return dic[selectedId]
@@ -46,7 +56,7 @@ def getInterestingSequenceWithList(slidesArr):
   print("Total " + str(remainingSlides.__len__()) + " slides")
   while remainingSlides:
       print("Comparing " + str(i) + " with " + str(remainingSlides.__len__()) + " slides")
-      lastSlide, bestChild  = getBestSlideWithChild(lastSlide, remainingSlides);
+      lastSlide, bestChild  = getBestSlideWithChildScoring(lastSlide, remainingSlides);
       slides.append(lastSlide)
       remainingSlides.remove(lastSlide)
       if(remainingSlides.__len__()  > 1 and lastSlide!=bestChild):

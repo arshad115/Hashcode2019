@@ -6,8 +6,8 @@ from itertools import islice
 # VerticalSamplePortion = 3
 
 class Parameters:
-    samplePortion = 2500
-    VerticalSamplePortion = 1000
+    samplePortion = 300
+    VerticalSamplePortion = 150
     ChildSamplePortion = 300
 
 def f5(seq, idfun=None):
